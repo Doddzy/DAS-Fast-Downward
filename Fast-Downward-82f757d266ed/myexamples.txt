@@ -1,0 +1,39 @@
+from inside src/search/
+
+
+A*
+# landmark-cut heuristic 
+ ./downward --search "astar(lmcut())" < output
+
+# merge-and-shrink heuristic with default settings
+ ./downward --search "astar(merge_and_shrink())" < output
+
+# blind heuristic 
+ ./downward --search "astar(blind())" < output
+
+
+
+
+Lazy greedy best first search with preferred operators and the queue alternation method:
+# using FF heuristic and context-enhanced additive heuristic
+ ./downward --heuristic "hff=ff()" --heuristic "hcea=cea()" \
+            --search "lazy_greedy([hff, hcea], preferred=[hff, hcea])" \
+            < output
+
+# using FF heuristic
+ ./downward --heuristic "hff=ff()" \
+            --search "lazy_greedy(hff, preferred=hff)" \
+            < output
+
+# using context-enhanced additive heuristic
+ ./downward --heuristic "hcea=cea()" \
+            --search "lazy_greedy(hcea, preferred=hcea)" \
+            < output
+
+"lazy"
+"lazy_wastar" 
+"lazy_greedy"
+as well
+
+
+./downward --heuristic "h=merge_and_shrink()" --search "iterated([lazy_wastar(h,w=10), lazy_wastar(h,w=5), lazy_wastar(h,w=3), lazy_wastar(h,w=2), lazy_wastar(h,w=1)])"

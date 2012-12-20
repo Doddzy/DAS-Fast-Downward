@@ -1,0 +1,3 @@
+#!/bin/bash
+make
+./downward --search "das(blind())"

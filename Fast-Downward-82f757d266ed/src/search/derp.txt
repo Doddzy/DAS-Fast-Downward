@@ -1,0 +1,91 @@
+Dispatcher selected state size 1.
+This is a unit task.
+Simplifying transitions... done!
+start of _parse_dasreturning from _parse_dasstart of _parse_dasengine about to be madeengine made and prefs setreturning from _parse_dasConducting lazy best first search, (real) bound = 2147483647
+initilize
+end init
+step running
+Initializing blind search heuristic...
+Best heuristic value: 1 [g=0, 1 evaluated, 0 expanded, t=0s]
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+start generate success
+start get_successor_operators
+end get success operstors
+end generate success
+in fetch_next_state
+step running
+Solution found!
+Actual search time: 0s [t=0s]
+move_seg_rw_0_400_seg_rww_0_50_south_south_medium airplane_cfbeg (1)
+move_seg_rww_0_50_seg_tww4_0_50_south_north_medium airplane_cfbeg (1)
+move_seg_tww4_0_50_seg_tww3_0_50_north_north_medium airplane_cfbeg (1)
+move_seg_tww3_0_50_seg_tww2_0_50_north_north_medium airplane_cfbeg (1)
+move_seg_tww2_0_50_seg_tww1_0_200_north_north_medium airplane_cfbeg (1)
+move_seg_tww1_0_200_seg_ppdoor_0_40_north_south_medium airplane_cfbeg (1)
+move_seg_ppdoor_0_40_seg_pp_0_60_south_south_medium airplane_cfbeg (1)
+park_seg_pp_0_60_south airplane_cfbeg (1)
+Plan length: 8 step(s).
+Plan cost: 8
+Initial state h value: 1.
+Expanded 10 state(s).
+Reopened 0 state(s).
+Evaluated 11 state(s).
+Evaluations: 11
+Generated 11 state(s).
+Dead ends: 0 state(s).
+Search time: 0s
+Total time: 0s
+Peak memory: 6092 KB

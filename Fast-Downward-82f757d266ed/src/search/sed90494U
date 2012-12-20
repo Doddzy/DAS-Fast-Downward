@@ -1,0 +1,11 @@
+g_evaluator.o: g_evaluator.cc g_evaluator.h scalar_evaluator.h \
+ evaluator.h option_parser.h option_parser_util.h \
+ merge_and_shrink/shrink_strategy.h heuristic.h operator_cost.h plugin.h \
+ open_lists/standard_scalar_open_list.h open_lists/open_list.h \
+ open_lists/../evaluator.h open_lists/../option_parser.h \
+ open_lists/standard_scalar_open_list.cc open_lists/../scalar_evaluator.h \
+ open_lists/open_list_buckets.h open_lists/open_list_buckets.cc \
+ open_lists/tiebreaking_open_list.h open_lists/tiebreaking_open_list.cc \
+ open_lists/alternation_open_list.h open_lists/../plugin.h \
+ open_lists/alternation_open_list.cc open_lists/pareto_open_list.h \
+ open_lists/pareto_open_list.cc
