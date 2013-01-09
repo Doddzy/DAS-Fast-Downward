@@ -28,6 +28,7 @@ class DASSearch : public SearchEngine {
 
 
     SlidingWindow *sliding;
+    SlidingWindow *sliding_heuristic;
     HeapQueue<SearchNode *> *pruned_list;
     //timing information
     clock_t start;    

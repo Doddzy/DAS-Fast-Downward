@@ -139,6 +139,11 @@ int SearchNode::get_expanded_num(){
 void SearchNode::set_expanded_num(int num){
     info.expanded=num;
 }
+int SearchNode::get_parent_cost(){
+if(info.creating_operator==0)
+	return -8;
+    return info.creating_operator->get_cost();
+}
 class SearchSpace::HashTable
     : public __gnu_cxx::hash_map<StateProxy, SearchNodeInfo> {
     // This is more like a typedef really, but we need a proper class

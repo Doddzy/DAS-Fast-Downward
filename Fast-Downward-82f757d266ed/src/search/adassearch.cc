@@ -26,17 +26,16 @@ DASSearch::DASSearch(
             opts.get_list<Heuristic *>("preferred");
     }
     sliding= new SlidingWindow(50);
+    sliding_heuristic = new SlidingWindow(50);
     expandedCount=0;
 }
 void DASSearch::myinit(){
     incumbent=false;
-deadline=1000;
+deadline=5000;
     pruned_list = new HeapQueue<SearchNode *>();
     pruned_list->clear();
     start = clock();
-    for(int i=0;i<500;i++)
-	std::cout<<"i"<<endl;
-   std::cout<<"derpy start"<<start<<"derpy"<<clock()-start<<endl;
+
 }
 void DASSearch::initialize() {
     //TODO children classes should output which kind of search
@@ -106,44 +105,63 @@ void DASSearch::statistics() const {
 }
 int DASSearch::time_left(){
     //unsigned long millis= (clock()-start)*1000/ CLOCKS_PER_SEC;
-std::cout<<"TIME TAKEN IS is"<<g_timer()*1000<<"ms"<<endl;
+//std::cout<<"TIME TAKEN IS is"<<g_timer()*1000<<"ms"<<endl;
 	return deadline-(g_timer()*1000);
 }
 int DASSearch::calc_remaining_expansions(){
-std::cout<<"remaining exp"<<endl;
+//std::cout<<"remaining exp"<<endl;
+//cout<<"derp0"<<endl;
    unsigned long millis_used= (clock()-start)*1000/ CLOCKS_PER_SEC;
-   int temp =  (((unsigned long)deadline)
-            -millis_used)*
-          ((unsigned long)(millis_used/
-          ((unsigned long)expandedCount)));
-std::cout<<"returniningggnud"<<endl;
+   if(millis_used==0)
+	return 2000000000;
+   unsigned long timeleft=((unsigned long)(
+		(
+            	 (unsigned long)deadline)
+            	-(unsigned long)millis_used));
+//cout<<"derp1"<<endl;
+   float rightSide =  (float)expandedCount/
+            	   millis_used;
+int temp = timeleft *rightSide;
+//cout<<"derp2"<<endl;
+
+
    return temp;
 }
 bool DASSearch::recover_pruned_states(){
+if(pruned_list->empty())
+    return false;
     std::cout<<"recovering pruned states"<<endl;
     int exp = calc_remaining_expansions();
-    while(exp >0 && !pruned_list->empty()){
+    while(exp >=0 && !pruned_list->empty()){
 	SearchNode *s = pruned_list->pop().second;
 	open_list->insert(s->get_state_buffer());
+//std::cout<<"exp is" << exp<< "dcheapest"<<dcheapest(s)<<endl;
         exp -=dcheapest(s);
 	//exp -= dist(s); 
     }
+    std::cout<<"emptying sliding"<<std::endl;
+    sliding->empty();
 return true;
 }
 int DASSearch::dcheapest(SearchNode *node){
-    int min_h=0;       
+  //  int min_h=0;     
+/**  
     for (int i = 0; i < preferred_operator_heuristics.size(); i++) {
         Heuristic *h = preferred_operator_heuristics[i];
         h->evaluate(node->get_state());
 //keep min heuristic value
         int temp = h->get_value();
-
+	std::cout<<"IS THIS EVEN RUNNING"<<std::endl;
         if (!h->is_dead_end()) {
              min_h=temp;       
        }
-    }
-    search_progress.inc_evaluations(preferred_operator_heuristics.size());
-return min_h;
+    }*/
+int sliding_val =sliding_heuristic->evaluate();
+if(sliding_val==0)
+    return 1;
+return node->get_h()/sliding_val;
+   // search_progress.inc_evaluations(preferred_operator_heuristics.size());
+
 
 }
 int DASSearch::step() {
@@ -162,24 +180,29 @@ std::cout<<"derp calling unprune"<<endl;
 //return FAILED;
     }
     SearchNode node = n.first;
-    
+    sliding->add(expandedCount-node.get_expanded_num());
     State s = node.get_state();
     if (check_goal_and_set_plan(s)){
 		incumbent=true;
+std::cout<<"FOUND"<<endl;
         return SOLVED;
 	}
 	
     vector<const Operator *> applicable_ops;
     set<const Operator *> preferred_ops;
     int min_h=0;
+    min_h=node.get_parent_cost();
+    if(min_h!=-8)
+        sliding_heuristic->add(min_h);
     g_successor_generator->generate_applicable_ops(s, applicable_ops);
+    //never runs for das so far
     // This evaluates the expanded state (again) to get preferred ops
     for (int i = 0; i < preferred_operator_heuristics.size(); i++) {
         Heuristic *h = preferred_operator_heuristics[i];
         h->evaluate(s);
 //keep min heuristic value
         int temp = h->get_value();
-
+std::cout<<"temp is"<<temp<<endl;
         if (!h->is_dead_end()) {
             // In an alternation search with unreliable heuristics, it is
             // possible that this heuristic considers the state a dead end.
@@ -194,19 +217,25 @@ std::cout<<"derp calling unprune"<<endl;
 	
 	
 	//if d(s) >dmax dont do this, prune instead
-std::cout<<"calcing dmax"<<endl;
+/***std::cout<<"calcing dmax"<<endl;
 std::cout<<"eval is"<<sliding->evaluate()<<endl;
-std::cout<<"after eval"<<endl;    
+std::cout<<"after eval"<<endl;  */  
 unsigned long slide_val = sliding->evaluate();
 	if(slide_val==((unsigned long)-1))
 	    dmax=-1;
         else
-	    dmax=calc_remaining_expansions()/slide_val;  
-std::cout<<"calcled dmax"<<dmax<<endl;  
-    if(dmax >= 0 && dmax < min_h ){
+	    dmax=calc_remaining_expansions()/slide_val;
+//std::cout<<"dmax2 "<<dmax<<"slide val"<<slide_val<<endl;
+int avg_h  = sliding_heuristic->evaluate();
+if(avg_h==-1)
+    avg_h=1;
+//std::cout<<"calcled dmax"<<dmax<<endl;
+//std::cout<<"avg h cost is" <<avg_h<<"node_h /avg_h = "<<dcheapest(&node)<<endl;  
+//TODO DODD make sliding h values
+    if(dmax >= 0 && dmax < dcheapest(&node) ){
 
         pruned_list->push(node.get_g()+node.get_h(),&node);
-std::cout<<"pruned and recalling step"<<endl;        
+//std::cout<<"pruned and recalling step"<<endl;        
 return step();    
 }
     else{
@@ -244,6 +273,7 @@ return step();
         }
 
         if (succ_node.is_new()) {
+	    succ_node.set_expanded_num(expandedCount);
             // We have not seen this state before.
             // Evaluate and create a new node.
             for (size_t i = 0; i < heuristics.size(); i++)
@@ -304,6 +334,7 @@ return step();
                 open_list->evaluate(succ_node.get_g(), is_preferred);
 
                 open_list->insert(succ_node.get_state_buffer());
+                
             } else {
                 // if we do not reopen closed nodes, we just update the parent pointers
                 // Note that this could cause an incompatibility between
@@ -330,6 +361,7 @@ pair<SearchNode, bool> DASSearch::fetch_next_node() {
     while (true) {
         if (open_list->empty()) {
             cout << "Completely explored state space -- check prunes?!" << endl;
+            recover_pruned_states();
             return make_pair(search_space.get_node(*g_initial_state), false);
         }
         vector<int> last_key_removed;

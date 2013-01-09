@@ -13,6 +13,9 @@ enum state_space_sample_t {Probe = 0, ProbAStar = 1, PDB = 2};
 typedef map<State, vector<int> > sample_t;
 
 class StateSpaceSample {
+
+
+
 protected:
     // parameters
     bool uniform_sampling;

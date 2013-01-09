@@ -15,12 +15,13 @@ unsigned long SlidingWindow::evaluate(){
 		return -1;
 	else
 	{
-return 7;
+
 		int sum=0;
 		for(int i=0;i<amount;i++)
-			sum+=window[i];
+		     sum+=window[i];
 		if(amount==0)
 			return -1;
+
 		return ((unsigned long)sum/amount);
 	}
 }
@@ -29,12 +30,13 @@ void SlidingWindow::add(int num){
 		curr=0;
 	window[curr++]=num;
 	total++;
+//std::cout<<"total is"<<total<<std::endl;
 }
 void SlidingWindow::empty(){
 
-	for(int i=0;i<amount;i++){
+	/*for(int i=0;i<amount;i++){
 	    window[i]=0;
-	}
+	}*/
 	total=0;
 	curr=0;
 }

@@ -54,6 +54,7 @@ public:
     void dump();
     int get_expanded_num();
     void set_expanded_num(int num);
+    int get_parent_cost();
 
 };
 

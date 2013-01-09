@@ -15,8 +15,9 @@ using namespace std;
 
 #ifdef __APPLE__
 static void exit_handler();
+/**Dodd change
 #else
-static void exit_handler(int exit_code, void *hint);
+static void exit_handler(int exit_code, void *hint);*/
 #endif
 
 static void signal_handler(int signal_number);
@@ -26,8 +27,10 @@ void register_event_handlers() {
     // print the peak memory usage.
 #ifdef __APPLE__
     atexit(exit_handler);
+/**dodd change
 #else
-    on_exit(exit_handler, 0);
+   // on_exit(exit_handler, 0);
+   */
 #endif
     signal(SIGABRT, signal_handler);
     signal(SIGTERM, signal_handler);
@@ -37,11 +40,14 @@ void register_event_handlers() {
 
 #ifdef __APPLE__
 void exit_handler() {
+/**DOdd changed
 #else
 void exit_handler(int, void *) {
 #endif
-    print_peak_memory();
-}
+exit();
+    //print_peak_memory();
+}*/
+#endif
 
 void signal_handler(int signal_number) {
     // See glibc manual: "Handlers That Terminate the Process"

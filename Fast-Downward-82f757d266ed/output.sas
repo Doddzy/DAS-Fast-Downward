@@ -4,39832 +4,18212 @@ end_version
 begin_metric
 1
 end_metric
-30
+210
 begin_variable
 var0
 -1
-21
-Atom boarded(p0, fast0)
-Atom boarded(p0, fast1)
-Atom boarded(p0, slow0-0)
-Atom boarded(p0, slow1-0)
-Atom passenger-at(p0, n0)
-Atom passenger-at(p0, n1)
-Atom passenger-at(p0, n10)
-Atom passenger-at(p0, n11)
-Atom passenger-at(p0, n12)
-Atom passenger-at(p0, n13)
-Atom passenger-at(p0, n14)
-Atom passenger-at(p0, n15)
-Atom passenger-at(p0, n16)
-Atom passenger-at(p0, n2)
-Atom passenger-at(p0, n3)
-Atom passenger-at(p0, n4)
-Atom passenger-at(p0, n5)
-Atom passenger-at(p0, n6)
-Atom passenger-at(p0, n7)
-Atom passenger-at(p0, n8)
-Atom passenger-at(p0, n9)
+2
+Atom clean(shaker1)
+<none of those>
 end_variable
 begin_variable
 var1
 -1
-21
-Atom boarded(p1, fast0)
-Atom boarded(p1, fast1)
-Atom boarded(p1, slow0-0)
-Atom boarded(p1, slow1-0)
-Atom passenger-at(p1, n0)
-Atom passenger-at(p1, n1)
-Atom passenger-at(p1, n10)
-Atom passenger-at(p1, n11)
-Atom passenger-at(p1, n12)
-Atom passenger-at(p1, n13)
-Atom passenger-at(p1, n14)
-Atom passenger-at(p1, n15)
-Atom passenger-at(p1, n16)
-Atom passenger-at(p1, n2)
-Atom passenger-at(p1, n3)
-Atom passenger-at(p1, n4)
-Atom passenger-at(p1, n5)
-Atom passenger-at(p1, n6)
-Atom passenger-at(p1, n7)
-Atom passenger-at(p1, n8)
-Atom passenger-at(p1, n9)
+2
+Atom clean(shot1)
+<none of those>
 end_variable
 begin_variable
 var2
 -1
-21
-Atom boarded(p10, fast0)
-Atom boarded(p10, fast1)
-Atom boarded(p10, slow0-0)
-Atom boarded(p10, slow1-0)
-Atom passenger-at(p10, n0)
-Atom passenger-at(p10, n1)
-Atom passenger-at(p10, n10)
-Atom passenger-at(p10, n11)
-Atom passenger-at(p10, n12)
-Atom passenger-at(p10, n13)
-Atom passenger-at(p10, n14)
-Atom passenger-at(p10, n15)
-Atom passenger-at(p10, n16)
-Atom passenger-at(p10, n2)
-Atom passenger-at(p10, n3)
-Atom passenger-at(p10, n4)
-Atom passenger-at(p10, n5)
-Atom passenger-at(p10, n6)
-Atom passenger-at(p10, n7)
-Atom passenger-at(p10, n8)
-Atom passenger-at(p10, n9)
+2
+Atom clean(shot10)
+<none of those>
 end_variable
 begin_variable
 var3
 -1
-21
-Atom boarded(p11, fast0)
-Atom boarded(p11, fast1)
-Atom boarded(p11, slow0-0)
-Atom boarded(p11, slow1-0)
-Atom passenger-at(p11, n0)
-Atom passenger-at(p11, n1)
-Atom passenger-at(p11, n10)
-Atom passenger-at(p11, n11)
-Atom passenger-at(p11, n12)
-Atom passenger-at(p11, n13)
-Atom passenger-at(p11, n14)
-Atom passenger-at(p11, n15)
-Atom passenger-at(p11, n16)
-Atom passenger-at(p11, n2)
-Atom passenger-at(p11, n3)
-Atom passenger-at(p11, n4)
-Atom passenger-at(p11, n5)
-Atom passenger-at(p11, n6)
-Atom passenger-at(p11, n7)
-Atom passenger-at(p11, n8)
-Atom passenger-at(p11, n9)
+2
+Atom clean(shot2)
+<none of those>
 end_variable
 begin_variable
 var4
 -1
-21
-Atom boarded(p12, fast0)
-Atom boarded(p12, fast1)
-Atom boarded(p12, slow0-0)
-Atom boarded(p12, slow1-0)
-Atom passenger-at(p12, n0)
-Atom passenger-at(p12, n1)
-Atom passenger-at(p12, n10)
-Atom passenger-at(p12, n11)
-Atom passenger-at(p12, n12)
-Atom passenger-at(p12, n13)
-Atom passenger-at(p12, n14)
-Atom passenger-at(p12, n15)
-Atom passenger-at(p12, n16)
-Atom passenger-at(p12, n2)
-Atom passenger-at(p12, n3)
-Atom passenger-at(p12, n4)
-Atom passenger-at(p12, n5)
-Atom passenger-at(p12, n6)
-Atom passenger-at(p12, n7)
-Atom passenger-at(p12, n8)
-Atom passenger-at(p12, n9)
+2
+Atom clean(shot3)
+<none of those>
 end_variable
 begin_variable
 var5
 -1
-21
-Atom boarded(p13, fast0)
-Atom boarded(p13, fast1)
-Atom boarded(p13, slow0-0)
-Atom boarded(p13, slow1-0)
-Atom passenger-at(p13, n0)
-Atom passenger-at(p13, n1)
-Atom passenger-at(p13, n10)
-Atom passenger-at(p13, n11)
-Atom passenger-at(p13, n12)
-Atom passenger-at(p13, n13)
-Atom passenger-at(p13, n14)
-Atom passenger-at(p13, n15)
-Atom passenger-at(p13, n16)
-Atom passenger-at(p13, n2)
-Atom passenger-at(p13, n3)
-Atom passenger-at(p13, n4)
-Atom passenger-at(p13, n5)
-Atom passenger-at(p13, n6)
-Atom passenger-at(p13, n7)
-Atom passenger-at(p13, n8)
-Atom passenger-at(p13, n9)
+2
+Atom clean(shot4)
+<none of those>
 end_variable
 begin_variable
 var6
 -1
-21
-Atom boarded(p14, fast0)
-Atom boarded(p14, fast1)
-Atom boarded(p14, slow0-0)
-Atom boarded(p14, slow1-0)
-Atom passenger-at(p14, n0)
-Atom passenger-at(p14, n1)
-Atom passenger-at(p14, n10)
-Atom passenger-at(p14, n11)
-Atom passenger-at(p14, n12)
-Atom passenger-at(p14, n13)
-Atom passenger-at(p14, n14)
-Atom passenger-at(p14, n15)
-Atom passenger-at(p14, n16)
-Atom passenger-at(p14, n2)
-Atom passenger-at(p14, n3)
-Atom passenger-at(p14, n4)
-Atom passenger-at(p14, n5)
-Atom passenger-at(p14, n6)
-Atom passenger-at(p14, n7)
-Atom passenger-at(p14, n8)
-Atom passenger-at(p14, n9)
+2
+Atom clean(shot5)
+<none of those>
 end_variable
 begin_variable
 var7
 -1
-21
-Atom boarded(p15, fast0)
-Atom boarded(p15, fast1)
-Atom boarded(p15, slow0-0)
-Atom boarded(p15, slow1-0)
-Atom passenger-at(p15, n0)
-Atom passenger-at(p15, n1)
-Atom passenger-at(p15, n10)
-Atom passenger-at(p15, n11)
-Atom passenger-at(p15, n12)
-Atom passenger-at(p15, n13)
-Atom passenger-at(p15, n14)
-Atom passenger-at(p15, n15)
-Atom passenger-at(p15, n16)
-Atom passenger-at(p15, n2)
-Atom passenger-at(p15, n3)
-Atom passenger-at(p15, n4)
-Atom passenger-at(p15, n5)
-Atom passenger-at(p15, n6)
-Atom passenger-at(p15, n7)
-Atom passenger-at(p15, n8)
-Atom passenger-at(p15, n9)
+2
+Atom clean(shot6)
+<none of those>
 end_variable
 begin_variable
 var8
 -1
-21
-Atom boarded(p16, fast0)
-Atom boarded(p16, fast1)
-Atom boarded(p16, slow0-0)
-Atom boarded(p16, slow1-0)
-Atom passenger-at(p16, n0)
-Atom passenger-at(p16, n1)
-Atom passenger-at(p16, n10)
-Atom passenger-at(p16, n11)
-Atom passenger-at(p16, n12)
-Atom passenger-at(p16, n13)
-Atom passenger-at(p16, n14)
-Atom passenger-at(p16, n15)
-Atom passenger-at(p16, n16)
-Atom passenger-at(p16, n2)
-Atom passenger-at(p16, n3)
-Atom passenger-at(p16, n4)
-Atom passenger-at(p16, n5)
-Atom passenger-at(p16, n6)
-Atom passenger-at(p16, n7)
-Atom passenger-at(p16, n8)
-Atom passenger-at(p16, n9)
+2
+Atom clean(shot7)
+<none of those>
 end_variable
 begin_variable
 var9
 -1
-21
-Atom boarded(p17, fast0)
-Atom boarded(p17, fast1)
-Atom boarded(p17, slow0-0)
-Atom boarded(p17, slow1-0)
-Atom passenger-at(p17, n0)
-Atom passenger-at(p17, n1)
-Atom passenger-at(p17, n10)
-Atom passenger-at(p17, n11)
-Atom passenger-at(p17, n12)
-Atom passenger-at(p17, n13)
-Atom passenger-at(p17, n14)
-Atom passenger-at(p17, n15)
-Atom passenger-at(p17, n16)
-Atom passenger-at(p17, n2)
-Atom passenger-at(p17, n3)
-Atom passenger-at(p17, n4)
-Atom passenger-at(p17, n5)
-Atom passenger-at(p17, n6)
-Atom passenger-at(p17, n7)
-Atom passenger-at(p17, n8)
-Atom passenger-at(p17, n9)
+2
+Atom clean(shot8)
+<none of those>
 end_variable
 begin_variable
 var10
 -1
-21
-Atom boarded(p18, fast0)
-Atom boarded(p18, fast1)
-Atom boarded(p18, slow0-0)
-Atom boarded(p18, slow1-0)
-Atom passenger-at(p18, n0)
-Atom passenger-at(p18, n1)
-Atom passenger-at(p18, n10)
-Atom passenger-at(p18, n11)
-Atom passenger-at(p18, n12)
-Atom passenger-at(p18, n13)
-Atom passenger-at(p18, n14)
-Atom passenger-at(p18, n15)
-Atom passenger-at(p18, n16)
-Atom passenger-at(p18, n2)
-Atom passenger-at(p18, n3)
-Atom passenger-at(p18, n4)
-Atom passenger-at(p18, n5)
-Atom passenger-at(p18, n6)
-Atom passenger-at(p18, n7)
-Atom passenger-at(p18, n8)
-Atom passenger-at(p18, n9)
+2
+Atom clean(shot9)
+<none of those>
 end_variable
 begin_variable
 var11
 -1
-21
-Atom boarded(p19, fast0)
-Atom boarded(p19, fast1)
-Atom boarded(p19, slow0-0)
-Atom boarded(p19, slow1-0)
-Atom passenger-at(p19, n0)
-Atom passenger-at(p19, n1)
-Atom passenger-at(p19, n10)
-Atom passenger-at(p19, n11)
-Atom passenger-at(p19, n12)
-Atom passenger-at(p19, n13)
-Atom passenger-at(p19, n14)
-Atom passenger-at(p19, n15)
-Atom passenger-at(p19, n16)
-Atom passenger-at(p19, n2)
-Atom passenger-at(p19, n3)
-Atom passenger-at(p19, n4)
-Atom passenger-at(p19, n5)
-Atom passenger-at(p19, n6)
-Atom passenger-at(p19, n7)
-Atom passenger-at(p19, n8)
-Atom passenger-at(p19, n9)
+2
+Atom contains(shaker1, cocktail1)
+<none of those>
 end_variable
 begin_variable
 var12
 -1
-21
-Atom boarded(p2, fast0)
-Atom boarded(p2, fast1)
-Atom boarded(p2, slow0-0)
-Atom boarded(p2, slow1-0)
-Atom passenger-at(p2, n0)
-Atom passenger-at(p2, n1)
-Atom passenger-at(p2, n10)
-Atom passenger-at(p2, n11)
-Atom passenger-at(p2, n12)
-Atom passenger-at(p2, n13)
-Atom passenger-at(p2, n14)
-Atom passenger-at(p2, n15)
-Atom passenger-at(p2, n16)
-Atom passenger-at(p2, n2)
-Atom passenger-at(p2, n3)
-Atom passenger-at(p2, n4)
-Atom passenger-at(p2, n5)
-Atom passenger-at(p2, n6)
-Atom passenger-at(p2, n7)
-Atom passenger-at(p2, n8)
-Atom passenger-at(p2, n9)
+2
+Atom contains(shaker1, cocktail2)
+<none of those>
 end_variable
 begin_variable
 var13
 -1
-21
-Atom boarded(p20, fast0)
-Atom boarded(p20, fast1)
-Atom boarded(p20, slow0-0)
-Atom boarded(p20, slow1-0)
-Atom passenger-at(p20, n0)
-Atom passenger-at(p20, n1)
-Atom passenger-at(p20, n10)
-Atom passenger-at(p20, n11)
-Atom passenger-at(p20, n12)
-Atom passenger-at(p20, n13)
-Atom passenger-at(p20, n14)
-Atom passenger-at(p20, n15)
-Atom passenger-at(p20, n16)
-Atom passenger-at(p20, n2)
-Atom passenger-at(p20, n3)
-Atom passenger-at(p20, n4)
-Atom passenger-at(p20, n5)
-Atom passenger-at(p20, n6)
-Atom passenger-at(p20, n7)
-Atom passenger-at(p20, n8)
-Atom passenger-at(p20, n9)
+2
+Atom contains(shaker1, cocktail3)
+<none of those>
 end_variable
 begin_variable
 var14
 -1
-21
-Atom boarded(p21, fast0)
-Atom boarded(p21, fast1)
-Atom boarded(p21, slow0-0)
-Atom boarded(p21, slow1-0)
-Atom passenger-at(p21, n0)
-Atom passenger-at(p21, n1)
-Atom passenger-at(p21, n10)
-Atom passenger-at(p21, n11)
-Atom passenger-at(p21, n12)
-Atom passenger-at(p21, n13)
-Atom passenger-at(p21, n14)
-Atom passenger-at(p21, n15)
-Atom passenger-at(p21, n16)
-Atom passenger-at(p21, n2)
-Atom passenger-at(p21, n3)
-Atom passenger-at(p21, n4)
-Atom passenger-at(p21, n5)
-Atom passenger-at(p21, n6)
-Atom passenger-at(p21, n7)
-Atom passenger-at(p21, n8)
-Atom passenger-at(p21, n9)
+2
+Atom contains(shaker1, cocktail4)
+<none of those>
 end_variable
 begin_variable
 var15
 -1
-21
-Atom boarded(p3, fast0)
-Atom boarded(p3, fast1)
-Atom boarded(p3, slow0-0)
-Atom boarded(p3, slow1-0)
-Atom passenger-at(p3, n0)
-Atom passenger-at(p3, n1)
-Atom passenger-at(p3, n10)
-Atom passenger-at(p3, n11)
-Atom passenger-at(p3, n12)
-Atom passenger-at(p3, n13)
-Atom passenger-at(p3, n14)
-Atom passenger-at(p3, n15)
-Atom passenger-at(p3, n16)
-Atom passenger-at(p3, n2)
-Atom passenger-at(p3, n3)
-Atom passenger-at(p3, n4)
-Atom passenger-at(p3, n5)
-Atom passenger-at(p3, n6)
-Atom passenger-at(p3, n7)
-Atom passenger-at(p3, n8)
-Atom passenger-at(p3, n9)
+2
+Atom contains(shaker1, cocktail5)
+<none of those>
 end_variable
 begin_variable
 var16
 -1
-21
-Atom boarded(p4, fast0)
-Atom boarded(p4, fast1)
-Atom boarded(p4, slow0-0)
-Atom boarded(p4, slow1-0)
-Atom passenger-at(p4, n0)
-Atom passenger-at(p4, n1)
-Atom passenger-at(p4, n10)
-Atom passenger-at(p4, n11)
-Atom passenger-at(p4, n12)
-Atom passenger-at(p4, n13)
-Atom passenger-at(p4, n14)
-Atom passenger-at(p4, n15)
-Atom passenger-at(p4, n16)
-Atom passenger-at(p4, n2)
-Atom passenger-at(p4, n3)
-Atom passenger-at(p4, n4)
-Atom passenger-at(p4, n5)
-Atom passenger-at(p4, n6)
-Atom passenger-at(p4, n7)
-Atom passenger-at(p4, n8)
-Atom passenger-at(p4, n9)
+2
+Atom contains(shaker1, cocktail6)
+<none of those>
 end_variable
 begin_variable
 var17
 -1
-21
-Atom boarded(p5, fast0)
-Atom boarded(p5, fast1)
-Atom boarded(p5, slow0-0)
-Atom boarded(p5, slow1-0)
-Atom passenger-at(p5, n0)
-Atom passenger-at(p5, n1)
-Atom passenger-at(p5, n10)
-Atom passenger-at(p5, n11)
-Atom passenger-at(p5, n12)
-Atom passenger-at(p5, n13)
-Atom passenger-at(p5, n14)
-Atom passenger-at(p5, n15)
-Atom passenger-at(p5, n16)
-Atom passenger-at(p5, n2)
-Atom passenger-at(p5, n3)
-Atom passenger-at(p5, n4)
-Atom passenger-at(p5, n5)
-Atom passenger-at(p5, n6)
-Atom passenger-at(p5, n7)
-Atom passenger-at(p5, n8)
-Atom passenger-at(p5, n9)
+2
+Atom contains(shaker1, cocktail7)
+<none of those>
 end_variable
 begin_variable
 var18
 -1
-21
-Atom boarded(p6, fast0)
-Atom boarded(p6, fast1)
-Atom boarded(p6, slow0-0)
-Atom boarded(p6, slow1-0)
-Atom passenger-at(p6, n0)
-Atom passenger-at(p6, n1)
-Atom passenger-at(p6, n10)
-Atom passenger-at(p6, n11)
-Atom passenger-at(p6, n12)
-Atom passenger-at(p6, n13)
-Atom passenger-at(p6, n14)
-Atom passenger-at(p6, n15)
-Atom passenger-at(p6, n16)
-Atom passenger-at(p6, n2)
-Atom passenger-at(p6, n3)
-Atom passenger-at(p6, n4)
-Atom passenger-at(p6, n5)
-Atom passenger-at(p6, n6)
-Atom passenger-at(p6, n7)
-Atom passenger-at(p6, n8)
-Atom passenger-at(p6, n9)
+2
+Atom contains(shaker1, cocktail8)
+<none of those>
 end_variable
 begin_variable
 var19
 -1
-21
-Atom boarded(p7, fast0)
-Atom boarded(p7, fast1)
-Atom boarded(p7, slow0-0)
-Atom boarded(p7, slow1-0)
-Atom passenger-at(p7, n0)
-Atom passenger-at(p7, n1)
-Atom passenger-at(p7, n10)
-Atom passenger-at(p7, n11)
-Atom passenger-at(p7, n12)
-Atom passenger-at(p7, n13)
-Atom passenger-at(p7, n14)
-Atom passenger-at(p7, n15)
-Atom passenger-at(p7, n16)
-Atom passenger-at(p7, n2)
-Atom passenger-at(p7, n3)
-Atom passenger-at(p7, n4)
-Atom passenger-at(p7, n5)
-Atom passenger-at(p7, n6)
-Atom passenger-at(p7, n7)
-Atom passenger-at(p7, n8)
-Atom passenger-at(p7, n9)
+2
+Atom contains(shaker1, ingredient1)
+<none of those>
 end_variable
 begin_variable
 var20
 -1
-21
-Atom boarded(p8, fast0)
-Atom boarded(p8, fast1)
-Atom boarded(p8, slow0-0)
-Atom boarded(p8, slow1-0)
-Atom passenger-at(p8, n0)
-Atom passenger-at(p8, n1)
-Atom passenger-at(p8, n10)
-Atom passenger-at(p8, n11)
-Atom passenger-at(p8, n12)
-Atom passenger-at(p8, n13)
-Atom passenger-at(p8, n14)
-Atom passenger-at(p8, n15)
-Atom passenger-at(p8, n16)
-Atom passenger-at(p8, n2)
-Atom passenger-at(p8, n3)
-Atom passenger-at(p8, n4)
-Atom passenger-at(p8, n5)
-Atom passenger-at(p8, n6)
-Atom passenger-at(p8, n7)
-Atom passenger-at(p8, n8)
-Atom passenger-at(p8, n9)
+2
+Atom contains(shaker1, ingredient2)
+<none of those>
 end_variable
 begin_variable
 var21
 -1
-21
-Atom boarded(p9, fast0)
-Atom boarded(p9, fast1)
-Atom boarded(p9, slow0-0)
-Atom boarded(p9, slow1-0)
-Atom passenger-at(p9, n0)
-Atom passenger-at(p9, n1)
-Atom passenger-at(p9, n10)
-Atom passenger-at(p9, n11)
-Atom passenger-at(p9, n12)
-Atom passenger-at(p9, n13)
-Atom passenger-at(p9, n14)
-Atom passenger-at(p9, n15)
-Atom passenger-at(p9, n16)
-Atom passenger-at(p9, n2)
-Atom passenger-at(p9, n3)
-Atom passenger-at(p9, n4)
-Atom passenger-at(p9, n5)
-Atom passenger-at(p9, n6)
-Atom passenger-at(p9, n7)
-Atom passenger-at(p9, n8)
-Atom passenger-at(p9, n9)
+2
+Atom contains(shaker1, ingredient3)
+<none of those>
 end_variable
 begin_variable
 var22
 -1
-5
-Atom lift-at(fast0, n0)
-Atom lift-at(fast0, n12)
-Atom lift-at(fast0, n16)
-Atom lift-at(fast0, n4)
-Atom lift-at(fast0, n8)
+2
+Atom contains(shaker1, ingredient4)
+<none of those>
 end_variable
 begin_variable
 var23
 -1
-5
-Atom lift-at(fast1, n0)
-Atom lift-at(fast1, n12)
-Atom lift-at(fast1, n16)
-Atom lift-at(fast1, n4)
-Atom lift-at(fast1, n8)
+2
+Atom contains(shot1, cocktail1)
+<none of those>
 end_variable
 begin_variable
 var24
 -1
-9
-Atom lift-at(slow0-0, n0)
-Atom lift-at(slow0-0, n1)
-Atom lift-at(slow0-0, n2)
-Atom lift-at(slow0-0, n3)
-Atom lift-at(slow0-0, n4)
-Atom lift-at(slow0-0, n5)
-Atom lift-at(slow0-0, n6)
-Atom lift-at(slow0-0, n7)
-Atom lift-at(slow0-0, n8)
+2
+Atom contains(shot1, cocktail2)
+<none of those>
 end_variable
 begin_variable
 var25
 -1
-9
-Atom lift-at(slow1-0, n10)
-Atom lift-at(slow1-0, n11)
-Atom lift-at(slow1-0, n12)
-Atom lift-at(slow1-0, n13)
-Atom lift-at(slow1-0, n14)
-Atom lift-at(slow1-0, n15)
-Atom lift-at(slow1-0, n16)
-Atom lift-at(slow1-0, n8)
-Atom lift-at(slow1-0, n9)
+2
+Atom contains(shot1, cocktail3)
+<none of those>
 end_variable
 begin_variable
 var26
 -1
-5
-Atom passengers(fast0, n0)
-Atom passengers(fast0, n1)
-Atom passengers(fast0, n2)
-Atom passengers(fast0, n3)
-Atom passengers(fast0, n4)
+2
+Atom contains(shot1, cocktail4)
+<none of those>
 end_variable
 begin_variable
 var27
 -1
-5
-Atom passengers(fast1, n0)
-Atom passengers(fast1, n1)
-Atom passengers(fast1, n2)
-Atom passengers(fast1, n3)
-Atom passengers(fast1, n4)
+2
+Atom contains(shot1, cocktail5)
+<none of those>
 end_variable
 begin_variable
 var28
 -1
-4
-Atom passengers(slow0-0, n0)
-Atom passengers(slow0-0, n1)
-Atom passengers(slow0-0, n2)
-Atom passengers(slow0-0, n3)
+2
+Atom contains(shot1, cocktail6)
+<none of those>
 end_variable
 begin_variable
 var29
 -1
-4
-Atom passengers(slow1-0, n0)
-Atom passengers(slow1-0, n1)
-Atom passengers(slow1-0, n2)
-Atom passengers(slow1-0, n3)
+2
+Atom contains(shot1, cocktail7)
+<none of those>
 end_variable
-30
+begin_variable
+var30
+-1
+2
+Atom contains(shot1, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var31
+-1
+2
+Atom contains(shot1, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var32
+-1
+2
+Atom contains(shot1, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var33
+-1
+2
+Atom contains(shot1, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var34
+-1
+2
+Atom contains(shot1, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var35
+-1
+2
+Atom contains(shot10, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var36
+-1
+2
+Atom contains(shot10, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var37
+-1
+2
+Atom contains(shot10, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var38
+-1
+2
+Atom contains(shot10, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var39
+-1
+2
+Atom contains(shot10, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var40
+-1
+2
+Atom contains(shot10, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var41
+-1
+2
+Atom contains(shot10, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var42
+-1
+2
+Atom contains(shot10, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var43
+-1
+2
+Atom contains(shot10, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var44
+-1
+2
+Atom contains(shot10, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var45
+-1
+2
+Atom contains(shot10, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var46
+-1
+2
+Atom contains(shot10, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var47
+-1
+2
+Atom contains(shot2, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var48
+-1
+2
+Atom contains(shot2, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var49
+-1
+2
+Atom contains(shot2, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var50
+-1
+2
+Atom contains(shot2, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var51
+-1
+2
+Atom contains(shot2, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var52
+-1
+2
+Atom contains(shot2, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var53
+-1
+2
+Atom contains(shot2, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var54
+-1
+2
+Atom contains(shot2, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var55
+-1
+2
+Atom contains(shot2, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var56
+-1
+2
+Atom contains(shot2, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var57
+-1
+2
+Atom contains(shot2, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var58
+-1
+2
+Atom contains(shot2, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var59
+-1
+2
+Atom contains(shot3, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var60
+-1
+2
+Atom contains(shot3, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var61
+-1
+2
+Atom contains(shot3, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var62
+-1
+2
+Atom contains(shot3, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var63
+-1
+2
+Atom contains(shot3, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var64
+-1
+2
+Atom contains(shot3, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var65
+-1
+2
+Atom contains(shot3, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var66
+-1
+2
+Atom contains(shot3, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var67
+-1
+2
+Atom contains(shot3, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var68
+-1
+2
+Atom contains(shot3, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var69
+-1
+2
+Atom contains(shot3, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var70
+-1
+2
+Atom contains(shot3, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var71
+-1
+2
+Atom contains(shot4, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var72
+-1
+2
+Atom contains(shot4, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var73
+-1
+2
+Atom contains(shot4, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var74
+-1
+2
+Atom contains(shot4, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var75
+-1
+2
+Atom contains(shot4, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var76
+-1
+2
+Atom contains(shot4, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var77
+-1
+2
+Atom contains(shot4, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var78
+-1
+2
+Atom contains(shot4, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var79
+-1
+2
+Atom contains(shot4, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var80
+-1
+2
+Atom contains(shot4, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var81
+-1
+2
+Atom contains(shot4, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var82
+-1
+2
+Atom contains(shot4, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var83
+-1
+2
+Atom contains(shot5, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var84
+-1
+2
+Atom contains(shot5, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var85
+-1
+2
+Atom contains(shot5, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var86
+-1
+2
+Atom contains(shot5, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var87
+-1
+2
+Atom contains(shot5, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var88
+-1
+2
+Atom contains(shot5, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var89
+-1
+2
+Atom contains(shot5, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var90
+-1
+2
+Atom contains(shot5, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var91
+-1
+2
+Atom contains(shot5, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var92
+-1
+2
+Atom contains(shot5, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var93
+-1
+2
+Atom contains(shot5, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var94
+-1
+2
+Atom contains(shot5, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var95
+-1
+2
+Atom contains(shot6, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var96
+-1
+2
+Atom contains(shot6, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var97
+-1
+2
+Atom contains(shot6, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var98
+-1
+2
+Atom contains(shot6, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var99
+-1
+2
+Atom contains(shot6, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var100
+-1
+2
+Atom contains(shot6, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var101
+-1
+2
+Atom contains(shot6, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var102
+-1
+2
+Atom contains(shot6, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var103
+-1
+2
+Atom contains(shot6, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var104
+-1
+2
+Atom contains(shot6, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var105
+-1
+2
+Atom contains(shot6, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var106
+-1
+2
+Atom contains(shot6, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var107
+-1
+2
+Atom contains(shot7, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var108
+-1
+2
+Atom contains(shot7, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var109
+-1
+2
+Atom contains(shot7, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var110
+-1
+2
+Atom contains(shot7, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var111
+-1
+2
+Atom contains(shot7, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var112
+-1
+2
+Atom contains(shot7, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var113
+-1
+2
+Atom contains(shot7, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var114
+-1
+2
+Atom contains(shot7, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var115
+-1
+2
+Atom contains(shot7, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var116
+-1
+2
+Atom contains(shot7, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var117
+-1
+2
+Atom contains(shot7, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var118
+-1
+2
+Atom contains(shot7, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var119
+-1
+2
+Atom contains(shot8, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var120
+-1
+2
+Atom contains(shot8, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var121
+-1
+2
+Atom contains(shot8, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var122
+-1
+2
+Atom contains(shot8, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var123
+-1
+2
+Atom contains(shot8, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var124
+-1
+2
+Atom contains(shot8, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var125
+-1
+2
+Atom contains(shot8, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var126
+-1
+2
+Atom contains(shot8, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var127
+-1
+2
+Atom contains(shot8, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var128
+-1
+2
+Atom contains(shot8, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var129
+-1
+2
+Atom contains(shot8, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var130
+-1
+2
+Atom contains(shot8, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var131
+-1
+2
+Atom contains(shot9, cocktail1)
+<none of those>
+end_variable
+begin_variable
+var132
+-1
+2
+Atom contains(shot9, cocktail2)
+<none of those>
+end_variable
+begin_variable
+var133
+-1
+2
+Atom contains(shot9, cocktail3)
+<none of those>
+end_variable
+begin_variable
+var134
+-1
+2
+Atom contains(shot9, cocktail4)
+<none of those>
+end_variable
+begin_variable
+var135
+-1
+2
+Atom contains(shot9, cocktail5)
+<none of those>
+end_variable
+begin_variable
+var136
+-1
+2
+Atom contains(shot9, cocktail6)
+<none of those>
+end_variable
+begin_variable
+var137
+-1
+2
+Atom contains(shot9, cocktail7)
+<none of those>
+end_variable
+begin_variable
+var138
+-1
+2
+Atom contains(shot9, cocktail8)
+<none of those>
+end_variable
+begin_variable
+var139
+-1
+2
+Atom contains(shot9, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var140
+-1
+2
+Atom contains(shot9, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var141
+-1
+2
+Atom contains(shot9, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var142
+-1
+2
+Atom contains(shot9, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var143
+-1
+2
+Atom empty(shaker1)
+<none of those>
+end_variable
+begin_variable
+var144
+-1
+2
+Atom empty(shot1)
+<none of those>
+end_variable
+begin_variable
+var145
+-1
+2
+Atom empty(shot10)
+<none of those>
+end_variable
+begin_variable
+var146
+-1
+2
+Atom empty(shot2)
+<none of those>
+end_variable
+begin_variable
+var147
+-1
+2
+Atom empty(shot3)
+<none of those>
+end_variable
+begin_variable
+var148
+-1
+2
+Atom empty(shot4)
+<none of those>
+end_variable
+begin_variable
+var149
+-1
+2
+Atom empty(shot5)
+<none of those>
+end_variable
+begin_variable
+var150
+-1
+2
+Atom empty(shot6)
+<none of those>
+end_variable
+begin_variable
+var151
+-1
+2
+Atom empty(shot7)
+<none of those>
+end_variable
+begin_variable
+var152
+-1
+2
+Atom empty(shot8)
+<none of those>
+end_variable
+begin_variable
+var153
+-1
+2
+Atom empty(shot9)
+<none of those>
+end_variable
+begin_variable
+var154
+-1
+12
+Atom handempty(left)
+Atom holding(left, shaker1)
+Atom holding(left, shot1)
+Atom holding(left, shot10)
+Atom holding(left, shot2)
+Atom holding(left, shot3)
+Atom holding(left, shot4)
+Atom holding(left, shot5)
+Atom holding(left, shot6)
+Atom holding(left, shot7)
+Atom holding(left, shot8)
+Atom holding(left, shot9)
+end_variable
+begin_variable
+var155
+-1
+12
+Atom handempty(right)
+Atom holding(right, shaker1)
+Atom holding(right, shot1)
+Atom holding(right, shot10)
+Atom holding(right, shot2)
+Atom holding(right, shot3)
+Atom holding(right, shot4)
+Atom holding(right, shot5)
+Atom holding(right, shot6)
+Atom holding(right, shot7)
+Atom holding(right, shot8)
+Atom holding(right, shot9)
+end_variable
+begin_variable
+var156
+-1
+2
+Atom ontable(shaker1)
+<none of those>
+end_variable
+begin_variable
+var157
+-1
+2
+Atom ontable(shot1)
+<none of those>
+end_variable
+begin_variable
+var158
+-1
+2
+Atom ontable(shot10)
+<none of those>
+end_variable
+begin_variable
+var159
+-1
+2
+Atom ontable(shot2)
+<none of those>
+end_variable
+begin_variable
+var160
+-1
+2
+Atom ontable(shot3)
+<none of those>
+end_variable
+begin_variable
+var161
+-1
+2
+Atom ontable(shot4)
+<none of those>
+end_variable
+begin_variable
+var162
+-1
+2
+Atom ontable(shot5)
+<none of those>
+end_variable
+begin_variable
+var163
+-1
+2
+Atom ontable(shot6)
+<none of those>
+end_variable
+begin_variable
+var164
+-1
+2
+Atom ontable(shot7)
+<none of those>
+end_variable
+begin_variable
+var165
+-1
+2
+Atom ontable(shot8)
+<none of those>
+end_variable
+begin_variable
+var166
+-1
+2
+Atom ontable(shot9)
+<none of those>
+end_variable
+begin_variable
+var167
+-1
+2
+Atom shaked(shaker1)
+<none of those>
+end_variable
+begin_variable
+var168
+-1
+3
+Atom shaker-level(shaker1, l0)
+Atom shaker-level(shaker1, l1)
+Atom shaker-level(shaker1, l2)
+end_variable
+begin_variable
+var169
+-1
+2
+Atom unshaked(shaker1)
+<none of those>
+end_variable
+begin_variable
+var170
+-1
+2
+Atom used(shot1, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var171
+-1
+2
+Atom used(shot1, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var172
+-1
+2
+Atom used(shot1, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var173
+-1
+2
+Atom used(shot1, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var174
+-1
+2
+Atom used(shot10, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var175
+-1
+2
+Atom used(shot10, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var176
+-1
+2
+Atom used(shot10, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var177
+-1
+2
+Atom used(shot10, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var178
+-1
+2
+Atom used(shot2, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var179
+-1
+2
+Atom used(shot2, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var180
+-1
+2
+Atom used(shot2, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var181
+-1
+2
+Atom used(shot2, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var182
+-1
+2
+Atom used(shot3, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var183
+-1
+2
+Atom used(shot3, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var184
+-1
+2
+Atom used(shot3, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var185
+-1
+2
+Atom used(shot3, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var186
+-1
+2
+Atom used(shot4, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var187
+-1
+2
+Atom used(shot4, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var188
+-1
+2
+Atom used(shot4, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var189
+-1
+2
+Atom used(shot4, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var190
+-1
+2
+Atom used(shot5, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var191
+-1
+2
+Atom used(shot5, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var192
+-1
+2
+Atom used(shot5, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var193
+-1
+2
+Atom used(shot5, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var194
+-1
+2
+Atom used(shot6, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var195
+-1
+2
+Atom used(shot6, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var196
+-1
+2
+Atom used(shot6, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var197
+-1
+2
+Atom used(shot6, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var198
+-1
+2
+Atom used(shot7, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var199
+-1
+2
+Atom used(shot7, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var200
+-1
+2
+Atom used(shot7, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var201
+-1
+2
+Atom used(shot7, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var202
+-1
+2
+Atom used(shot8, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var203
+-1
+2
+Atom used(shot8, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var204
+-1
+2
+Atom used(shot8, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var205
+-1
+2
+Atom used(shot8, ingredient4)
+<none of those>
+end_variable
+begin_variable
+var206
+-1
+2
+Atom used(shot9, ingredient1)
+<none of those>
+end_variable
+begin_variable
+var207
+-1
+2
+Atom used(shot9, ingredient2)
+<none of those>
+end_variable
+begin_variable
+var208
+-1
+2
+Atom used(shot9, ingredient3)
+<none of those>
+end_variable
+begin_variable
+var209
+-1
+2
+Atom used(shot9, ingredient4)
+<none of those>
+end_variable
+14
 begin_mutex_group
-21
-0 0
-0 1
-0 2
-0 3
-0 4
-0 5
-0 6
-0 7
-0 8
-0 9
-0 10
-0 11
-0 12
-0 13
-0 14
-0 15
-0 16
-0 17
-0 18
-0 19
-0 20
+12
+154 0
+154 1
+154 2
+154 3
+154 4
+154 5
+154 6
+154 7
+154 8
+154 9
+154 10
+154 11
 end_mutex_group
 begin_mutex_group
-21
-1 0
-1 1
-1 2
-1 3
-1 4
-1 5
-1 6
-1 7
-1 8
-1 9
-1 10
-1 11
-1 12
-1 13
-1 14
-1 15
-1 16
-1 17
-1 18
-1 19
-1 20
+12
+155 0
+155 1
+155 2
+155 3
+155 4
+155 5
+155 6
+155 7
+155 8
+155 9
+155 10
+155 11
 end_mutex_group
 begin_mutex_group
-21
-2 0
-2 1
-2 2
-2 3
-2 4
-2 5
-2 6
-2 7
-2 8
-2 9
-2 10
-2 11
-2 12
-2 13
-2 14
-2 15
-2 16
-2 17
-2 18
-2 19
-2 20
+3
+154 1
+155 1
+156 0
 end_mutex_group
 begin_mutex_group
-21
-3 0
-3 1
-3 2
-3 3
-3 4
-3 5
-3 6
-3 7
-3 8
-3 9
-3 10
-3 11
-3 12
-3 13
-3 14
-3 15
-3 16
-3 17
-3 18
-3 19
-3 20
+3
+154 2
+155 2
+157 0
 end_mutex_group
 begin_mutex_group
-21
-4 0
-4 1
-4 2
-4 3
-4 4
-4 5
-4 6
-4 7
-4 8
-4 9
-4 10
-4 11
-4 12
-4 13
-4 14
-4 15
-4 16
-4 17
-4 18
-4 19
-4 20
+3
+154 3
+155 3
+158 0
 end_mutex_group
 begin_mutex_group
-21
-5 0
-5 1
-5 2
-5 3
-5 4
-5 5
-5 6
-5 7
-5 8
-5 9
-5 10
-5 11
-5 12
-5 13
-5 14
-5 15
-5 16
-5 17
-5 18
-5 19
-5 20
+3
+154 4
+155 4
+159 0
 end_mutex_group
 begin_mutex_group
-21
-6 0
-6 1
-6 2
-6 3
-6 4
-6 5
-6 6
-6 7
-6 8
-6 9
-6 10
-6 11
-6 12
-6 13
-6 14
-6 15
-6 16
-6 17
-6 18
-6 19
-6 20
+3
+154 5
+155 5
+160 0
 end_mutex_group
 begin_mutex_group
-21
-7 0
-7 1
-7 2
-7 3
-7 4
-7 5
-7 6
-7 7
-7 8
-7 9
-7 10
-7 11
-7 12
-7 13
-7 14
-7 15
-7 16
-7 17
-7 18
-7 19
-7 20
+3
+154 6
+155 6
+161 0
 end_mutex_group
 begin_mutex_group
-21
-8 0
-8 1
-8 2
-8 3
-8 4
-8 5
-8 6
-8 7
-8 8
-8 9
-8 10
-8 11
-8 12
-8 13
-8 14
-8 15
-8 16
-8 17
-8 18
-8 19
-8 20
+3
+154 7
+155 7
+162 0
 end_mutex_group
 begin_mutex_group
-21
-9 0
-9 1
-9 2
-9 3
-9 4
-9 5
-9 6
-9 7
-9 8
-9 9
-9 10
-9 11
-9 12
-9 13
-9 14
-9 15
-9 16
-9 17
-9 18
-9 19
-9 20
+3
+154 8
+155 8
+163 0
 end_mutex_group
 begin_mutex_group
-21
-10 0
-10 1
-10 2
-10 3
-10 4
-10 5
-10 6
-10 7
-10 8
-10 9
-10 10
-10 11
-10 12
-10 13
-10 14
-10 15
-10 16
-10 17
-10 18
-10 19
-10 20
+3
+154 9
+155 9
+164 0
 end_mutex_group
 begin_mutex_group
-21
-11 0
-11 1
-11 2
-11 3
-11 4
-11 5
-11 6
-11 7
-11 8
-11 9
-11 10
-11 11
-11 12
-11 13
-11 14
-11 15
-11 16
-11 17
-11 18
-11 19
-11 20
+3
+154 10
+155 10
+165 0
 end_mutex_group
 begin_mutex_group
-21
-12 0
-12 1
-12 2
-12 3
-12 4
-12 5
-12 6
-12 7
-12 8
-12 9
-12 10
-12 11
-12 12
-12 13
-12 14
-12 15
-12 16
-12 17
-12 18
-12 19
-12 20
+3
+154 11
+155 11
+166 0
 end_mutex_group
 begin_mutex_group
-21
-13 0
-13 1
-13 2
-13 3
-13 4
-13 5
-13 6
-13 7
-13 8
-13 9
-13 10
-13 11
-13 12
-13 13
-13 14
-13 15
-13 16
-13 17
-13 18
-13 19
-13 20
-end_mutex_group
-begin_mutex_group
-21
-14 0
-14 1
-14 2
-14 3
-14 4
-14 5
-14 6
-14 7
-14 8
-14 9
-14 10
-14 11
-14 12
-14 13
-14 14
-14 15
-14 16
-14 17
-14 18
-14 19
-14 20
-end_mutex_group
-begin_mutex_group
-21
-15 0
-15 1
-15 2
-15 3
-15 4
-15 5
-15 6
-15 7
-15 8
-15 9
-15 10
-15 11
-15 12
-15 13
-15 14
-15 15
-15 16
-15 17
-15 18
-15 19
-15 20
-end_mutex_group
-begin_mutex_group
-21
-16 0
-16 1
-16 2
-16 3
-16 4
-16 5
-16 6
-16 7
-16 8
-16 9
-16 10
-16 11
-16 12
-16 13
-16 14
-16 15
-16 16
-16 17
-16 18
-16 19
-16 20
-end_mutex_group
-begin_mutex_group
-21
-17 0
-17 1
-17 2
-17 3
-17 4
-17 5
-17 6
-17 7
-17 8
-17 9
-17 10
-17 11
-17 12
-17 13
-17 14
-17 15
-17 16
-17 17
-17 18
-17 19
-17 20
-end_mutex_group
-begin_mutex_group
-21
-18 0
-18 1
-18 2
-18 3
-18 4
-18 5
-18 6
-18 7
-18 8
-18 9
-18 10
-18 11
-18 12
-18 13
-18 14
-18 15
-18 16
-18 17
-18 18
-18 19
-18 20
-end_mutex_group
-begin_mutex_group
-21
-19 0
-19 1
-19 2
-19 3
-19 4
-19 5
-19 6
-19 7
-19 8
-19 9
-19 10
-19 11
-19 12
-19 13
-19 14
-19 15
-19 16
-19 17
-19 18
-19 19
-19 20
-end_mutex_group
-begin_mutex_group
-21
-20 0
-20 1
-20 2
-20 3
-20 4
-20 5
-20 6
-20 7
-20 8
-20 9
-20 10
-20 11
-20 12
-20 13
-20 14
-20 15
-20 16
-20 17
-20 18
-20 19
-20 20
-end_mutex_group
-begin_mutex_group
-21
-21 0
-21 1
-21 2
-21 3
-21 4
-21 5
-21 6
-21 7
-21 8
-21 9
-21 10
-21 11
-21 12
-21 13
-21 14
-21 15
-21 16
-21 17
-21 18
-21 19
-21 20
-end_mutex_group
-begin_mutex_group
-5
-22 0
-22 1
-22 2
-22 3
-22 4
-end_mutex_group
-begin_mutex_group
-5
-23 0
-23 1
-23 2
-23 3
-23 4
-end_mutex_group
-begin_mutex_group
-9
-24 0
-24 1
-24 2
-24 3
-24 4
-24 5
-24 6
-24 7
-24 8
-end_mutex_group
-begin_mutex_group
-9
-25 0
-25 1
-25 2
-25 3
-25 4
-25 5
-25 6
-25 7
-25 8
-end_mutex_group
-begin_mutex_group
-5
-26 0
-26 1
-26 2
-26 3
-26 4
-end_mutex_group
-begin_mutex_group
-5
-27 0
-27 1
-27 2
-27 3
-27 4
-end_mutex_group
-begin_mutex_group
-4
-28 0
-28 1
-28 2
-28 3
-end_mutex_group
-begin_mutex_group
-4
-29 0
-29 1
-29 2
-29 3
+3
+168 0
+168 1
+168 2
 end_mutex_group
 begin_state
-13
-8
-6
-6
-13
-20
-14
-15
-9
-8
-10
-20
-16
-16
-4
-5
-18
-7
-9
-13
-14
-18
-4
-4
-6
 0
 0
 0
 0
 0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
 end_state
 begin_goal
-22
-0 20
-1 18
-2 7
-3 14
-4 5
-5 6
-6 16
-7 19
-8 4
-9 10
-10 5
-11 6
-12 6
-13 18
-14 18
-15 14
-16 11
-17 13
-18 20
-19 11
-20 15
-21 19
+9
+25 0
+51 0
+60 0
+76 0
+86 0
+95 0
+114 0
+125 0
+141 0
 end_goal
-4320
+1390
 begin_operator
-board p0 fast0 n0 n0 n1
+clean-shaker left right shaker1
+3
+143 0
+154 1
+155 0
 1
-22 0
-2
-0 0 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p0 fast0 n0 n1 n2
-1
-22 0
-2
-0 0 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p0 fast0 n0 n2 n3
-1
-22 0
-2
-0 0 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p0 fast0 n0 n3 n4
-1
-22 0
-2
-0 0 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p0 fast0 n12 n0 n1
-1
-22 1
-2
-0 0 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p0 fast0 n12 n1 n2
-1
-22 1
-2
-0 0 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p0 fast0 n12 n2 n3
-1
-22 1
-2
-0 0 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p0 fast0 n12 n3 n4
-1
-22 1
-2
-0 0 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p0 fast0 n16 n0 n1
-1
-22 2
-2
-0 0 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p0 fast0 n16 n1 n2
-1
-22 2
-2
-0 0 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p0 fast0 n16 n2 n3
-1
-22 2
-2
-0 0 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p0 fast0 n16 n3 n4
-1
-22 2
-2
-0 0 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p0 fast0 n4 n0 n1
-1
-22 3
-2
-0 0 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p0 fast0 n4 n1 n2
-1
-22 3
-2
-0 0 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p0 fast0 n4 n2 n3
-1
-22 3
-2
-0 0 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p0 fast0 n4 n3 n4
-1
-22 3
-2
-0 0 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p0 fast0 n8 n0 n1
-1
-22 4
-2
-0 0 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p0 fast0 n8 n1 n2
-1
-22 4
-2
-0 0 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p0 fast0 n8 n2 n3
-1
-22 4
-2
-0 0 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p0 fast0 n8 n3 n4
-1
-22 4
-2
-0 0 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p0 fast1 n0 n0 n1
-1
-23 0
-2
-0 0 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p0 fast1 n0 n1 n2
-1
-23 0
-2
-0 0 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p0 fast1 n0 n2 n3
-1
-23 0
-2
-0 0 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p0 fast1 n0 n3 n4
-1
-23 0
-2
-0 0 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p0 fast1 n12 n0 n1
-1
-23 1
-2
-0 0 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p0 fast1 n12 n1 n2
-1
-23 1
-2
-0 0 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p0 fast1 n12 n2 n3
-1
-23 1
-2
-0 0 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p0 fast1 n12 n3 n4
-1
-23 1
-2
-0 0 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p0 fast1 n16 n0 n1
-1
-23 2
-2
-0 0 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p0 fast1 n16 n1 n2
-1
-23 2
-2
-0 0 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p0 fast1 n16 n2 n3
-1
-23 2
-2
-0 0 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p0 fast1 n16 n3 n4
-1
-23 2
-2
-0 0 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p0 fast1 n4 n0 n1
-1
-23 3
-2
-0 0 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p0 fast1 n4 n1 n2
-1
-23 3
-2
-0 0 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p0 fast1 n4 n2 n3
-1
-23 3
-2
-0 0 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p0 fast1 n4 n3 n4
-1
-23 3
-2
-0 0 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p0 fast1 n8 n0 n1
-1
-23 4
-2
-0 0 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p0 fast1 n8 n1 n2
-1
-23 4
-2
-0 0 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p0 fast1 n8 n2 n3
-1
-23 4
-2
-0 0 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p0 fast1 n8 n3 n4
-1
-23 4
-2
-0 0 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p0 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 0 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 0 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 0 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 0 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 0 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 0 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 0 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 0 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 0 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 0 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 0 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 0 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 0 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 0 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 0 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 0 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 0 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 0 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 0 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 0 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 0 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 0 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 0 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 0 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 0 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p0 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 0 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p0 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 0 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 0 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 0 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 0 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 0 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 0 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 0 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 0 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 0 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 0 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 0 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 0 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 0 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 0 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 0 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 0 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 0 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 0 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 0 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 0 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 0 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 0 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 0 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 0 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 0 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p0 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 0 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p0 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 0 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p0 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 0 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n0 n0 n1
-1
-22 0
-2
-0 1 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p1 fast0 n0 n1 n2
-1
-22 0
-2
-0 1 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p1 fast0 n0 n2 n3
-1
-22 0
-2
-0 1 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n0 n3 n4
-1
-22 0
-2
-0 1 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p1 fast0 n12 n0 n1
-1
-22 1
-2
-0 1 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p1 fast0 n12 n1 n2
-1
-22 1
-2
-0 1 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p1 fast0 n12 n2 n3
-1
-22 1
-2
-0 1 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n12 n3 n4
-1
-22 1
-2
-0 1 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p1 fast0 n16 n0 n1
-1
-22 2
-2
-0 1 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p1 fast0 n16 n1 n2
-1
-22 2
-2
-0 1 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p1 fast0 n16 n2 n3
-1
-22 2
-2
-0 1 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n16 n3 n4
-1
-22 2
-2
-0 1 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p1 fast0 n4 n0 n1
-1
-22 3
-2
-0 1 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p1 fast0 n4 n1 n2
-1
-22 3
-2
-0 1 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p1 fast0 n4 n2 n3
-1
-22 3
-2
-0 1 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n4 n3 n4
-1
-22 3
-2
-0 1 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p1 fast0 n8 n0 n1
-1
-22 4
-2
-0 1 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p1 fast0 n8 n1 n2
-1
-22 4
-2
-0 1 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p1 fast0 n8 n2 n3
-1
-22 4
-2
-0 1 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p1 fast0 n8 n3 n4
-1
-22 4
-2
-0 1 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p1 fast1 n0 n0 n1
-1
-23 0
-2
-0 1 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p1 fast1 n0 n1 n2
-1
-23 0
-2
-0 1 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p1 fast1 n0 n2 n3
-1
-23 0
-2
-0 1 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p1 fast1 n0 n3 n4
-1
-23 0
-2
-0 1 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p1 fast1 n12 n0 n1
-1
-23 1
-2
-0 1 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p1 fast1 n12 n1 n2
-1
-23 1
-2
-0 1 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p1 fast1 n12 n2 n3
-1
-23 1
-2
-0 1 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p1 fast1 n12 n3 n4
-1
-23 1
-2
-0 1 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p1 fast1 n16 n0 n1
-1
-23 2
-2
-0 1 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p1 fast1 n16 n1 n2
-1
-23 2
-2
-0 1 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p1 fast1 n16 n2 n3
-1
-23 2
-2
-0 1 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p1 fast1 n16 n3 n4
-1
-23 2
-2
-0 1 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p1 fast1 n4 n0 n1
-1
-23 3
-2
-0 1 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p1 fast1 n4 n1 n2
-1
-23 3
-2
-0 1 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p1 fast1 n4 n2 n3
-1
-23 3
-2
-0 1 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p1 fast1 n4 n3 n4
-1
-23 3
-2
-0 1 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p1 fast1 n8 n0 n1
-1
-23 4
-2
-0 1 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p1 fast1 n8 n1 n2
-1
-23 4
-2
-0 1 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p1 fast1 n8 n2 n3
-1
-23 4
-2
-0 1 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p1 fast1 n8 n3 n4
-1
-23 4
-2
-0 1 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p1 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 1 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 1 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 1 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 1 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 1 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 1 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 1 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 1 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 1 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 1 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 1 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 1 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 1 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 1 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 1 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 1 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 1 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 1 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 1 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 1 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 1 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 1 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 1 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 1 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 1 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p1 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 1 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p1 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 1 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 1 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 1 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 1 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 1 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 1 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 1 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 1 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 1 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 1 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 1 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 1 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 1 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 1 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 1 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 1 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 1 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 1 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 1 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 1 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 1 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 1 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 1 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 1 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 1 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p1 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 1 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p1 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 1 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p1 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 1 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n0 n0 n1
-1
-22 0
-2
-0 2 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p10 fast0 n0 n1 n2
-1
-22 0
-2
-0 2 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p10 fast0 n0 n2 n3
-1
-22 0
-2
-0 2 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n0 n3 n4
-1
-22 0
-2
-0 2 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p10 fast0 n12 n0 n1
-1
-22 1
-2
-0 2 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p10 fast0 n12 n1 n2
-1
-22 1
-2
-0 2 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p10 fast0 n12 n2 n3
-1
-22 1
-2
-0 2 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n12 n3 n4
-1
-22 1
-2
-0 2 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p10 fast0 n16 n0 n1
-1
-22 2
-2
-0 2 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p10 fast0 n16 n1 n2
-1
-22 2
-2
-0 2 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p10 fast0 n16 n2 n3
-1
-22 2
-2
-0 2 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n16 n3 n4
-1
-22 2
-2
-0 2 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p10 fast0 n4 n0 n1
-1
-22 3
-2
-0 2 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p10 fast0 n4 n1 n2
-1
-22 3
-2
-0 2 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p10 fast0 n4 n2 n3
-1
-22 3
-2
-0 2 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n4 n3 n4
-1
-22 3
-2
-0 2 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p10 fast0 n8 n0 n1
-1
-22 4
-2
-0 2 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p10 fast0 n8 n1 n2
-1
-22 4
-2
-0 2 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p10 fast0 n8 n2 n3
-1
-22 4
-2
-0 2 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p10 fast0 n8 n3 n4
-1
-22 4
-2
-0 2 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p10 fast1 n0 n0 n1
-1
-23 0
-2
-0 2 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p10 fast1 n0 n1 n2
-1
-23 0
-2
-0 2 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p10 fast1 n0 n2 n3
-1
-23 0
-2
-0 2 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p10 fast1 n0 n3 n4
-1
-23 0
-2
-0 2 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p10 fast1 n12 n0 n1
-1
-23 1
-2
-0 2 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p10 fast1 n12 n1 n2
-1
-23 1
-2
-0 2 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p10 fast1 n12 n2 n3
-1
-23 1
-2
-0 2 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p10 fast1 n12 n3 n4
-1
-23 1
-2
-0 2 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p10 fast1 n16 n0 n1
-1
-23 2
-2
-0 2 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p10 fast1 n16 n1 n2
-1
-23 2
-2
-0 2 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p10 fast1 n16 n2 n3
-1
-23 2
-2
-0 2 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p10 fast1 n16 n3 n4
-1
-23 2
-2
-0 2 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p10 fast1 n4 n0 n1
-1
-23 3
-2
-0 2 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p10 fast1 n4 n1 n2
-1
-23 3
-2
-0 2 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p10 fast1 n4 n2 n3
-1
-23 3
-2
-0 2 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p10 fast1 n4 n3 n4
-1
-23 3
-2
-0 2 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p10 fast1 n8 n0 n1
-1
-23 4
-2
-0 2 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p10 fast1 n8 n1 n2
-1
-23 4
-2
-0 2 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p10 fast1 n8 n2 n3
-1
-23 4
-2
-0 2 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p10 fast1 n8 n3 n4
-1
-23 4
-2
-0 2 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p10 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 2 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 2 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 2 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 2 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 2 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 2 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 2 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 2 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 2 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 2 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 2 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 2 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 2 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 2 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 2 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 2 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 2 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 2 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 2 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 2 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 2 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 2 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 2 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 2 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 2 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p10 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 2 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p10 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 2 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 2 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 2 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 2 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 2 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 2 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 2 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 2 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 2 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 2 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 2 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 2 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 2 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 2 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 2 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 2 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 2 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 2 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 2 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 2 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 2 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 2 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 2 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 2 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 2 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p10 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 2 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p10 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 2 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p10 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 2 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n0 n0 n1
-1
-22 0
-2
-0 3 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p11 fast0 n0 n1 n2
-1
-22 0
-2
-0 3 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p11 fast0 n0 n2 n3
-1
-22 0
-2
-0 3 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n0 n3 n4
-1
-22 0
-2
-0 3 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p11 fast0 n12 n0 n1
-1
-22 1
-2
-0 3 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p11 fast0 n12 n1 n2
-1
-22 1
-2
-0 3 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p11 fast0 n12 n2 n3
-1
-22 1
-2
-0 3 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n12 n3 n4
-1
-22 1
-2
-0 3 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p11 fast0 n16 n0 n1
-1
-22 2
-2
-0 3 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p11 fast0 n16 n1 n2
-1
-22 2
-2
-0 3 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p11 fast0 n16 n2 n3
-1
-22 2
-2
-0 3 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n16 n3 n4
-1
-22 2
-2
-0 3 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p11 fast0 n4 n0 n1
-1
-22 3
-2
-0 3 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p11 fast0 n4 n1 n2
-1
-22 3
-2
-0 3 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p11 fast0 n4 n2 n3
-1
-22 3
-2
-0 3 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n4 n3 n4
-1
-22 3
-2
-0 3 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p11 fast0 n8 n0 n1
-1
-22 4
-2
-0 3 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p11 fast0 n8 n1 n2
-1
-22 4
-2
-0 3 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p11 fast0 n8 n2 n3
-1
-22 4
-2
-0 3 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p11 fast0 n8 n3 n4
-1
-22 4
-2
-0 3 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p11 fast1 n0 n0 n1
-1
-23 0
-2
-0 3 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p11 fast1 n0 n1 n2
-1
-23 0
-2
-0 3 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p11 fast1 n0 n2 n3
-1
-23 0
-2
-0 3 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p11 fast1 n0 n3 n4
-1
-23 0
-2
-0 3 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p11 fast1 n12 n0 n1
-1
-23 1
-2
-0 3 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p11 fast1 n12 n1 n2
-1
-23 1
-2
-0 3 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p11 fast1 n12 n2 n3
-1
-23 1
-2
-0 3 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p11 fast1 n12 n3 n4
-1
-23 1
-2
-0 3 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p11 fast1 n16 n0 n1
-1
-23 2
-2
-0 3 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p11 fast1 n16 n1 n2
-1
-23 2
-2
-0 3 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p11 fast1 n16 n2 n3
-1
-23 2
-2
-0 3 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p11 fast1 n16 n3 n4
-1
-23 2
-2
-0 3 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p11 fast1 n4 n0 n1
-1
-23 3
-2
-0 3 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p11 fast1 n4 n1 n2
-1
-23 3
-2
-0 3 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p11 fast1 n4 n2 n3
-1
-23 3
-2
-0 3 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p11 fast1 n4 n3 n4
-1
-23 3
-2
-0 3 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p11 fast1 n8 n0 n1
-1
-23 4
-2
-0 3 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p11 fast1 n8 n1 n2
-1
-23 4
-2
-0 3 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p11 fast1 n8 n2 n3
-1
-23 4
-2
-0 3 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p11 fast1 n8 n3 n4
-1
-23 4
-2
-0 3 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p11 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 3 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 3 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 3 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 3 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 3 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 3 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 3 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 3 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 3 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 3 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 3 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 3 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 3 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 3 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 3 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 3 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 3 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 3 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 3 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 3 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 3 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 3 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 3 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 3 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 3 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p11 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 3 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p11 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 3 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 3 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 3 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 3 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 3 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 3 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 3 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 3 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 3 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 3 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 3 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 3 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 3 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 3 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 3 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 3 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 3 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 3 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 3 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 3 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 3 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 3 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 3 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 3 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 3 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p11 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 3 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p11 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 3 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p11 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 3 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n0 n0 n1
-1
-22 0
-2
-0 4 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p12 fast0 n0 n1 n2
-1
-22 0
-2
-0 4 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p12 fast0 n0 n2 n3
-1
-22 0
-2
-0 4 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n0 n3 n4
-1
-22 0
-2
-0 4 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p12 fast0 n12 n0 n1
-1
-22 1
-2
-0 4 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p12 fast0 n12 n1 n2
-1
-22 1
-2
-0 4 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p12 fast0 n12 n2 n3
-1
-22 1
-2
-0 4 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n12 n3 n4
-1
-22 1
-2
-0 4 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p12 fast0 n16 n0 n1
-1
-22 2
-2
-0 4 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p12 fast0 n16 n1 n2
-1
-22 2
-2
-0 4 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p12 fast0 n16 n2 n3
-1
-22 2
-2
-0 4 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n16 n3 n4
-1
-22 2
-2
-0 4 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p12 fast0 n4 n0 n1
-1
-22 3
-2
-0 4 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p12 fast0 n4 n1 n2
-1
-22 3
-2
-0 4 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p12 fast0 n4 n2 n3
-1
-22 3
-2
-0 4 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n4 n3 n4
-1
-22 3
-2
-0 4 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p12 fast0 n8 n0 n1
-1
-22 4
-2
-0 4 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p12 fast0 n8 n1 n2
-1
-22 4
-2
-0 4 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p12 fast0 n8 n2 n3
-1
-22 4
-2
-0 4 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p12 fast0 n8 n3 n4
-1
-22 4
-2
-0 4 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p12 fast1 n0 n0 n1
-1
-23 0
-2
-0 4 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p12 fast1 n0 n1 n2
-1
-23 0
-2
-0 4 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p12 fast1 n0 n2 n3
-1
-23 0
-2
-0 4 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p12 fast1 n0 n3 n4
-1
-23 0
-2
-0 4 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p12 fast1 n12 n0 n1
-1
-23 1
-2
-0 4 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p12 fast1 n12 n1 n2
-1
-23 1
-2
-0 4 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p12 fast1 n12 n2 n3
-1
-23 1
-2
-0 4 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p12 fast1 n12 n3 n4
-1
-23 1
-2
-0 4 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p12 fast1 n16 n0 n1
-1
-23 2
-2
-0 4 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p12 fast1 n16 n1 n2
-1
-23 2
-2
-0 4 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p12 fast1 n16 n2 n3
-1
-23 2
-2
-0 4 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p12 fast1 n16 n3 n4
-1
-23 2
-2
-0 4 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p12 fast1 n4 n0 n1
-1
-23 3
-2
-0 4 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p12 fast1 n4 n1 n2
-1
-23 3
-2
-0 4 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p12 fast1 n4 n2 n3
-1
-23 3
-2
-0 4 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p12 fast1 n4 n3 n4
-1
-23 3
-2
-0 4 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p12 fast1 n8 n0 n1
-1
-23 4
-2
-0 4 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p12 fast1 n8 n1 n2
-1
-23 4
-2
-0 4 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p12 fast1 n8 n2 n3
-1
-23 4
-2
-0 4 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p12 fast1 n8 n3 n4
-1
-23 4
-2
-0 4 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p12 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 4 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 4 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 4 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 4 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 4 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 4 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 4 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 4 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 4 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 4 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 4 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 4 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 4 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 4 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 4 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 4 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 4 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 4 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 4 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 4 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 4 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 4 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 4 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 4 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 4 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p12 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 4 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p12 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 4 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 4 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 4 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 4 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 4 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 4 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 4 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 4 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 4 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 4 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 4 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 4 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 4 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 4 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 4 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 4 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 4 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 4 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 4 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 4 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 4 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 4 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 4 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 4 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 4 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p12 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 4 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p12 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 4 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p12 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 4 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n0 n0 n1
-1
-22 0
-2
-0 5 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p13 fast0 n0 n1 n2
-1
-22 0
-2
-0 5 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p13 fast0 n0 n2 n3
-1
-22 0
-2
-0 5 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n0 n3 n4
-1
-22 0
-2
-0 5 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p13 fast0 n12 n0 n1
-1
-22 1
-2
-0 5 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p13 fast0 n12 n1 n2
-1
-22 1
-2
-0 5 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p13 fast0 n12 n2 n3
-1
-22 1
-2
-0 5 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n12 n3 n4
-1
-22 1
-2
-0 5 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p13 fast0 n16 n0 n1
-1
-22 2
-2
-0 5 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p13 fast0 n16 n1 n2
-1
-22 2
-2
-0 5 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p13 fast0 n16 n2 n3
-1
-22 2
-2
-0 5 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n16 n3 n4
-1
-22 2
-2
-0 5 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p13 fast0 n4 n0 n1
-1
-22 3
-2
-0 5 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p13 fast0 n4 n1 n2
-1
-22 3
-2
-0 5 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p13 fast0 n4 n2 n3
-1
-22 3
-2
-0 5 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n4 n3 n4
-1
-22 3
-2
-0 5 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p13 fast0 n8 n0 n1
-1
-22 4
-2
-0 5 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p13 fast0 n8 n1 n2
-1
-22 4
-2
-0 5 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p13 fast0 n8 n2 n3
-1
-22 4
-2
-0 5 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p13 fast0 n8 n3 n4
-1
-22 4
-2
-0 5 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p13 fast1 n0 n0 n1
-1
-23 0
-2
-0 5 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p13 fast1 n0 n1 n2
-1
-23 0
-2
-0 5 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p13 fast1 n0 n2 n3
-1
-23 0
-2
-0 5 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p13 fast1 n0 n3 n4
-1
-23 0
-2
-0 5 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p13 fast1 n12 n0 n1
-1
-23 1
-2
-0 5 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p13 fast1 n12 n1 n2
-1
-23 1
-2
-0 5 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p13 fast1 n12 n2 n3
-1
-23 1
-2
-0 5 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p13 fast1 n12 n3 n4
-1
-23 1
-2
-0 5 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p13 fast1 n16 n0 n1
-1
-23 2
-2
-0 5 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p13 fast1 n16 n1 n2
-1
-23 2
-2
-0 5 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p13 fast1 n16 n2 n3
-1
-23 2
-2
-0 5 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p13 fast1 n16 n3 n4
-1
-23 2
-2
-0 5 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p13 fast1 n4 n0 n1
-1
-23 3
-2
-0 5 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p13 fast1 n4 n1 n2
-1
-23 3
-2
-0 5 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p13 fast1 n4 n2 n3
-1
-23 3
-2
-0 5 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p13 fast1 n4 n3 n4
-1
-23 3
-2
-0 5 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p13 fast1 n8 n0 n1
-1
-23 4
-2
-0 5 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p13 fast1 n8 n1 n2
-1
-23 4
-2
-0 5 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p13 fast1 n8 n2 n3
-1
-23 4
-2
-0 5 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p13 fast1 n8 n3 n4
-1
-23 4
-2
-0 5 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p13 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 5 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 5 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 5 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 5 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 5 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 5 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 5 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 5 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 5 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 5 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 5 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 5 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 5 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 5 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 5 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 5 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 5 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 5 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 5 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 5 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 5 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 5 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 5 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 5 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 5 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p13 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 5 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p13 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 5 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 5 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 5 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 5 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 5 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 5 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 5 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 5 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 5 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 5 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 5 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 5 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 5 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 5 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 5 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 5 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 5 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 5 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 5 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 5 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 5 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 5 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 5 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 5 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 5 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p13 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 5 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p13 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 5 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p13 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 5 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n0 n0 n1
-1
-22 0
-2
-0 6 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p14 fast0 n0 n1 n2
-1
-22 0
-2
-0 6 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p14 fast0 n0 n2 n3
-1
-22 0
-2
-0 6 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n0 n3 n4
-1
-22 0
-2
-0 6 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p14 fast0 n12 n0 n1
-1
-22 1
-2
-0 6 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p14 fast0 n12 n1 n2
-1
-22 1
-2
-0 6 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p14 fast0 n12 n2 n3
-1
-22 1
-2
-0 6 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n12 n3 n4
-1
-22 1
-2
-0 6 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p14 fast0 n16 n0 n1
-1
-22 2
-2
-0 6 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p14 fast0 n16 n1 n2
-1
-22 2
-2
-0 6 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p14 fast0 n16 n2 n3
-1
-22 2
-2
-0 6 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n16 n3 n4
-1
-22 2
-2
-0 6 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p14 fast0 n4 n0 n1
-1
-22 3
-2
-0 6 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p14 fast0 n4 n1 n2
-1
-22 3
-2
-0 6 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p14 fast0 n4 n2 n3
-1
-22 3
-2
-0 6 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n4 n3 n4
-1
-22 3
-2
-0 6 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p14 fast0 n8 n0 n1
-1
-22 4
-2
-0 6 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p14 fast0 n8 n1 n2
-1
-22 4
-2
-0 6 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p14 fast0 n8 n2 n3
-1
-22 4
-2
-0 6 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p14 fast0 n8 n3 n4
-1
-22 4
-2
-0 6 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p14 fast1 n0 n0 n1
-1
-23 0
-2
-0 6 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p14 fast1 n0 n1 n2
-1
-23 0
-2
-0 6 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p14 fast1 n0 n2 n3
-1
-23 0
-2
-0 6 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p14 fast1 n0 n3 n4
-1
-23 0
-2
-0 6 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p14 fast1 n12 n0 n1
-1
-23 1
-2
-0 6 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p14 fast1 n12 n1 n2
-1
-23 1
-2
-0 6 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p14 fast1 n12 n2 n3
-1
-23 1
-2
-0 6 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p14 fast1 n12 n3 n4
-1
-23 1
-2
-0 6 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p14 fast1 n16 n0 n1
-1
-23 2
-2
-0 6 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p14 fast1 n16 n1 n2
-1
-23 2
-2
-0 6 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p14 fast1 n16 n2 n3
-1
-23 2
-2
-0 6 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p14 fast1 n16 n3 n4
-1
-23 2
-2
-0 6 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p14 fast1 n4 n0 n1
-1
-23 3
-2
-0 6 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p14 fast1 n4 n1 n2
-1
-23 3
-2
-0 6 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p14 fast1 n4 n2 n3
-1
-23 3
-2
-0 6 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p14 fast1 n4 n3 n4
-1
-23 3
-2
-0 6 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p14 fast1 n8 n0 n1
-1
-23 4
-2
-0 6 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p14 fast1 n8 n1 n2
-1
-23 4
-2
-0 6 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p14 fast1 n8 n2 n3
-1
-23 4
-2
-0 6 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p14 fast1 n8 n3 n4
-1
-23 4
-2
-0 6 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p14 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 6 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 6 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 6 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 6 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 6 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 6 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 6 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 6 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 6 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 6 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 6 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 6 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 6 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 6 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 6 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 6 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 6 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 6 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 6 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 6 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 6 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 6 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 6 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 6 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 6 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p14 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 6 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p14 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 6 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 6 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 6 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 6 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 6 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 6 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 6 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 6 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 6 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 6 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 6 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 6 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 6 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 6 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 6 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 6 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 6 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 6 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 6 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 6 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 6 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 6 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 6 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 6 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 6 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p14 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 6 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p14 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 6 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p14 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 6 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n0 n0 n1
-1
-22 0
-2
-0 7 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p15 fast0 n0 n1 n2
-1
-22 0
-2
-0 7 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p15 fast0 n0 n2 n3
-1
-22 0
-2
-0 7 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n0 n3 n4
-1
-22 0
-2
-0 7 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p15 fast0 n12 n0 n1
-1
-22 1
-2
-0 7 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p15 fast0 n12 n1 n2
-1
-22 1
-2
-0 7 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p15 fast0 n12 n2 n3
-1
-22 1
-2
-0 7 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n12 n3 n4
-1
-22 1
-2
-0 7 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p15 fast0 n16 n0 n1
-1
-22 2
-2
-0 7 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p15 fast0 n16 n1 n2
-1
-22 2
-2
-0 7 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p15 fast0 n16 n2 n3
-1
-22 2
-2
-0 7 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n16 n3 n4
-1
-22 2
-2
-0 7 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p15 fast0 n4 n0 n1
-1
-22 3
-2
-0 7 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p15 fast0 n4 n1 n2
-1
-22 3
-2
-0 7 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p15 fast0 n4 n2 n3
-1
-22 3
-2
-0 7 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n4 n3 n4
-1
-22 3
-2
-0 7 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p15 fast0 n8 n0 n1
-1
-22 4
-2
-0 7 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p15 fast0 n8 n1 n2
-1
-22 4
-2
-0 7 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p15 fast0 n8 n2 n3
-1
-22 4
-2
-0 7 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p15 fast0 n8 n3 n4
-1
-22 4
-2
-0 7 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p15 fast1 n0 n0 n1
-1
-23 0
-2
-0 7 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p15 fast1 n0 n1 n2
-1
-23 0
-2
-0 7 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p15 fast1 n0 n2 n3
-1
-23 0
-2
-0 7 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p15 fast1 n0 n3 n4
-1
-23 0
-2
-0 7 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p15 fast1 n12 n0 n1
-1
-23 1
-2
-0 7 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p15 fast1 n12 n1 n2
-1
-23 1
-2
-0 7 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p15 fast1 n12 n2 n3
-1
-23 1
-2
-0 7 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p15 fast1 n12 n3 n4
-1
-23 1
-2
-0 7 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p15 fast1 n16 n0 n1
-1
-23 2
-2
-0 7 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p15 fast1 n16 n1 n2
-1
-23 2
-2
-0 7 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p15 fast1 n16 n2 n3
-1
-23 2
-2
-0 7 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p15 fast1 n16 n3 n4
-1
-23 2
-2
-0 7 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p15 fast1 n4 n0 n1
-1
-23 3
-2
-0 7 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p15 fast1 n4 n1 n2
-1
-23 3
-2
-0 7 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p15 fast1 n4 n2 n3
-1
-23 3
-2
-0 7 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p15 fast1 n4 n3 n4
-1
-23 3
-2
-0 7 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p15 fast1 n8 n0 n1
-1
-23 4
-2
-0 7 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p15 fast1 n8 n1 n2
-1
-23 4
-2
-0 7 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p15 fast1 n8 n2 n3
-1
-23 4
-2
-0 7 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p15 fast1 n8 n3 n4
-1
-23 4
-2
-0 7 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p15 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 7 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 7 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 7 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 7 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 7 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 7 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 7 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 7 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 7 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 7 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 7 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 7 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 7 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 7 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 7 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 7 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 7 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 7 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 7 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 7 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 7 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 7 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 7 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 7 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 7 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p15 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 7 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p15 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 7 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 7 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 7 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 7 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 7 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 7 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 7 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 7 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 7 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 7 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 7 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 7 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 7 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 7 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 7 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 7 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 7 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 7 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 7 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 7 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 7 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 7 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 7 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 7 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 7 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p15 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 7 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p15 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 7 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p15 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 7 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n0 n0 n1
-1
-22 0
-2
-0 8 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p16 fast0 n0 n1 n2
-1
-22 0
-2
-0 8 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p16 fast0 n0 n2 n3
-1
-22 0
-2
-0 8 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n0 n3 n4
-1
-22 0
-2
-0 8 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p16 fast0 n12 n0 n1
-1
-22 1
-2
-0 8 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p16 fast0 n12 n1 n2
-1
-22 1
-2
-0 8 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p16 fast0 n12 n2 n3
-1
-22 1
-2
-0 8 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n12 n3 n4
-1
-22 1
-2
-0 8 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p16 fast0 n16 n0 n1
-1
-22 2
-2
-0 8 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p16 fast0 n16 n1 n2
-1
-22 2
-2
-0 8 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p16 fast0 n16 n2 n3
-1
-22 2
-2
-0 8 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n16 n3 n4
-1
-22 2
-2
-0 8 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p16 fast0 n4 n0 n1
-1
-22 3
-2
-0 8 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p16 fast0 n4 n1 n2
-1
-22 3
-2
-0 8 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p16 fast0 n4 n2 n3
-1
-22 3
-2
-0 8 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n4 n3 n4
-1
-22 3
-2
-0 8 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p16 fast0 n8 n0 n1
-1
-22 4
-2
-0 8 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p16 fast0 n8 n1 n2
-1
-22 4
-2
-0 8 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p16 fast0 n8 n2 n3
-1
-22 4
-2
-0 8 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p16 fast0 n8 n3 n4
-1
-22 4
-2
-0 8 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p16 fast1 n0 n0 n1
-1
-23 0
-2
-0 8 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p16 fast1 n0 n1 n2
-1
-23 0
-2
-0 8 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p16 fast1 n0 n2 n3
-1
-23 0
-2
-0 8 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p16 fast1 n0 n3 n4
-1
-23 0
-2
-0 8 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p16 fast1 n12 n0 n1
-1
-23 1
-2
-0 8 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p16 fast1 n12 n1 n2
-1
-23 1
-2
-0 8 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p16 fast1 n12 n2 n3
-1
-23 1
-2
-0 8 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p16 fast1 n12 n3 n4
-1
-23 1
-2
-0 8 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p16 fast1 n16 n0 n1
-1
-23 2
-2
-0 8 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p16 fast1 n16 n1 n2
-1
-23 2
-2
-0 8 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p16 fast1 n16 n2 n3
-1
-23 2
-2
-0 8 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p16 fast1 n16 n3 n4
-1
-23 2
-2
-0 8 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p16 fast1 n4 n0 n1
-1
-23 3
-2
-0 8 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p16 fast1 n4 n1 n2
-1
-23 3
-2
-0 8 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p16 fast1 n4 n2 n3
-1
-23 3
-2
-0 8 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p16 fast1 n4 n3 n4
-1
-23 3
-2
-0 8 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p16 fast1 n8 n0 n1
-1
-23 4
-2
-0 8 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p16 fast1 n8 n1 n2
-1
-23 4
-2
-0 8 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p16 fast1 n8 n2 n3
-1
-23 4
-2
-0 8 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p16 fast1 n8 n3 n4
-1
-23 4
-2
-0 8 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p16 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 8 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 8 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 8 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 8 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 8 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 8 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 8 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 8 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 8 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 8 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 8 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 8 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 8 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 8 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 8 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 8 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 8 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 8 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 8 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 8 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 8 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 8 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 8 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 8 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 8 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p16 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 8 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p16 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 8 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 8 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 8 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 8 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 8 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 8 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 8 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 8 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 8 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 8 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 8 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 8 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 8 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 8 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 8 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 8 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 8 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 8 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 8 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 8 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 8 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 8 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 8 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 8 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 8 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p16 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 8 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p16 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 8 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p16 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 8 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n0 n0 n1
-1
-22 0
-2
-0 9 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p17 fast0 n0 n1 n2
-1
-22 0
-2
-0 9 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p17 fast0 n0 n2 n3
-1
-22 0
-2
-0 9 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n0 n3 n4
-1
-22 0
-2
-0 9 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p17 fast0 n12 n0 n1
-1
-22 1
-2
-0 9 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p17 fast0 n12 n1 n2
-1
-22 1
-2
-0 9 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p17 fast0 n12 n2 n3
-1
-22 1
-2
-0 9 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n12 n3 n4
-1
-22 1
-2
-0 9 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p17 fast0 n16 n0 n1
-1
-22 2
-2
-0 9 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p17 fast0 n16 n1 n2
-1
-22 2
-2
-0 9 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p17 fast0 n16 n2 n3
-1
-22 2
-2
-0 9 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n16 n3 n4
-1
-22 2
-2
-0 9 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p17 fast0 n4 n0 n1
-1
-22 3
-2
-0 9 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p17 fast0 n4 n1 n2
-1
-22 3
-2
-0 9 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p17 fast0 n4 n2 n3
-1
-22 3
-2
-0 9 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n4 n3 n4
-1
-22 3
-2
-0 9 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p17 fast0 n8 n0 n1
-1
-22 4
-2
-0 9 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p17 fast0 n8 n1 n2
-1
-22 4
-2
-0 9 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p17 fast0 n8 n2 n3
-1
-22 4
-2
-0 9 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p17 fast0 n8 n3 n4
-1
-22 4
-2
-0 9 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p17 fast1 n0 n0 n1
-1
-23 0
-2
-0 9 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p17 fast1 n0 n1 n2
-1
-23 0
-2
-0 9 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p17 fast1 n0 n2 n3
-1
-23 0
-2
-0 9 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p17 fast1 n0 n3 n4
-1
-23 0
-2
-0 9 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p17 fast1 n12 n0 n1
-1
-23 1
-2
-0 9 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p17 fast1 n12 n1 n2
-1
-23 1
-2
-0 9 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p17 fast1 n12 n2 n3
-1
-23 1
-2
-0 9 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p17 fast1 n12 n3 n4
-1
-23 1
-2
-0 9 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p17 fast1 n16 n0 n1
-1
-23 2
-2
-0 9 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p17 fast1 n16 n1 n2
-1
-23 2
-2
-0 9 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p17 fast1 n16 n2 n3
-1
-23 2
-2
-0 9 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p17 fast1 n16 n3 n4
-1
-23 2
-2
-0 9 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p17 fast1 n4 n0 n1
-1
-23 3
-2
-0 9 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p17 fast1 n4 n1 n2
-1
-23 3
-2
-0 9 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p17 fast1 n4 n2 n3
-1
-23 3
-2
-0 9 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p17 fast1 n4 n3 n4
-1
-23 3
-2
-0 9 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p17 fast1 n8 n0 n1
-1
-23 4
-2
-0 9 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p17 fast1 n8 n1 n2
-1
-23 4
-2
-0 9 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p17 fast1 n8 n2 n3
-1
-23 4
-2
-0 9 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p17 fast1 n8 n3 n4
-1
-23 4
-2
-0 9 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p17 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 9 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 9 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 9 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 9 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 9 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 9 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 9 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 9 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 9 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 9 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 9 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 9 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 9 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 9 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 9 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 9 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 9 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 9 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 9 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 9 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 9 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 9 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 9 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 9 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 9 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p17 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 9 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p17 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 9 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 9 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 9 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 9 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 9 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 9 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 9 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 9 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 9 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 9 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 9 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 9 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 9 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 9 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 9 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 9 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 9 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 9 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 9 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 9 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 9 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 9 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 9 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 9 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 9 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p17 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 9 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p17 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 9 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p17 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 9 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n0 n0 n1
-1
-22 0
-2
-0 10 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p18 fast0 n0 n1 n2
-1
-22 0
-2
-0 10 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p18 fast0 n0 n2 n3
-1
-22 0
-2
-0 10 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n0 n3 n4
-1
-22 0
-2
-0 10 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p18 fast0 n12 n0 n1
-1
-22 1
-2
-0 10 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p18 fast0 n12 n1 n2
-1
-22 1
-2
-0 10 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p18 fast0 n12 n2 n3
-1
-22 1
-2
-0 10 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n12 n3 n4
-1
-22 1
-2
-0 10 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p18 fast0 n16 n0 n1
-1
-22 2
-2
-0 10 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p18 fast0 n16 n1 n2
-1
-22 2
-2
-0 10 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p18 fast0 n16 n2 n3
-1
-22 2
-2
-0 10 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n16 n3 n4
-1
-22 2
-2
-0 10 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p18 fast0 n4 n0 n1
-1
-22 3
-2
-0 10 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p18 fast0 n4 n1 n2
-1
-22 3
-2
-0 10 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p18 fast0 n4 n2 n3
-1
-22 3
-2
-0 10 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n4 n3 n4
-1
-22 3
-2
-0 10 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p18 fast0 n8 n0 n1
-1
-22 4
-2
-0 10 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p18 fast0 n8 n1 n2
-1
-22 4
-2
-0 10 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p18 fast0 n8 n2 n3
-1
-22 4
-2
-0 10 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p18 fast0 n8 n3 n4
-1
-22 4
-2
-0 10 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p18 fast1 n0 n0 n1
-1
-23 0
-2
-0 10 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p18 fast1 n0 n1 n2
-1
-23 0
-2
-0 10 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p18 fast1 n0 n2 n3
-1
-23 0
-2
-0 10 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p18 fast1 n0 n3 n4
-1
-23 0
-2
-0 10 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p18 fast1 n12 n0 n1
-1
-23 1
-2
-0 10 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p18 fast1 n12 n1 n2
-1
-23 1
-2
-0 10 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p18 fast1 n12 n2 n3
-1
-23 1
-2
-0 10 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p18 fast1 n12 n3 n4
-1
-23 1
-2
-0 10 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p18 fast1 n16 n0 n1
-1
-23 2
-2
-0 10 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p18 fast1 n16 n1 n2
-1
-23 2
-2
-0 10 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p18 fast1 n16 n2 n3
-1
-23 2
-2
-0 10 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p18 fast1 n16 n3 n4
-1
-23 2
-2
-0 10 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p18 fast1 n4 n0 n1
-1
-23 3
-2
-0 10 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p18 fast1 n4 n1 n2
-1
-23 3
-2
-0 10 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p18 fast1 n4 n2 n3
-1
-23 3
-2
-0 10 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p18 fast1 n4 n3 n4
-1
-23 3
-2
-0 10 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p18 fast1 n8 n0 n1
-1
-23 4
-2
-0 10 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p18 fast1 n8 n1 n2
-1
-23 4
-2
-0 10 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p18 fast1 n8 n2 n3
-1
-23 4
-2
-0 10 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p18 fast1 n8 n3 n4
-1
-23 4
-2
-0 10 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p18 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 10 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 10 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 10 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 10 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 10 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 10 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 10 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 10 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 10 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 10 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 10 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 10 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 10 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 10 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 10 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 10 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 10 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 10 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 10 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 10 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 10 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 10 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 10 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 10 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 10 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p18 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 10 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p18 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 10 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 10 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 10 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 10 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 10 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 10 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 10 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 10 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 10 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 10 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 10 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 10 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 10 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 10 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 10 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 10 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 10 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 10 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 10 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 10 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 10 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 10 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 10 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 10 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 10 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p18 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 10 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p18 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 10 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p18 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 10 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n0 n0 n1
-1
-22 0
-2
-0 11 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p19 fast0 n0 n1 n2
-1
-22 0
-2
-0 11 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p19 fast0 n0 n2 n3
-1
-22 0
-2
-0 11 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n0 n3 n4
-1
-22 0
-2
-0 11 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p19 fast0 n12 n0 n1
-1
-22 1
-2
-0 11 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p19 fast0 n12 n1 n2
-1
-22 1
-2
-0 11 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p19 fast0 n12 n2 n3
-1
-22 1
-2
-0 11 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n12 n3 n4
-1
-22 1
-2
-0 11 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p19 fast0 n16 n0 n1
-1
-22 2
-2
-0 11 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p19 fast0 n16 n1 n2
-1
-22 2
-2
-0 11 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p19 fast0 n16 n2 n3
-1
-22 2
-2
-0 11 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n16 n3 n4
-1
-22 2
-2
-0 11 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p19 fast0 n4 n0 n1
-1
-22 3
-2
-0 11 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p19 fast0 n4 n1 n2
-1
-22 3
-2
-0 11 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p19 fast0 n4 n2 n3
-1
-22 3
-2
-0 11 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n4 n3 n4
-1
-22 3
-2
-0 11 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p19 fast0 n8 n0 n1
-1
-22 4
-2
-0 11 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p19 fast0 n8 n1 n2
-1
-22 4
-2
-0 11 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p19 fast0 n8 n2 n3
-1
-22 4
-2
-0 11 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p19 fast0 n8 n3 n4
-1
-22 4
-2
-0 11 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p19 fast1 n0 n0 n1
-1
-23 0
-2
-0 11 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p19 fast1 n0 n1 n2
-1
-23 0
-2
-0 11 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p19 fast1 n0 n2 n3
-1
-23 0
-2
-0 11 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p19 fast1 n0 n3 n4
-1
-23 0
-2
-0 11 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p19 fast1 n12 n0 n1
-1
-23 1
-2
-0 11 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p19 fast1 n12 n1 n2
-1
-23 1
-2
-0 11 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p19 fast1 n12 n2 n3
-1
-23 1
-2
-0 11 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p19 fast1 n12 n3 n4
-1
-23 1
-2
-0 11 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p19 fast1 n16 n0 n1
-1
-23 2
-2
-0 11 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p19 fast1 n16 n1 n2
-1
-23 2
-2
-0 11 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p19 fast1 n16 n2 n3
-1
-23 2
-2
-0 11 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p19 fast1 n16 n3 n4
-1
-23 2
-2
-0 11 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p19 fast1 n4 n0 n1
-1
-23 3
-2
-0 11 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p19 fast1 n4 n1 n2
-1
-23 3
-2
-0 11 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p19 fast1 n4 n2 n3
-1
-23 3
-2
-0 11 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p19 fast1 n4 n3 n4
-1
-23 3
-2
-0 11 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p19 fast1 n8 n0 n1
-1
-23 4
-2
-0 11 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p19 fast1 n8 n1 n2
-1
-23 4
-2
-0 11 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p19 fast1 n8 n2 n3
-1
-23 4
-2
-0 11 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p19 fast1 n8 n3 n4
-1
-23 4
-2
-0 11 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p19 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 11 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 11 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 11 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 11 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 11 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 11 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 11 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 11 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 11 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 11 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 11 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 11 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 11 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 11 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 11 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 11 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 11 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 11 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 11 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 11 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 11 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 11 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 11 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 11 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 11 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p19 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 11 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p19 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 11 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 11 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 11 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 11 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 11 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 11 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 11 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 11 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 11 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 11 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 11 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 11 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 11 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 11 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 11 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 11 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 11 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 11 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 11 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 11 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 11 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 11 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 11 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 11 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 11 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p19 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 11 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p19 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 11 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p19 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 11 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n0 n0 n1
-1
-22 0
-2
-0 12 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p2 fast0 n0 n1 n2
-1
-22 0
-2
-0 12 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p2 fast0 n0 n2 n3
-1
-22 0
-2
-0 12 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n0 n3 n4
-1
-22 0
-2
-0 12 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p2 fast0 n12 n0 n1
-1
-22 1
-2
-0 12 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p2 fast0 n12 n1 n2
-1
-22 1
-2
-0 12 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p2 fast0 n12 n2 n3
-1
-22 1
-2
-0 12 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n12 n3 n4
-1
-22 1
-2
-0 12 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p2 fast0 n16 n0 n1
-1
-22 2
-2
-0 12 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p2 fast0 n16 n1 n2
-1
-22 2
-2
-0 12 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p2 fast0 n16 n2 n3
-1
-22 2
-2
-0 12 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n16 n3 n4
-1
-22 2
-2
-0 12 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p2 fast0 n4 n0 n1
-1
-22 3
-2
-0 12 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p2 fast0 n4 n1 n2
-1
-22 3
-2
-0 12 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p2 fast0 n4 n2 n3
-1
-22 3
-2
-0 12 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n4 n3 n4
-1
-22 3
-2
-0 12 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p2 fast0 n8 n0 n1
-1
-22 4
-2
-0 12 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p2 fast0 n8 n1 n2
-1
-22 4
-2
-0 12 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p2 fast0 n8 n2 n3
-1
-22 4
-2
-0 12 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p2 fast0 n8 n3 n4
-1
-22 4
-2
-0 12 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p2 fast1 n0 n0 n1
-1
-23 0
-2
-0 12 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p2 fast1 n0 n1 n2
-1
-23 0
-2
-0 12 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p2 fast1 n0 n2 n3
-1
-23 0
-2
-0 12 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p2 fast1 n0 n3 n4
-1
-23 0
-2
-0 12 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p2 fast1 n12 n0 n1
-1
-23 1
-2
-0 12 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p2 fast1 n12 n1 n2
-1
-23 1
-2
-0 12 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p2 fast1 n12 n2 n3
-1
-23 1
-2
-0 12 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p2 fast1 n12 n3 n4
-1
-23 1
-2
-0 12 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p2 fast1 n16 n0 n1
-1
-23 2
-2
-0 12 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p2 fast1 n16 n1 n2
-1
-23 2
-2
-0 12 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p2 fast1 n16 n2 n3
-1
-23 2
-2
-0 12 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p2 fast1 n16 n3 n4
-1
-23 2
-2
-0 12 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p2 fast1 n4 n0 n1
-1
-23 3
-2
-0 12 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p2 fast1 n4 n1 n2
-1
-23 3
-2
-0 12 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p2 fast1 n4 n2 n3
-1
-23 3
-2
-0 12 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p2 fast1 n4 n3 n4
-1
-23 3
-2
-0 12 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p2 fast1 n8 n0 n1
-1
-23 4
-2
-0 12 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p2 fast1 n8 n1 n2
-1
-23 4
-2
-0 12 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p2 fast1 n8 n2 n3
-1
-23 4
-2
-0 12 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p2 fast1 n8 n3 n4
-1
-23 4
-2
-0 12 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p2 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 12 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 12 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 12 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 12 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 12 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 12 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 12 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 12 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 12 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 12 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 12 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 12 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 12 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 12 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 12 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 12 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 12 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 12 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 12 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 12 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 12 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 12 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 12 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 12 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 12 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p2 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 12 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p2 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 12 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 12 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 12 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 12 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 12 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 12 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 12 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 12 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 12 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 12 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 12 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 12 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 12 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 12 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 12 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 12 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 12 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 12 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 12 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 12 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 12 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 12 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 12 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 12 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 12 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p2 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 12 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p2 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 12 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p2 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 12 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n0 n0 n1
-1
-22 0
-2
-0 13 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p20 fast0 n0 n1 n2
-1
-22 0
-2
-0 13 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p20 fast0 n0 n2 n3
-1
-22 0
-2
-0 13 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n0 n3 n4
-1
-22 0
-2
-0 13 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p20 fast0 n12 n0 n1
-1
-22 1
-2
-0 13 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p20 fast0 n12 n1 n2
-1
-22 1
-2
-0 13 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p20 fast0 n12 n2 n3
-1
-22 1
-2
-0 13 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n12 n3 n4
-1
-22 1
-2
-0 13 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p20 fast0 n16 n0 n1
-1
-22 2
-2
-0 13 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p20 fast0 n16 n1 n2
-1
-22 2
-2
-0 13 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p20 fast0 n16 n2 n3
-1
-22 2
-2
-0 13 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n16 n3 n4
-1
-22 2
-2
-0 13 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p20 fast0 n4 n0 n1
-1
-22 3
-2
-0 13 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p20 fast0 n4 n1 n2
-1
-22 3
-2
-0 13 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p20 fast0 n4 n2 n3
-1
-22 3
-2
-0 13 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n4 n3 n4
-1
-22 3
-2
-0 13 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p20 fast0 n8 n0 n1
-1
-22 4
-2
-0 13 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p20 fast0 n8 n1 n2
-1
-22 4
-2
-0 13 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p20 fast0 n8 n2 n3
-1
-22 4
-2
-0 13 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p20 fast0 n8 n3 n4
-1
-22 4
-2
-0 13 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p20 fast1 n0 n0 n1
-1
-23 0
-2
-0 13 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p20 fast1 n0 n1 n2
-1
-23 0
-2
-0 13 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p20 fast1 n0 n2 n3
-1
-23 0
-2
-0 13 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p20 fast1 n0 n3 n4
-1
-23 0
-2
-0 13 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p20 fast1 n12 n0 n1
-1
-23 1
-2
-0 13 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p20 fast1 n12 n1 n2
-1
-23 1
-2
-0 13 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p20 fast1 n12 n2 n3
-1
-23 1
-2
-0 13 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p20 fast1 n12 n3 n4
-1
-23 1
-2
-0 13 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p20 fast1 n16 n0 n1
-1
-23 2
-2
-0 13 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p20 fast1 n16 n1 n2
-1
-23 2
-2
-0 13 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p20 fast1 n16 n2 n3
-1
-23 2
-2
-0 13 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p20 fast1 n16 n3 n4
-1
-23 2
-2
-0 13 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p20 fast1 n4 n0 n1
-1
-23 3
-2
-0 13 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p20 fast1 n4 n1 n2
-1
-23 3
-2
-0 13 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p20 fast1 n4 n2 n3
-1
-23 3
-2
-0 13 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p20 fast1 n4 n3 n4
-1
-23 3
-2
-0 13 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p20 fast1 n8 n0 n1
-1
-23 4
-2
-0 13 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p20 fast1 n8 n1 n2
-1
-23 4
-2
-0 13 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p20 fast1 n8 n2 n3
-1
-23 4
-2
-0 13 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p20 fast1 n8 n3 n4
-1
-23 4
-2
-0 13 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p20 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 13 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 13 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 13 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 13 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 13 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 13 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 13 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 13 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 13 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 13 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 13 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 13 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 13 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 13 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 13 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 13 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 13 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 13 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 13 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 13 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 13 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 13 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 13 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 13 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 13 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p20 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 13 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p20 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 13 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 13 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 13 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 13 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 13 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 13 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 13 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 13 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 13 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 13 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 13 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 13 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 13 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 13 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 13 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 13 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 13 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 13 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 13 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 13 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 13 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 13 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 13 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 13 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 13 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p20 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 13 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p20 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 13 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p20 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 13 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n0 n0 n1
-1
-22 0
-2
-0 14 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p21 fast0 n0 n1 n2
-1
-22 0
-2
-0 14 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p21 fast0 n0 n2 n3
-1
-22 0
-2
-0 14 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n0 n3 n4
-1
-22 0
-2
-0 14 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p21 fast0 n12 n0 n1
-1
-22 1
-2
-0 14 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p21 fast0 n12 n1 n2
-1
-22 1
-2
-0 14 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p21 fast0 n12 n2 n3
-1
-22 1
-2
-0 14 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n12 n3 n4
-1
-22 1
-2
-0 14 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p21 fast0 n16 n0 n1
-1
-22 2
-2
-0 14 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p21 fast0 n16 n1 n2
-1
-22 2
-2
-0 14 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p21 fast0 n16 n2 n3
-1
-22 2
-2
-0 14 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n16 n3 n4
-1
-22 2
-2
-0 14 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p21 fast0 n4 n0 n1
-1
-22 3
-2
-0 14 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p21 fast0 n4 n1 n2
-1
-22 3
-2
-0 14 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p21 fast0 n4 n2 n3
-1
-22 3
-2
-0 14 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n4 n3 n4
-1
-22 3
-2
-0 14 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p21 fast0 n8 n0 n1
-1
-22 4
-2
-0 14 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p21 fast0 n8 n1 n2
-1
-22 4
-2
-0 14 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p21 fast0 n8 n2 n3
-1
-22 4
-2
-0 14 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p21 fast0 n8 n3 n4
-1
-22 4
-2
-0 14 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p21 fast1 n0 n0 n1
-1
-23 0
-2
-0 14 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p21 fast1 n0 n1 n2
-1
-23 0
-2
-0 14 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p21 fast1 n0 n2 n3
-1
-23 0
-2
-0 14 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p21 fast1 n0 n3 n4
-1
-23 0
-2
-0 14 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p21 fast1 n12 n0 n1
-1
-23 1
-2
-0 14 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p21 fast1 n12 n1 n2
-1
-23 1
-2
-0 14 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p21 fast1 n12 n2 n3
-1
-23 1
-2
-0 14 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p21 fast1 n12 n3 n4
-1
-23 1
-2
-0 14 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p21 fast1 n16 n0 n1
-1
-23 2
-2
-0 14 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p21 fast1 n16 n1 n2
-1
-23 2
-2
-0 14 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p21 fast1 n16 n2 n3
-1
-23 2
-2
-0 14 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p21 fast1 n16 n3 n4
-1
-23 2
-2
-0 14 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p21 fast1 n4 n0 n1
-1
-23 3
-2
-0 14 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p21 fast1 n4 n1 n2
-1
-23 3
-2
-0 14 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p21 fast1 n4 n2 n3
-1
-23 3
-2
-0 14 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p21 fast1 n4 n3 n4
-1
-23 3
-2
-0 14 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p21 fast1 n8 n0 n1
-1
-23 4
-2
-0 14 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p21 fast1 n8 n1 n2
-1
-23 4
-2
-0 14 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p21 fast1 n8 n2 n3
-1
-23 4
-2
-0 14 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p21 fast1 n8 n3 n4
-1
-23 4
-2
-0 14 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p21 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 14 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 14 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 14 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 14 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 14 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 14 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 14 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 14 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 14 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 14 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 14 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 14 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 14 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 14 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 14 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 14 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 14 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 14 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 14 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 14 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 14 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 14 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 14 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 14 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 14 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p21 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 14 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p21 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 14 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 14 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 14 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 14 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 14 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 14 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 14 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 14 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 14 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 14 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 14 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 14 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 14 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 14 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 14 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 14 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 14 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 14 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 14 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 14 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 14 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 14 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 14 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 14 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 14 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p21 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 14 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p21 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 14 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p21 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 14 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n0 n0 n1
-1
-22 0
-2
-0 15 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p3 fast0 n0 n1 n2
-1
-22 0
-2
-0 15 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p3 fast0 n0 n2 n3
-1
-22 0
-2
-0 15 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n0 n3 n4
-1
-22 0
-2
-0 15 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p3 fast0 n12 n0 n1
-1
-22 1
-2
-0 15 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p3 fast0 n12 n1 n2
-1
-22 1
-2
-0 15 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p3 fast0 n12 n2 n3
-1
-22 1
-2
-0 15 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n12 n3 n4
-1
-22 1
-2
-0 15 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p3 fast0 n16 n0 n1
-1
-22 2
-2
-0 15 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p3 fast0 n16 n1 n2
-1
-22 2
-2
-0 15 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p3 fast0 n16 n2 n3
-1
-22 2
-2
-0 15 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n16 n3 n4
-1
-22 2
-2
-0 15 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p3 fast0 n4 n0 n1
-1
-22 3
-2
-0 15 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p3 fast0 n4 n1 n2
-1
-22 3
-2
-0 15 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p3 fast0 n4 n2 n3
-1
-22 3
-2
-0 15 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n4 n3 n4
-1
-22 3
-2
-0 15 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p3 fast0 n8 n0 n1
-1
-22 4
-2
-0 15 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p3 fast0 n8 n1 n2
-1
-22 4
-2
-0 15 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p3 fast0 n8 n2 n3
-1
-22 4
-2
-0 15 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p3 fast0 n8 n3 n4
-1
-22 4
-2
-0 15 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p3 fast1 n0 n0 n1
-1
-23 0
-2
-0 15 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p3 fast1 n0 n1 n2
-1
-23 0
-2
-0 15 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p3 fast1 n0 n2 n3
-1
-23 0
-2
-0 15 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p3 fast1 n0 n3 n4
-1
-23 0
-2
-0 15 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p3 fast1 n12 n0 n1
-1
-23 1
-2
-0 15 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p3 fast1 n12 n1 n2
-1
-23 1
-2
-0 15 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p3 fast1 n12 n2 n3
-1
-23 1
-2
-0 15 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p3 fast1 n12 n3 n4
-1
-23 1
-2
-0 15 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p3 fast1 n16 n0 n1
-1
-23 2
-2
-0 15 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p3 fast1 n16 n1 n2
-1
-23 2
-2
-0 15 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p3 fast1 n16 n2 n3
-1
-23 2
-2
-0 15 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p3 fast1 n16 n3 n4
-1
-23 2
-2
-0 15 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p3 fast1 n4 n0 n1
-1
-23 3
-2
-0 15 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p3 fast1 n4 n1 n2
-1
-23 3
-2
-0 15 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p3 fast1 n4 n2 n3
-1
-23 3
-2
-0 15 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p3 fast1 n4 n3 n4
-1
-23 3
-2
-0 15 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p3 fast1 n8 n0 n1
-1
-23 4
-2
-0 15 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p3 fast1 n8 n1 n2
-1
-23 4
-2
-0 15 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p3 fast1 n8 n2 n3
-1
-23 4
-2
-0 15 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p3 fast1 n8 n3 n4
-1
-23 4
-2
-0 15 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p3 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 15 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 15 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 15 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 15 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 15 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 15 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 15 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 15 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 15 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 15 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 15 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 15 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 15 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 15 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 15 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 15 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 15 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 15 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 15 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 15 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 15 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 15 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 15 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 15 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 15 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p3 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 15 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p3 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 15 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 15 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 15 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 15 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 15 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 15 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 15 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 15 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 15 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 15 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 15 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 15 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 15 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 15 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 15 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 15 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 15 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 15 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 15 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 15 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 15 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 15 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 15 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 15 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 15 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p3 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 15 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p3 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 15 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p3 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 15 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n0 n0 n1
-1
-22 0
-2
-0 16 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p4 fast0 n0 n1 n2
-1
-22 0
-2
-0 16 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p4 fast0 n0 n2 n3
-1
-22 0
-2
-0 16 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n0 n3 n4
-1
-22 0
-2
-0 16 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p4 fast0 n12 n0 n1
-1
-22 1
-2
-0 16 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p4 fast0 n12 n1 n2
-1
-22 1
-2
-0 16 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p4 fast0 n12 n2 n3
-1
-22 1
-2
-0 16 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n12 n3 n4
-1
-22 1
-2
-0 16 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p4 fast0 n16 n0 n1
-1
-22 2
-2
-0 16 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p4 fast0 n16 n1 n2
-1
-22 2
-2
-0 16 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p4 fast0 n16 n2 n3
-1
-22 2
-2
-0 16 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n16 n3 n4
-1
-22 2
-2
-0 16 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p4 fast0 n4 n0 n1
-1
-22 3
-2
-0 16 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p4 fast0 n4 n1 n2
-1
-22 3
-2
-0 16 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p4 fast0 n4 n2 n3
-1
-22 3
-2
-0 16 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n4 n3 n4
-1
-22 3
-2
-0 16 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p4 fast0 n8 n0 n1
-1
-22 4
-2
-0 16 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p4 fast0 n8 n1 n2
-1
-22 4
-2
-0 16 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p4 fast0 n8 n2 n3
-1
-22 4
-2
-0 16 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p4 fast0 n8 n3 n4
-1
-22 4
-2
-0 16 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p4 fast1 n0 n0 n1
-1
-23 0
-2
-0 16 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p4 fast1 n0 n1 n2
-1
-23 0
-2
-0 16 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p4 fast1 n0 n2 n3
-1
-23 0
-2
-0 16 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p4 fast1 n0 n3 n4
-1
-23 0
-2
-0 16 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p4 fast1 n12 n0 n1
-1
-23 1
-2
-0 16 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p4 fast1 n12 n1 n2
-1
-23 1
-2
-0 16 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p4 fast1 n12 n2 n3
-1
-23 1
-2
-0 16 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p4 fast1 n12 n3 n4
-1
-23 1
-2
-0 16 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p4 fast1 n16 n0 n1
-1
-23 2
-2
-0 16 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p4 fast1 n16 n1 n2
-1
-23 2
-2
-0 16 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p4 fast1 n16 n2 n3
-1
-23 2
-2
-0 16 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p4 fast1 n16 n3 n4
-1
-23 2
-2
-0 16 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p4 fast1 n4 n0 n1
-1
-23 3
-2
-0 16 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p4 fast1 n4 n1 n2
-1
-23 3
-2
-0 16 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p4 fast1 n4 n2 n3
-1
-23 3
-2
-0 16 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p4 fast1 n4 n3 n4
-1
-23 3
-2
-0 16 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p4 fast1 n8 n0 n1
-1
-23 4
-2
-0 16 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p4 fast1 n8 n1 n2
-1
-23 4
-2
-0 16 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p4 fast1 n8 n2 n3
-1
-23 4
-2
-0 16 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p4 fast1 n8 n3 n4
-1
-23 4
-2
-0 16 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p4 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 16 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 16 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 16 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 16 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 16 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 16 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 16 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 16 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 16 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 16 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 16 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 16 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 16 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 16 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 16 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 16 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 16 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 16 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 16 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 16 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 16 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 16 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 16 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 16 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 16 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p4 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 16 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p4 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 16 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 16 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 16 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 16 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 16 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 16 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 16 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 16 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 16 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 16 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 16 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 16 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 16 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 16 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 16 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 16 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 16 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 16 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 16 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 16 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 16 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 16 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 16 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 16 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 16 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p4 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 16 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p4 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 16 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p4 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 16 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n0 n0 n1
-1
-22 0
-2
-0 17 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p5 fast0 n0 n1 n2
-1
-22 0
-2
-0 17 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p5 fast0 n0 n2 n3
-1
-22 0
-2
-0 17 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n0 n3 n4
-1
-22 0
-2
-0 17 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p5 fast0 n12 n0 n1
-1
-22 1
-2
-0 17 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p5 fast0 n12 n1 n2
-1
-22 1
-2
-0 17 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p5 fast0 n12 n2 n3
-1
-22 1
-2
-0 17 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n12 n3 n4
-1
-22 1
-2
-0 17 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p5 fast0 n16 n0 n1
-1
-22 2
-2
-0 17 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p5 fast0 n16 n1 n2
-1
-22 2
-2
-0 17 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p5 fast0 n16 n2 n3
-1
-22 2
-2
-0 17 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n16 n3 n4
-1
-22 2
-2
-0 17 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p5 fast0 n4 n0 n1
-1
-22 3
-2
-0 17 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p5 fast0 n4 n1 n2
-1
-22 3
-2
-0 17 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p5 fast0 n4 n2 n3
-1
-22 3
-2
-0 17 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n4 n3 n4
-1
-22 3
-2
-0 17 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p5 fast0 n8 n0 n1
-1
-22 4
-2
-0 17 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p5 fast0 n8 n1 n2
-1
-22 4
-2
-0 17 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p5 fast0 n8 n2 n3
-1
-22 4
-2
-0 17 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p5 fast0 n8 n3 n4
-1
-22 4
-2
-0 17 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p5 fast1 n0 n0 n1
-1
-23 0
-2
-0 17 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p5 fast1 n0 n1 n2
-1
-23 0
-2
-0 17 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p5 fast1 n0 n2 n3
-1
-23 0
-2
-0 17 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p5 fast1 n0 n3 n4
-1
-23 0
-2
-0 17 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p5 fast1 n12 n0 n1
-1
-23 1
-2
-0 17 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p5 fast1 n12 n1 n2
-1
-23 1
-2
-0 17 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p5 fast1 n12 n2 n3
-1
-23 1
-2
-0 17 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p5 fast1 n12 n3 n4
-1
-23 1
-2
-0 17 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p5 fast1 n16 n0 n1
-1
-23 2
-2
-0 17 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p5 fast1 n16 n1 n2
-1
-23 2
-2
-0 17 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p5 fast1 n16 n2 n3
-1
-23 2
-2
-0 17 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p5 fast1 n16 n3 n4
-1
-23 2
-2
-0 17 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p5 fast1 n4 n0 n1
-1
-23 3
-2
-0 17 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p5 fast1 n4 n1 n2
-1
-23 3
-2
-0 17 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p5 fast1 n4 n2 n3
-1
-23 3
-2
-0 17 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p5 fast1 n4 n3 n4
-1
-23 3
-2
-0 17 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p5 fast1 n8 n0 n1
-1
-23 4
-2
-0 17 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p5 fast1 n8 n1 n2
-1
-23 4
-2
-0 17 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p5 fast1 n8 n2 n3
-1
-23 4
-2
-0 17 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p5 fast1 n8 n3 n4
-1
-23 4
-2
-0 17 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p5 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 17 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 17 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 17 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 17 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 17 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 17 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 17 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 17 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 17 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 17 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 17 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 17 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 17 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 17 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 17 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 17 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 17 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 17 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 17 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 17 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 17 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 17 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 17 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 17 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 17 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p5 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 17 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p5 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 17 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 17 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 17 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 17 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 17 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 17 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 17 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 17 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 17 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 17 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 17 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 17 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 17 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 17 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 17 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 17 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 17 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 17 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 17 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 17 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 17 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 17 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 17 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 17 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 17 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p5 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 17 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p5 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 17 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p5 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 17 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n0 n0 n1
-1
-22 0
-2
-0 18 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p6 fast0 n0 n1 n2
-1
-22 0
-2
-0 18 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p6 fast0 n0 n2 n3
-1
-22 0
-2
-0 18 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n0 n3 n4
-1
-22 0
-2
-0 18 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p6 fast0 n12 n0 n1
-1
-22 1
-2
-0 18 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p6 fast0 n12 n1 n2
-1
-22 1
-2
-0 18 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p6 fast0 n12 n2 n3
-1
-22 1
-2
-0 18 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n12 n3 n4
-1
-22 1
-2
-0 18 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p6 fast0 n16 n0 n1
-1
-22 2
-2
-0 18 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p6 fast0 n16 n1 n2
-1
-22 2
-2
-0 18 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p6 fast0 n16 n2 n3
-1
-22 2
-2
-0 18 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n16 n3 n4
-1
-22 2
-2
-0 18 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p6 fast0 n4 n0 n1
-1
-22 3
-2
-0 18 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p6 fast0 n4 n1 n2
-1
-22 3
-2
-0 18 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p6 fast0 n4 n2 n3
-1
-22 3
-2
-0 18 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n4 n3 n4
-1
-22 3
-2
-0 18 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p6 fast0 n8 n0 n1
-1
-22 4
-2
-0 18 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p6 fast0 n8 n1 n2
-1
-22 4
-2
-0 18 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p6 fast0 n8 n2 n3
-1
-22 4
-2
-0 18 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p6 fast0 n8 n3 n4
-1
-22 4
-2
-0 18 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p6 fast1 n0 n0 n1
-1
-23 0
-2
-0 18 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p6 fast1 n0 n1 n2
-1
-23 0
-2
-0 18 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p6 fast1 n0 n2 n3
-1
-23 0
-2
-0 18 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p6 fast1 n0 n3 n4
-1
-23 0
-2
-0 18 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p6 fast1 n12 n0 n1
-1
-23 1
-2
-0 18 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p6 fast1 n12 n1 n2
-1
-23 1
-2
-0 18 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p6 fast1 n12 n2 n3
-1
-23 1
-2
-0 18 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p6 fast1 n12 n3 n4
-1
-23 1
-2
-0 18 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p6 fast1 n16 n0 n1
-1
-23 2
-2
-0 18 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p6 fast1 n16 n1 n2
-1
-23 2
-2
-0 18 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p6 fast1 n16 n2 n3
-1
-23 2
-2
-0 18 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p6 fast1 n16 n3 n4
-1
-23 2
-2
-0 18 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p6 fast1 n4 n0 n1
-1
-23 3
-2
-0 18 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p6 fast1 n4 n1 n2
-1
-23 3
-2
-0 18 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p6 fast1 n4 n2 n3
-1
-23 3
-2
-0 18 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p6 fast1 n4 n3 n4
-1
-23 3
-2
-0 18 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p6 fast1 n8 n0 n1
-1
-23 4
-2
-0 18 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p6 fast1 n8 n1 n2
-1
-23 4
-2
-0 18 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p6 fast1 n8 n2 n3
-1
-23 4
-2
-0 18 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p6 fast1 n8 n3 n4
-1
-23 4
-2
-0 18 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p6 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 18 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 18 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 18 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 18 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 18 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 18 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 18 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 18 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 18 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 18 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 18 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 18 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 18 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 18 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 18 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 18 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 18 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 18 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 18 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 18 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 18 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 18 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 18 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 18 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 18 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p6 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 18 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p6 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 18 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 18 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 18 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 18 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 18 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 18 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 18 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 18 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 18 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 18 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 18 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 18 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 18 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 18 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 18 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 18 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 18 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 18 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 18 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 18 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 18 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 18 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 18 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 18 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 18 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p6 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 18 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p6 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 18 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p6 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 18 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n0 n0 n1
-1
-22 0
-2
-0 19 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p7 fast0 n0 n1 n2
-1
-22 0
-2
-0 19 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p7 fast0 n0 n2 n3
-1
-22 0
-2
-0 19 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n0 n3 n4
-1
-22 0
-2
-0 19 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p7 fast0 n12 n0 n1
-1
-22 1
-2
-0 19 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p7 fast0 n12 n1 n2
-1
-22 1
-2
-0 19 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p7 fast0 n12 n2 n3
-1
-22 1
-2
-0 19 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n12 n3 n4
-1
-22 1
-2
-0 19 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p7 fast0 n16 n0 n1
-1
-22 2
-2
-0 19 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p7 fast0 n16 n1 n2
-1
-22 2
-2
-0 19 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p7 fast0 n16 n2 n3
-1
-22 2
-2
-0 19 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n16 n3 n4
-1
-22 2
-2
-0 19 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p7 fast0 n4 n0 n1
-1
-22 3
-2
-0 19 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p7 fast0 n4 n1 n2
-1
-22 3
-2
-0 19 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p7 fast0 n4 n2 n3
-1
-22 3
-2
-0 19 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n4 n3 n4
-1
-22 3
-2
-0 19 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p7 fast0 n8 n0 n1
-1
-22 4
-2
-0 19 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p7 fast0 n8 n1 n2
-1
-22 4
-2
-0 19 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p7 fast0 n8 n2 n3
-1
-22 4
-2
-0 19 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p7 fast0 n8 n3 n4
-1
-22 4
-2
-0 19 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p7 fast1 n0 n0 n1
-1
-23 0
-2
-0 19 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p7 fast1 n0 n1 n2
-1
-23 0
-2
-0 19 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p7 fast1 n0 n2 n3
-1
-23 0
-2
-0 19 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p7 fast1 n0 n3 n4
-1
-23 0
-2
-0 19 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p7 fast1 n12 n0 n1
-1
-23 1
-2
-0 19 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p7 fast1 n12 n1 n2
-1
-23 1
-2
-0 19 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p7 fast1 n12 n2 n3
-1
-23 1
-2
-0 19 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p7 fast1 n12 n3 n4
-1
-23 1
-2
-0 19 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p7 fast1 n16 n0 n1
-1
-23 2
-2
-0 19 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p7 fast1 n16 n1 n2
-1
-23 2
-2
-0 19 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p7 fast1 n16 n2 n3
-1
-23 2
-2
-0 19 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p7 fast1 n16 n3 n4
-1
-23 2
-2
-0 19 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p7 fast1 n4 n0 n1
-1
-23 3
-2
-0 19 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p7 fast1 n4 n1 n2
-1
-23 3
-2
-0 19 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p7 fast1 n4 n2 n3
-1
-23 3
-2
-0 19 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p7 fast1 n4 n3 n4
-1
-23 3
-2
-0 19 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p7 fast1 n8 n0 n1
-1
-23 4
-2
-0 19 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p7 fast1 n8 n1 n2
-1
-23 4
-2
-0 19 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p7 fast1 n8 n2 n3
-1
-23 4
-2
-0 19 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p7 fast1 n8 n3 n4
-1
-23 4
-2
-0 19 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p7 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 19 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 19 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 19 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 19 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 19 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 19 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 19 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 19 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 19 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 19 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 19 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 19 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 19 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 19 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 19 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 19 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 19 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 19 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 19 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 19 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 19 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 19 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 19 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 19 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 19 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p7 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 19 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p7 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 19 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 19 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 19 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 19 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 19 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 19 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 19 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 19 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 19 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 19 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 19 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 19 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 19 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 19 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 19 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 19 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 19 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 19 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 19 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 19 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 19 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 19 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 19 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 19 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 19 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p7 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 19 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p7 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 19 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p7 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 19 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n0 n0 n1
-1
-22 0
-2
-0 20 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p8 fast0 n0 n1 n2
-1
-22 0
-2
-0 20 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p8 fast0 n0 n2 n3
-1
-22 0
-2
-0 20 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n0 n3 n4
-1
-22 0
-2
-0 20 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p8 fast0 n12 n0 n1
-1
-22 1
-2
-0 20 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p8 fast0 n12 n1 n2
-1
-22 1
-2
-0 20 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p8 fast0 n12 n2 n3
-1
-22 1
-2
-0 20 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n12 n3 n4
-1
-22 1
-2
-0 20 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p8 fast0 n16 n0 n1
-1
-22 2
-2
-0 20 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p8 fast0 n16 n1 n2
-1
-22 2
-2
-0 20 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p8 fast0 n16 n2 n3
-1
-22 2
-2
-0 20 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n16 n3 n4
-1
-22 2
-2
-0 20 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p8 fast0 n4 n0 n1
-1
-22 3
-2
-0 20 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p8 fast0 n4 n1 n2
-1
-22 3
-2
-0 20 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p8 fast0 n4 n2 n3
-1
-22 3
-2
-0 20 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n4 n3 n4
-1
-22 3
-2
-0 20 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p8 fast0 n8 n0 n1
-1
-22 4
-2
-0 20 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p8 fast0 n8 n1 n2
-1
-22 4
-2
-0 20 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p8 fast0 n8 n2 n3
-1
-22 4
-2
-0 20 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p8 fast0 n8 n3 n4
-1
-22 4
-2
-0 20 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p8 fast1 n0 n0 n1
-1
-23 0
-2
-0 20 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p8 fast1 n0 n1 n2
-1
-23 0
-2
-0 20 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p8 fast1 n0 n2 n3
-1
-23 0
-2
-0 20 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p8 fast1 n0 n3 n4
-1
-23 0
-2
-0 20 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p8 fast1 n12 n0 n1
-1
-23 1
-2
-0 20 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p8 fast1 n12 n1 n2
-1
-23 1
-2
-0 20 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p8 fast1 n12 n2 n3
-1
-23 1
-2
-0 20 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p8 fast1 n12 n3 n4
-1
-23 1
-2
-0 20 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p8 fast1 n16 n0 n1
-1
-23 2
-2
-0 20 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p8 fast1 n16 n1 n2
-1
-23 2
-2
-0 20 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p8 fast1 n16 n2 n3
-1
-23 2
-2
-0 20 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p8 fast1 n16 n3 n4
-1
-23 2
-2
-0 20 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p8 fast1 n4 n0 n1
-1
-23 3
-2
-0 20 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p8 fast1 n4 n1 n2
-1
-23 3
-2
-0 20 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p8 fast1 n4 n2 n3
-1
-23 3
-2
-0 20 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p8 fast1 n4 n3 n4
-1
-23 3
-2
-0 20 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p8 fast1 n8 n0 n1
-1
-23 4
-2
-0 20 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p8 fast1 n8 n1 n2
-1
-23 4
-2
-0 20 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p8 fast1 n8 n2 n3
-1
-23 4
-2
-0 20 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p8 fast1 n8 n3 n4
-1
-23 4
-2
-0 20 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p8 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 20 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 20 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 20 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 20 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 20 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 20 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 20 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 20 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 20 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 20 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 20 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 20 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 20 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 20 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 20 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 20 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 20 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 20 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 20 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 20 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 20 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 20 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 20 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 20 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 20 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p8 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 20 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p8 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 20 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 20 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 20 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 20 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 20 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 20 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 20 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 20 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 20 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 20 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 20 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 20 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 20 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 20 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 20 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 20 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 20 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 20 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 20 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 20 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 20 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 20 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 20 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 20 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 20 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p8 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 20 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p8 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 20 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p8 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 20 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n0 n0 n1
-1
-22 0
-2
-0 21 4 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p9 fast0 n0 n1 n2
-1
-22 0
-2
-0 21 4 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p9 fast0 n0 n2 n3
-1
-22 0
-2
-0 21 4 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n0 n3 n4
-1
-22 0
-2
-0 21 4 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p9 fast0 n12 n0 n1
-1
-22 1
-2
-0 21 8 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p9 fast0 n12 n1 n2
-1
-22 1
-2
-0 21 8 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p9 fast0 n12 n2 n3
-1
-22 1
-2
-0 21 8 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n12 n3 n4
-1
-22 1
-2
-0 21 8 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p9 fast0 n16 n0 n1
-1
-22 2
-2
-0 21 12 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p9 fast0 n16 n1 n2
-1
-22 2
-2
-0 21 12 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p9 fast0 n16 n2 n3
-1
-22 2
-2
-0 21 12 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n16 n3 n4
-1
-22 2
-2
-0 21 12 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p9 fast0 n4 n0 n1
-1
-22 3
-2
-0 21 15 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p9 fast0 n4 n1 n2
-1
-22 3
-2
-0 21 15 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p9 fast0 n4 n2 n3
-1
-22 3
-2
-0 21 15 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n4 n3 n4
-1
-22 3
-2
-0 21 15 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p9 fast0 n8 n0 n1
-1
-22 4
-2
-0 21 19 0
-0 26 0 1
-0
-end_operator
-begin_operator
-board p9 fast0 n8 n1 n2
-1
-22 4
-2
-0 21 19 0
-0 26 1 2
-0
-end_operator
-begin_operator
-board p9 fast0 n8 n2 n3
-1
-22 4
-2
-0 21 19 0
-0 26 2 3
-0
-end_operator
-begin_operator
-board p9 fast0 n8 n3 n4
-1
-22 4
-2
-0 21 19 0
-0 26 3 4
-0
-end_operator
-begin_operator
-board p9 fast1 n0 n0 n1
-1
-23 0
-2
-0 21 4 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p9 fast1 n0 n1 n2
-1
-23 0
-2
-0 21 4 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p9 fast1 n0 n2 n3
-1
-23 0
-2
-0 21 4 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p9 fast1 n0 n3 n4
-1
-23 0
-2
-0 21 4 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p9 fast1 n12 n0 n1
-1
-23 1
-2
-0 21 8 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p9 fast1 n12 n1 n2
-1
-23 1
-2
-0 21 8 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p9 fast1 n12 n2 n3
-1
-23 1
-2
-0 21 8 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p9 fast1 n12 n3 n4
-1
-23 1
-2
-0 21 8 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p9 fast1 n16 n0 n1
-1
-23 2
-2
-0 21 12 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p9 fast1 n16 n1 n2
-1
-23 2
-2
-0 21 12 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p9 fast1 n16 n2 n3
-1
-23 2
-2
-0 21 12 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p9 fast1 n16 n3 n4
-1
-23 2
-2
-0 21 12 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p9 fast1 n4 n0 n1
-1
-23 3
-2
-0 21 15 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p9 fast1 n4 n1 n2
-1
-23 3
-2
-0 21 15 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p9 fast1 n4 n2 n3
-1
-23 3
-2
-0 21 15 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p9 fast1 n4 n3 n4
-1
-23 3
-2
-0 21 15 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p9 fast1 n8 n0 n1
-1
-23 4
-2
-0 21 19 1
-0 27 0 1
-0
-end_operator
-begin_operator
-board p9 fast1 n8 n1 n2
-1
-23 4
-2
-0 21 19 1
-0 27 1 2
-0
-end_operator
-begin_operator
-board p9 fast1 n8 n2 n3
-1
-23 4
-2
-0 21 19 1
-0 27 2 3
-0
-end_operator
-begin_operator
-board p9 fast1 n8 n3 n4
-1
-23 4
-2
-0 21 19 1
-0 27 3 4
-0
-end_operator
-begin_operator
-board p9 slow0-0 n0 n0 n1
-1
-24 0
-2
-0 21 4 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n0 n1 n2
-1
-24 0
-2
-0 21 4 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n0 n2 n3
-1
-24 0
-2
-0 21 4 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n1 n0 n1
-1
-24 1
-2
-0 21 5 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n1 n1 n2
-1
-24 1
-2
-0 21 5 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n1 n2 n3
-1
-24 1
-2
-0 21 5 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n2 n0 n1
-1
-24 2
-2
-0 21 13 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n2 n1 n2
-1
-24 2
-2
-0 21 13 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n2 n2 n3
-1
-24 2
-2
-0 21 13 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n3 n0 n1
-1
-24 3
-2
-0 21 14 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n3 n1 n2
-1
-24 3
-2
-0 21 14 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n3 n2 n3
-1
-24 3
-2
-0 21 14 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n4 n0 n1
-1
-24 4
-2
-0 21 15 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n4 n1 n2
-1
-24 4
-2
-0 21 15 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n4 n2 n3
-1
-24 4
-2
-0 21 15 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n5 n0 n1
-1
-24 5
-2
-0 21 16 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n5 n1 n2
-1
-24 5
-2
-0 21 16 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n5 n2 n3
-1
-24 5
-2
-0 21 16 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n6 n0 n1
-1
-24 6
-2
-0 21 17 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n6 n1 n2
-1
-24 6
-2
-0 21 17 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n6 n2 n3
-1
-24 6
-2
-0 21 17 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n7 n0 n1
-1
-24 7
-2
-0 21 18 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n7 n1 n2
-1
-24 7
-2
-0 21 18 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n7 n2 n3
-1
-24 7
-2
-0 21 18 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow0-0 n8 n0 n1
-1
-24 8
-2
-0 21 19 2
-0 28 0 1
-0
-end_operator
-begin_operator
-board p9 slow0-0 n8 n1 n2
-1
-24 8
-2
-0 21 19 2
-0 28 1 2
-0
-end_operator
-begin_operator
-board p9 slow0-0 n8 n2 n3
-1
-24 8
-2
-0 21 19 2
-0 28 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n10 n0 n1
-1
-25 0
-2
-0 21 6 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n10 n1 n2
-1
-25 0
-2
-0 21 6 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n10 n2 n3
-1
-25 0
-2
-0 21 6 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n11 n0 n1
-1
-25 1
-2
-0 21 7 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n11 n1 n2
-1
-25 1
-2
-0 21 7 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n11 n2 n3
-1
-25 1
-2
-0 21 7 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n12 n0 n1
-1
-25 2
-2
-0 21 8 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n12 n1 n2
-1
-25 2
-2
-0 21 8 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n12 n2 n3
-1
-25 2
-2
-0 21 8 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n13 n0 n1
-1
-25 3
-2
-0 21 9 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n13 n1 n2
-1
-25 3
-2
-0 21 9 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n13 n2 n3
-1
-25 3
-2
-0 21 9 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n14 n0 n1
-1
-25 4
-2
-0 21 10 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n14 n1 n2
-1
-25 4
-2
-0 21 10 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n14 n2 n3
-1
-25 4
-2
-0 21 10 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n15 n0 n1
-1
-25 5
-2
-0 21 11 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n15 n1 n2
-1
-25 5
-2
-0 21 11 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n15 n2 n3
-1
-25 5
-2
-0 21 11 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n16 n0 n1
-1
-25 6
-2
-0 21 12 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n16 n1 n2
-1
-25 6
-2
-0 21 12 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n16 n2 n3
-1
-25 6
-2
-0 21 12 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n8 n0 n1
-1
-25 7
-2
-0 21 19 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n8 n1 n2
-1
-25 7
-2
-0 21 19 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n8 n2 n3
-1
-25 7
-2
-0 21 19 3
-0 29 2 3
-0
-end_operator
-begin_operator
-board p9 slow1-0 n9 n0 n1
-1
-25 8
-2
-0 21 20 3
-0 29 0 1
-0
-end_operator
-begin_operator
-board p9 slow1-0 n9 n1 n2
-1
-25 8
-2
-0 21 20 3
-0 29 1 2
-0
-end_operator
-begin_operator
-board p9 slow1-0 n9 n2 n3
-1
-25 8
-2
-0 21 20 3
-0 29 2 3
-0
-end_operator
-begin_operator
-leave p0 fast0 n0 n1 n0
-1
-22 0
-2
-0 0 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p0 fast0 n0 n2 n1
-1
-22 0
-2
-0 0 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p0 fast0 n0 n3 n2
-1
-22 0
-2
-0 0 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p0 fast0 n0 n4 n3
-1
-22 0
-2
-0 0 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p0 fast0 n12 n1 n0
-1
-22 1
-2
-0 0 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p0 fast0 n12 n2 n1
-1
-22 1
-2
-0 0 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p0 fast0 n12 n3 n2
-1
-22 1
-2
-0 0 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p0 fast0 n12 n4 n3
-1
-22 1
-2
-0 0 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p0 fast0 n16 n1 n0
-1
-22 2
-2
-0 0 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p0 fast0 n16 n2 n1
-1
-22 2
-2
-0 0 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p0 fast0 n16 n3 n2
-1
-22 2
-2
-0 0 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p0 fast0 n16 n4 n3
-1
-22 2
-2
-0 0 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p0 fast0 n4 n1 n0
-1
-22 3
-2
-0 0 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p0 fast0 n4 n2 n1
-1
-22 3
-2
-0 0 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p0 fast0 n4 n3 n2
-1
-22 3
-2
-0 0 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p0 fast0 n4 n4 n3
-1
-22 3
-2
-0 0 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p0 fast0 n8 n1 n0
-1
-22 4
-2
-0 0 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p0 fast0 n8 n2 n1
-1
-22 4
-2
-0 0 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p0 fast0 n8 n3 n2
-1
-22 4
-2
-0 0 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p0 fast0 n8 n4 n3
-1
-22 4
-2
-0 0 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p0 fast1 n0 n1 n0
-1
-23 0
-2
-0 0 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p0 fast1 n0 n2 n1
-1
-23 0
-2
-0 0 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p0 fast1 n0 n3 n2
-1
-23 0
-2
-0 0 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p0 fast1 n0 n4 n3
-1
-23 0
-2
-0 0 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p0 fast1 n12 n1 n0
-1
-23 1
-2
-0 0 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p0 fast1 n12 n2 n1
-1
-23 1
-2
-0 0 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p0 fast1 n12 n3 n2
-1
-23 1
-2
-0 0 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p0 fast1 n12 n4 n3
-1
-23 1
-2
-0 0 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p0 fast1 n16 n1 n0
-1
-23 2
-2
-0 0 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p0 fast1 n16 n2 n1
-1
-23 2
-2
-0 0 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p0 fast1 n16 n3 n2
-1
-23 2
-2
-0 0 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p0 fast1 n16 n4 n3
-1
-23 2
-2
-0 0 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p0 fast1 n4 n1 n0
-1
-23 3
-2
-0 0 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p0 fast1 n4 n2 n1
-1
-23 3
-2
-0 0 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p0 fast1 n4 n3 n2
-1
-23 3
-2
-0 0 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p0 fast1 n4 n4 n3
-1
-23 3
-2
-0 0 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p0 fast1 n8 n1 n0
-1
-23 4
-2
-0 0 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p0 fast1 n8 n2 n1
-1
-23 4
-2
-0 0 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p0 fast1 n8 n3 n2
-1
-23 4
-2
-0 0 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p0 fast1 n8 n4 n3
-1
-23 4
-2
-0 0 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 0 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 0 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 0 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 0 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 0 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 0 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 0 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 0 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 0 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 0 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 0 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 0 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 0 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 0 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 0 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 0 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 0 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 0 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 0 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 0 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 0 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 0 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 0 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 0 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 0 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 0 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p0 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 0 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 0 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 0 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 0 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 0 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 0 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 0 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 0 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 0 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 0 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 0 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 0 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 0 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 0 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 0 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 0 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 0 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 0 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 0 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 0 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 0 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 0 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 0 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 0 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 0 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 0 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 0 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p0 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 0 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n0 n1 n0
-1
-22 0
-2
-0 1 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p1 fast0 n0 n2 n1
-1
-22 0
-2
-0 1 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p1 fast0 n0 n3 n2
-1
-22 0
-2
-0 1 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n0 n4 n3
-1
-22 0
-2
-0 1 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p1 fast0 n12 n1 n0
-1
-22 1
-2
-0 1 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p1 fast0 n12 n2 n1
-1
-22 1
-2
-0 1 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p1 fast0 n12 n3 n2
-1
-22 1
-2
-0 1 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n12 n4 n3
-1
-22 1
-2
-0 1 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p1 fast0 n16 n1 n0
-1
-22 2
-2
-0 1 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p1 fast0 n16 n2 n1
-1
-22 2
-2
-0 1 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p1 fast0 n16 n3 n2
-1
-22 2
-2
-0 1 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n16 n4 n3
-1
-22 2
-2
-0 1 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p1 fast0 n4 n1 n0
-1
-22 3
-2
-0 1 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p1 fast0 n4 n2 n1
-1
-22 3
-2
-0 1 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p1 fast0 n4 n3 n2
-1
-22 3
-2
-0 1 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n4 n4 n3
-1
-22 3
-2
-0 1 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p1 fast0 n8 n1 n0
-1
-22 4
-2
-0 1 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p1 fast0 n8 n2 n1
-1
-22 4
-2
-0 1 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p1 fast0 n8 n3 n2
-1
-22 4
-2
-0 1 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p1 fast0 n8 n4 n3
-1
-22 4
-2
-0 1 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p1 fast1 n0 n1 n0
-1
-23 0
-2
-0 1 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p1 fast1 n0 n2 n1
-1
-23 0
-2
-0 1 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p1 fast1 n0 n3 n2
-1
-23 0
-2
-0 1 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p1 fast1 n0 n4 n3
-1
-23 0
-2
-0 1 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p1 fast1 n12 n1 n0
-1
-23 1
-2
-0 1 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p1 fast1 n12 n2 n1
-1
-23 1
-2
-0 1 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p1 fast1 n12 n3 n2
-1
-23 1
-2
-0 1 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p1 fast1 n12 n4 n3
-1
-23 1
-2
-0 1 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p1 fast1 n16 n1 n0
-1
-23 2
-2
-0 1 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p1 fast1 n16 n2 n1
-1
-23 2
-2
-0 1 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p1 fast1 n16 n3 n2
-1
-23 2
-2
-0 1 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p1 fast1 n16 n4 n3
-1
-23 2
-2
-0 1 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p1 fast1 n4 n1 n0
-1
-23 3
-2
-0 1 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p1 fast1 n4 n2 n1
-1
-23 3
-2
-0 1 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p1 fast1 n4 n3 n2
-1
-23 3
-2
-0 1 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p1 fast1 n4 n4 n3
-1
-23 3
-2
-0 1 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p1 fast1 n8 n1 n0
-1
-23 4
-2
-0 1 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p1 fast1 n8 n2 n1
-1
-23 4
-2
-0 1 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p1 fast1 n8 n3 n2
-1
-23 4
-2
-0 1 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p1 fast1 n8 n4 n3
-1
-23 4
-2
-0 1 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 1 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 1 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 1 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 1 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 1 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 1 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 1 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 1 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 1 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 1 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 1 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 1 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 1 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 1 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 1 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 1 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 1 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 1 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 1 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 1 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 1 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 1 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 1 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 1 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 1 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 1 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p1 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 1 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 1 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 1 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 1 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 1 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 1 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 1 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 1 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 1 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 1 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 1 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 1 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 1 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 1 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 1 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 1 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 1 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 1 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 1 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 1 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 1 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 1 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 1 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 1 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 1 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 1 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 1 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p1 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 1 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n0 n1 n0
-1
-22 0
-2
-0 2 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p10 fast0 n0 n2 n1
-1
-22 0
-2
-0 2 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p10 fast0 n0 n3 n2
-1
-22 0
-2
-0 2 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n0 n4 n3
-1
-22 0
-2
-0 2 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p10 fast0 n12 n1 n0
-1
-22 1
-2
-0 2 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p10 fast0 n12 n2 n1
-1
-22 1
-2
-0 2 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p10 fast0 n12 n3 n2
-1
-22 1
-2
-0 2 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n12 n4 n3
-1
-22 1
-2
-0 2 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p10 fast0 n16 n1 n0
-1
-22 2
-2
-0 2 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p10 fast0 n16 n2 n1
-1
-22 2
-2
-0 2 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p10 fast0 n16 n3 n2
-1
-22 2
-2
-0 2 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n16 n4 n3
-1
-22 2
-2
-0 2 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p10 fast0 n4 n1 n0
-1
-22 3
-2
-0 2 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p10 fast0 n4 n2 n1
-1
-22 3
-2
-0 2 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p10 fast0 n4 n3 n2
-1
-22 3
-2
-0 2 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n4 n4 n3
-1
-22 3
-2
-0 2 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p10 fast0 n8 n1 n0
-1
-22 4
-2
-0 2 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p10 fast0 n8 n2 n1
-1
-22 4
-2
-0 2 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p10 fast0 n8 n3 n2
-1
-22 4
-2
-0 2 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p10 fast0 n8 n4 n3
-1
-22 4
-2
-0 2 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p10 fast1 n0 n1 n0
-1
-23 0
-2
-0 2 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p10 fast1 n0 n2 n1
-1
-23 0
-2
-0 2 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p10 fast1 n0 n3 n2
-1
-23 0
-2
-0 2 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p10 fast1 n0 n4 n3
-1
-23 0
-2
-0 2 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p10 fast1 n12 n1 n0
-1
-23 1
-2
-0 2 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p10 fast1 n12 n2 n1
-1
-23 1
-2
-0 2 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p10 fast1 n12 n3 n2
-1
-23 1
-2
-0 2 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p10 fast1 n12 n4 n3
-1
-23 1
-2
-0 2 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p10 fast1 n16 n1 n0
-1
-23 2
-2
-0 2 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p10 fast1 n16 n2 n1
-1
-23 2
-2
-0 2 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p10 fast1 n16 n3 n2
-1
-23 2
-2
-0 2 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p10 fast1 n16 n4 n3
-1
-23 2
-2
-0 2 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p10 fast1 n4 n1 n0
-1
-23 3
-2
-0 2 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p10 fast1 n4 n2 n1
-1
-23 3
-2
-0 2 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p10 fast1 n4 n3 n2
-1
-23 3
-2
-0 2 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p10 fast1 n4 n4 n3
-1
-23 3
-2
-0 2 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p10 fast1 n8 n1 n0
-1
-23 4
-2
-0 2 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p10 fast1 n8 n2 n1
-1
-23 4
-2
-0 2 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p10 fast1 n8 n3 n2
-1
-23 4
-2
-0 2 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p10 fast1 n8 n4 n3
-1
-23 4
-2
-0 2 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 2 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 2 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 2 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 2 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 2 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 2 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 2 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 2 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 2 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 2 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 2 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 2 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 2 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 2 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 2 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 2 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 2 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 2 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 2 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 2 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 2 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 2 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 2 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 2 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 2 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 2 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p10 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 2 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 2 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 2 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 2 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 2 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 2 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 2 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 2 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 2 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 2 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 2 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 2 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 2 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 2 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 2 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 2 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 2 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 2 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 2 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 2 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 2 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 2 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 2 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 2 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 2 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 2 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 2 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p10 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 2 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n0 n1 n0
-1
-22 0
-2
-0 3 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p11 fast0 n0 n2 n1
-1
-22 0
-2
-0 3 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p11 fast0 n0 n3 n2
-1
-22 0
-2
-0 3 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n0 n4 n3
-1
-22 0
-2
-0 3 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p11 fast0 n12 n1 n0
-1
-22 1
-2
-0 3 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p11 fast0 n12 n2 n1
-1
-22 1
-2
-0 3 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p11 fast0 n12 n3 n2
-1
-22 1
-2
-0 3 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n12 n4 n3
-1
-22 1
-2
-0 3 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p11 fast0 n16 n1 n0
-1
-22 2
-2
-0 3 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p11 fast0 n16 n2 n1
-1
-22 2
-2
-0 3 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p11 fast0 n16 n3 n2
-1
-22 2
-2
-0 3 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n16 n4 n3
-1
-22 2
-2
-0 3 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p11 fast0 n4 n1 n0
-1
-22 3
-2
-0 3 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p11 fast0 n4 n2 n1
-1
-22 3
-2
-0 3 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p11 fast0 n4 n3 n2
-1
-22 3
-2
-0 3 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n4 n4 n3
-1
-22 3
-2
-0 3 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p11 fast0 n8 n1 n0
-1
-22 4
-2
-0 3 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p11 fast0 n8 n2 n1
-1
-22 4
-2
-0 3 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p11 fast0 n8 n3 n2
-1
-22 4
-2
-0 3 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p11 fast0 n8 n4 n3
-1
-22 4
-2
-0 3 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p11 fast1 n0 n1 n0
-1
-23 0
-2
-0 3 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p11 fast1 n0 n2 n1
-1
-23 0
-2
-0 3 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p11 fast1 n0 n3 n2
-1
-23 0
-2
-0 3 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p11 fast1 n0 n4 n3
-1
-23 0
-2
-0 3 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p11 fast1 n12 n1 n0
-1
-23 1
-2
-0 3 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p11 fast1 n12 n2 n1
-1
-23 1
-2
-0 3 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p11 fast1 n12 n3 n2
-1
-23 1
-2
-0 3 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p11 fast1 n12 n4 n3
-1
-23 1
-2
-0 3 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p11 fast1 n16 n1 n0
-1
-23 2
-2
-0 3 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p11 fast1 n16 n2 n1
-1
-23 2
-2
-0 3 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p11 fast1 n16 n3 n2
-1
-23 2
-2
-0 3 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p11 fast1 n16 n4 n3
-1
-23 2
-2
-0 3 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p11 fast1 n4 n1 n0
-1
-23 3
-2
-0 3 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p11 fast1 n4 n2 n1
-1
-23 3
-2
-0 3 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p11 fast1 n4 n3 n2
-1
-23 3
-2
-0 3 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p11 fast1 n4 n4 n3
-1
-23 3
-2
-0 3 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p11 fast1 n8 n1 n0
-1
-23 4
-2
-0 3 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p11 fast1 n8 n2 n1
-1
-23 4
-2
-0 3 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p11 fast1 n8 n3 n2
-1
-23 4
-2
-0 3 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p11 fast1 n8 n4 n3
-1
-23 4
-2
-0 3 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 3 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 3 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 3 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 3 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 3 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 3 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 3 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 3 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 3 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 3 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 3 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 3 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 3 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 3 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 3 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 3 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 3 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 3 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 3 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 3 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 3 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 3 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 3 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 3 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 3 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 3 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p11 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 3 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 3 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 3 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 3 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 3 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 3 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 3 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 3 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 3 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 3 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 3 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 3 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 3 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 3 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 3 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 3 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 3 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 3 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 3 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 3 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 3 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 3 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 3 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 3 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 3 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 3 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 3 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p11 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 3 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n0 n1 n0
-1
-22 0
-2
-0 4 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p12 fast0 n0 n2 n1
-1
-22 0
-2
-0 4 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p12 fast0 n0 n3 n2
-1
-22 0
-2
-0 4 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n0 n4 n3
-1
-22 0
-2
-0 4 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p12 fast0 n12 n1 n0
-1
-22 1
-2
-0 4 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p12 fast0 n12 n2 n1
-1
-22 1
-2
-0 4 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p12 fast0 n12 n3 n2
-1
-22 1
-2
-0 4 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n12 n4 n3
-1
-22 1
-2
-0 4 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p12 fast0 n16 n1 n0
-1
-22 2
-2
-0 4 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p12 fast0 n16 n2 n1
-1
-22 2
-2
-0 4 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p12 fast0 n16 n3 n2
-1
-22 2
-2
-0 4 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n16 n4 n3
-1
-22 2
-2
-0 4 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p12 fast0 n4 n1 n0
-1
-22 3
-2
-0 4 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p12 fast0 n4 n2 n1
-1
-22 3
-2
-0 4 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p12 fast0 n4 n3 n2
-1
-22 3
-2
-0 4 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n4 n4 n3
-1
-22 3
-2
-0 4 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p12 fast0 n8 n1 n0
-1
-22 4
-2
-0 4 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p12 fast0 n8 n2 n1
-1
-22 4
-2
-0 4 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p12 fast0 n8 n3 n2
-1
-22 4
-2
-0 4 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p12 fast0 n8 n4 n3
-1
-22 4
-2
-0 4 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p12 fast1 n0 n1 n0
-1
-23 0
-2
-0 4 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p12 fast1 n0 n2 n1
-1
-23 0
-2
-0 4 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p12 fast1 n0 n3 n2
-1
-23 0
-2
-0 4 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p12 fast1 n0 n4 n3
-1
-23 0
-2
-0 4 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p12 fast1 n12 n1 n0
-1
-23 1
-2
-0 4 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p12 fast1 n12 n2 n1
-1
-23 1
-2
-0 4 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p12 fast1 n12 n3 n2
-1
-23 1
-2
-0 4 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p12 fast1 n12 n4 n3
-1
-23 1
-2
-0 4 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p12 fast1 n16 n1 n0
-1
-23 2
-2
-0 4 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p12 fast1 n16 n2 n1
-1
-23 2
-2
-0 4 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p12 fast1 n16 n3 n2
-1
-23 2
-2
-0 4 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p12 fast1 n16 n4 n3
-1
-23 2
-2
-0 4 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p12 fast1 n4 n1 n0
-1
-23 3
-2
-0 4 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p12 fast1 n4 n2 n1
-1
-23 3
-2
-0 4 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p12 fast1 n4 n3 n2
-1
-23 3
-2
-0 4 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p12 fast1 n4 n4 n3
-1
-23 3
-2
-0 4 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p12 fast1 n8 n1 n0
-1
-23 4
-2
-0 4 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p12 fast1 n8 n2 n1
-1
-23 4
-2
-0 4 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p12 fast1 n8 n3 n2
-1
-23 4
-2
-0 4 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p12 fast1 n8 n4 n3
-1
-23 4
-2
-0 4 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 4 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 4 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 4 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 4 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 4 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 4 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 4 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 4 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 4 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 4 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 4 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 4 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 4 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 4 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 4 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 4 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 4 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 4 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 4 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 4 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 4 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 4 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 4 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 4 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 4 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 4 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p12 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 4 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 4 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 4 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 4 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 4 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 4 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 4 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 4 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 4 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 4 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 4 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 4 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 4 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 4 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 4 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 4 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 4 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 4 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 4 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 4 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 4 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 4 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 4 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 4 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 4 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 4 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 4 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p12 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 4 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n0 n1 n0
-1
-22 0
-2
-0 5 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p13 fast0 n0 n2 n1
-1
-22 0
-2
-0 5 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p13 fast0 n0 n3 n2
-1
-22 0
-2
-0 5 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n0 n4 n3
-1
-22 0
-2
-0 5 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p13 fast0 n12 n1 n0
-1
-22 1
-2
-0 5 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p13 fast0 n12 n2 n1
-1
-22 1
-2
-0 5 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p13 fast0 n12 n3 n2
-1
-22 1
-2
-0 5 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n12 n4 n3
-1
-22 1
-2
-0 5 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p13 fast0 n16 n1 n0
-1
-22 2
-2
-0 5 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p13 fast0 n16 n2 n1
-1
-22 2
-2
-0 5 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p13 fast0 n16 n3 n2
-1
-22 2
-2
-0 5 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n16 n4 n3
-1
-22 2
-2
-0 5 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p13 fast0 n4 n1 n0
-1
-22 3
-2
-0 5 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p13 fast0 n4 n2 n1
-1
-22 3
-2
-0 5 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p13 fast0 n4 n3 n2
-1
-22 3
-2
-0 5 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n4 n4 n3
-1
-22 3
-2
-0 5 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p13 fast0 n8 n1 n0
-1
-22 4
-2
-0 5 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p13 fast0 n8 n2 n1
-1
-22 4
-2
-0 5 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p13 fast0 n8 n3 n2
-1
-22 4
-2
-0 5 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p13 fast0 n8 n4 n3
-1
-22 4
-2
-0 5 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p13 fast1 n0 n1 n0
-1
-23 0
-2
-0 5 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p13 fast1 n0 n2 n1
-1
-23 0
-2
-0 5 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p13 fast1 n0 n3 n2
-1
-23 0
-2
-0 5 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p13 fast1 n0 n4 n3
-1
-23 0
-2
-0 5 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p13 fast1 n12 n1 n0
-1
-23 1
-2
-0 5 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p13 fast1 n12 n2 n1
-1
-23 1
-2
-0 5 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p13 fast1 n12 n3 n2
-1
-23 1
-2
-0 5 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p13 fast1 n12 n4 n3
-1
-23 1
-2
-0 5 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p13 fast1 n16 n1 n0
-1
-23 2
-2
-0 5 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p13 fast1 n16 n2 n1
-1
-23 2
-2
-0 5 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p13 fast1 n16 n3 n2
-1
-23 2
-2
-0 5 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p13 fast1 n16 n4 n3
-1
-23 2
-2
-0 5 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p13 fast1 n4 n1 n0
-1
-23 3
-2
-0 5 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p13 fast1 n4 n2 n1
-1
-23 3
-2
-0 5 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p13 fast1 n4 n3 n2
-1
-23 3
-2
-0 5 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p13 fast1 n4 n4 n3
-1
-23 3
-2
-0 5 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p13 fast1 n8 n1 n0
-1
-23 4
-2
-0 5 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p13 fast1 n8 n2 n1
-1
-23 4
-2
-0 5 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p13 fast1 n8 n3 n2
-1
-23 4
-2
-0 5 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p13 fast1 n8 n4 n3
-1
-23 4
-2
-0 5 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 5 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 5 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 5 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 5 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 5 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 5 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 5 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 5 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 5 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 5 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 5 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 5 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 5 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 5 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 5 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 5 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 5 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 5 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 5 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 5 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 5 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 5 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 5 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 5 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 5 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 5 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p13 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 5 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 5 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 5 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 5 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 5 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 5 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 5 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 5 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 5 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 5 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 5 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 5 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 5 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 5 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 5 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 5 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 5 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 5 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 5 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 5 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 5 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 5 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 5 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 5 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 5 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 5 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 5 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p13 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 5 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n0 n1 n0
-1
-22 0
-2
-0 6 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p14 fast0 n0 n2 n1
-1
-22 0
-2
-0 6 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p14 fast0 n0 n3 n2
-1
-22 0
-2
-0 6 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n0 n4 n3
-1
-22 0
-2
-0 6 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p14 fast0 n12 n1 n0
-1
-22 1
-2
-0 6 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p14 fast0 n12 n2 n1
-1
-22 1
-2
-0 6 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p14 fast0 n12 n3 n2
-1
-22 1
-2
-0 6 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n12 n4 n3
-1
-22 1
-2
-0 6 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p14 fast0 n16 n1 n0
-1
-22 2
-2
-0 6 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p14 fast0 n16 n2 n1
-1
-22 2
-2
-0 6 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p14 fast0 n16 n3 n2
-1
-22 2
-2
-0 6 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n16 n4 n3
-1
-22 2
-2
-0 6 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p14 fast0 n4 n1 n0
-1
-22 3
-2
-0 6 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p14 fast0 n4 n2 n1
-1
-22 3
-2
-0 6 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p14 fast0 n4 n3 n2
-1
-22 3
-2
-0 6 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n4 n4 n3
-1
-22 3
-2
-0 6 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p14 fast0 n8 n1 n0
-1
-22 4
-2
-0 6 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p14 fast0 n8 n2 n1
-1
-22 4
-2
-0 6 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p14 fast0 n8 n3 n2
-1
-22 4
-2
-0 6 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p14 fast0 n8 n4 n3
-1
-22 4
-2
-0 6 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p14 fast1 n0 n1 n0
-1
-23 0
-2
-0 6 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p14 fast1 n0 n2 n1
-1
-23 0
-2
-0 6 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p14 fast1 n0 n3 n2
-1
-23 0
-2
-0 6 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p14 fast1 n0 n4 n3
-1
-23 0
-2
-0 6 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p14 fast1 n12 n1 n0
-1
-23 1
-2
-0 6 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p14 fast1 n12 n2 n1
-1
-23 1
-2
-0 6 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p14 fast1 n12 n3 n2
-1
-23 1
-2
-0 6 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p14 fast1 n12 n4 n3
-1
-23 1
-2
-0 6 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p14 fast1 n16 n1 n0
-1
-23 2
-2
-0 6 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p14 fast1 n16 n2 n1
-1
-23 2
-2
-0 6 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p14 fast1 n16 n3 n2
-1
-23 2
-2
-0 6 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p14 fast1 n16 n4 n3
-1
-23 2
-2
-0 6 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p14 fast1 n4 n1 n0
-1
-23 3
-2
-0 6 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p14 fast1 n4 n2 n1
-1
-23 3
-2
-0 6 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p14 fast1 n4 n3 n2
-1
-23 3
-2
-0 6 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p14 fast1 n4 n4 n3
-1
-23 3
-2
-0 6 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p14 fast1 n8 n1 n0
-1
-23 4
-2
-0 6 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p14 fast1 n8 n2 n1
-1
-23 4
-2
-0 6 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p14 fast1 n8 n3 n2
-1
-23 4
-2
-0 6 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p14 fast1 n8 n4 n3
-1
-23 4
-2
-0 6 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 6 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 6 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 6 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 6 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 6 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 6 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 6 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 6 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 6 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 6 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 6 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 6 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 6 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 6 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 6 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 6 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 6 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 6 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 6 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 6 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 6 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 6 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 6 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 6 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 6 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 6 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p14 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 6 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 6 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 6 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 6 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 6 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 6 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 6 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 6 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 6 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 6 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 6 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 6 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 6 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 6 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 6 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 6 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 6 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 6 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 6 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 6 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 6 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 6 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 6 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 6 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 6 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 6 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 6 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p14 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 6 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n0 n1 n0
-1
-22 0
-2
-0 7 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p15 fast0 n0 n2 n1
-1
-22 0
-2
-0 7 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p15 fast0 n0 n3 n2
-1
-22 0
-2
-0 7 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n0 n4 n3
-1
-22 0
-2
-0 7 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p15 fast0 n12 n1 n0
-1
-22 1
-2
-0 7 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p15 fast0 n12 n2 n1
-1
-22 1
-2
-0 7 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p15 fast0 n12 n3 n2
-1
-22 1
-2
-0 7 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n12 n4 n3
-1
-22 1
-2
-0 7 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p15 fast0 n16 n1 n0
-1
-22 2
-2
-0 7 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p15 fast0 n16 n2 n1
-1
-22 2
-2
-0 7 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p15 fast0 n16 n3 n2
-1
-22 2
-2
-0 7 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n16 n4 n3
-1
-22 2
-2
-0 7 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p15 fast0 n4 n1 n0
-1
-22 3
-2
-0 7 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p15 fast0 n4 n2 n1
-1
-22 3
-2
-0 7 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p15 fast0 n4 n3 n2
-1
-22 3
-2
-0 7 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n4 n4 n3
-1
-22 3
-2
-0 7 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p15 fast0 n8 n1 n0
-1
-22 4
-2
-0 7 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p15 fast0 n8 n2 n1
-1
-22 4
-2
-0 7 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p15 fast0 n8 n3 n2
-1
-22 4
-2
-0 7 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p15 fast0 n8 n4 n3
-1
-22 4
-2
-0 7 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p15 fast1 n0 n1 n0
-1
-23 0
-2
-0 7 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p15 fast1 n0 n2 n1
-1
-23 0
-2
-0 7 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p15 fast1 n0 n3 n2
-1
-23 0
-2
-0 7 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p15 fast1 n0 n4 n3
-1
-23 0
-2
-0 7 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p15 fast1 n12 n1 n0
-1
-23 1
-2
-0 7 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p15 fast1 n12 n2 n1
-1
-23 1
-2
-0 7 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p15 fast1 n12 n3 n2
-1
-23 1
-2
-0 7 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p15 fast1 n12 n4 n3
-1
-23 1
-2
-0 7 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p15 fast1 n16 n1 n0
-1
-23 2
-2
-0 7 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p15 fast1 n16 n2 n1
-1
-23 2
-2
-0 7 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p15 fast1 n16 n3 n2
-1
-23 2
-2
-0 7 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p15 fast1 n16 n4 n3
-1
-23 2
-2
-0 7 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p15 fast1 n4 n1 n0
-1
-23 3
-2
-0 7 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p15 fast1 n4 n2 n1
-1
-23 3
-2
-0 7 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p15 fast1 n4 n3 n2
-1
-23 3
-2
-0 7 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p15 fast1 n4 n4 n3
-1
-23 3
-2
-0 7 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p15 fast1 n8 n1 n0
-1
-23 4
-2
-0 7 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p15 fast1 n8 n2 n1
-1
-23 4
-2
-0 7 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p15 fast1 n8 n3 n2
-1
-23 4
-2
-0 7 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p15 fast1 n8 n4 n3
-1
-23 4
-2
-0 7 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 7 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 7 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 7 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 7 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 7 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 7 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 7 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 7 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 7 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 7 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 7 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 7 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 7 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 7 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 7 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 7 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 7 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 7 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 7 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 7 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 7 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 7 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 7 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 7 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 7 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 7 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p15 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 7 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 7 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 7 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 7 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 7 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 7 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 7 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 7 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 7 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 7 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 7 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 7 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 7 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 7 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 7 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 7 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 7 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 7 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 7 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 7 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 7 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 7 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 7 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 7 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 7 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 7 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 7 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p15 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 7 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n0 n1 n0
-1
-22 0
-2
-0 8 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p16 fast0 n0 n2 n1
-1
-22 0
-2
-0 8 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p16 fast0 n0 n3 n2
-1
-22 0
-2
-0 8 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n0 n4 n3
-1
-22 0
-2
-0 8 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p16 fast0 n12 n1 n0
-1
-22 1
-2
-0 8 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p16 fast0 n12 n2 n1
-1
-22 1
-2
-0 8 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p16 fast0 n12 n3 n2
-1
-22 1
-2
-0 8 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n12 n4 n3
-1
-22 1
-2
-0 8 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p16 fast0 n16 n1 n0
-1
-22 2
-2
-0 8 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p16 fast0 n16 n2 n1
-1
-22 2
-2
-0 8 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p16 fast0 n16 n3 n2
-1
-22 2
-2
-0 8 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n16 n4 n3
-1
-22 2
-2
-0 8 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p16 fast0 n4 n1 n0
-1
-22 3
-2
-0 8 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p16 fast0 n4 n2 n1
-1
-22 3
-2
-0 8 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p16 fast0 n4 n3 n2
-1
-22 3
-2
-0 8 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n4 n4 n3
-1
-22 3
-2
-0 8 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p16 fast0 n8 n1 n0
-1
-22 4
-2
-0 8 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p16 fast0 n8 n2 n1
-1
-22 4
-2
-0 8 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p16 fast0 n8 n3 n2
-1
-22 4
-2
-0 8 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p16 fast0 n8 n4 n3
-1
-22 4
-2
-0 8 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p16 fast1 n0 n1 n0
-1
-23 0
-2
-0 8 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p16 fast1 n0 n2 n1
-1
-23 0
-2
-0 8 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p16 fast1 n0 n3 n2
-1
-23 0
-2
-0 8 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p16 fast1 n0 n4 n3
-1
-23 0
-2
-0 8 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p16 fast1 n12 n1 n0
-1
-23 1
-2
-0 8 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p16 fast1 n12 n2 n1
-1
-23 1
-2
-0 8 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p16 fast1 n12 n3 n2
-1
-23 1
-2
-0 8 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p16 fast1 n12 n4 n3
-1
-23 1
-2
-0 8 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p16 fast1 n16 n1 n0
-1
-23 2
-2
-0 8 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p16 fast1 n16 n2 n1
-1
-23 2
-2
-0 8 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p16 fast1 n16 n3 n2
-1
-23 2
-2
-0 8 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p16 fast1 n16 n4 n3
-1
-23 2
-2
-0 8 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p16 fast1 n4 n1 n0
-1
-23 3
-2
-0 8 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p16 fast1 n4 n2 n1
-1
-23 3
-2
-0 8 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p16 fast1 n4 n3 n2
-1
-23 3
-2
-0 8 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p16 fast1 n4 n4 n3
-1
-23 3
-2
-0 8 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p16 fast1 n8 n1 n0
-1
-23 4
-2
-0 8 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p16 fast1 n8 n2 n1
-1
-23 4
-2
-0 8 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p16 fast1 n8 n3 n2
-1
-23 4
-2
-0 8 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p16 fast1 n8 n4 n3
-1
-23 4
-2
-0 8 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 8 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 8 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 8 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 8 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 8 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 8 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 8 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 8 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 8 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 8 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 8 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 8 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 8 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 8 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 8 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 8 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 8 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 8 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 8 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 8 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 8 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 8 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 8 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 8 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 8 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 8 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p16 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 8 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 8 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 8 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 8 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 8 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 8 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 8 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 8 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 8 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 8 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 8 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 8 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 8 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 8 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 8 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 8 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 8 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 8 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 8 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 8 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 8 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 8 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 8 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 8 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 8 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 8 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 8 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p16 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 8 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n0 n1 n0
-1
-22 0
-2
-0 9 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p17 fast0 n0 n2 n1
-1
-22 0
-2
-0 9 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p17 fast0 n0 n3 n2
-1
-22 0
-2
-0 9 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n0 n4 n3
-1
-22 0
-2
-0 9 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p17 fast0 n12 n1 n0
-1
-22 1
-2
-0 9 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p17 fast0 n12 n2 n1
-1
-22 1
-2
-0 9 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p17 fast0 n12 n3 n2
-1
-22 1
-2
-0 9 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n12 n4 n3
-1
-22 1
-2
-0 9 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p17 fast0 n16 n1 n0
-1
-22 2
-2
-0 9 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p17 fast0 n16 n2 n1
-1
-22 2
-2
-0 9 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p17 fast0 n16 n3 n2
-1
-22 2
-2
-0 9 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n16 n4 n3
-1
-22 2
-2
-0 9 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p17 fast0 n4 n1 n0
-1
-22 3
-2
-0 9 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p17 fast0 n4 n2 n1
-1
-22 3
-2
-0 9 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p17 fast0 n4 n3 n2
-1
-22 3
-2
-0 9 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n4 n4 n3
-1
-22 3
-2
-0 9 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p17 fast0 n8 n1 n0
-1
-22 4
-2
-0 9 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p17 fast0 n8 n2 n1
-1
-22 4
-2
-0 9 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p17 fast0 n8 n3 n2
-1
-22 4
-2
-0 9 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p17 fast0 n8 n4 n3
-1
-22 4
-2
-0 9 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p17 fast1 n0 n1 n0
-1
-23 0
-2
-0 9 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p17 fast1 n0 n2 n1
-1
-23 0
-2
-0 9 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p17 fast1 n0 n3 n2
-1
-23 0
-2
-0 9 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p17 fast1 n0 n4 n3
-1
-23 0
-2
-0 9 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p17 fast1 n12 n1 n0
-1
-23 1
-2
-0 9 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p17 fast1 n12 n2 n1
-1
-23 1
-2
-0 9 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p17 fast1 n12 n3 n2
-1
-23 1
-2
-0 9 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p17 fast1 n12 n4 n3
-1
-23 1
-2
-0 9 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p17 fast1 n16 n1 n0
-1
-23 2
-2
-0 9 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p17 fast1 n16 n2 n1
-1
-23 2
-2
-0 9 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p17 fast1 n16 n3 n2
-1
-23 2
-2
-0 9 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p17 fast1 n16 n4 n3
-1
-23 2
-2
-0 9 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p17 fast1 n4 n1 n0
-1
-23 3
-2
-0 9 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p17 fast1 n4 n2 n1
-1
-23 3
-2
-0 9 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p17 fast1 n4 n3 n2
-1
-23 3
-2
-0 9 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p17 fast1 n4 n4 n3
-1
-23 3
-2
-0 9 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p17 fast1 n8 n1 n0
-1
-23 4
-2
-0 9 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p17 fast1 n8 n2 n1
-1
-23 4
-2
-0 9 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p17 fast1 n8 n3 n2
-1
-23 4
-2
-0 9 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p17 fast1 n8 n4 n3
-1
-23 4
-2
-0 9 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 9 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 9 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 9 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 9 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 9 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 9 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 9 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 9 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 9 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 9 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 9 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 9 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 9 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 9 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 9 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 9 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 9 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 9 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 9 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 9 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 9 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 9 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 9 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 9 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 9 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 9 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p17 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 9 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 9 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 9 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 9 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 9 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 9 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 9 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 9 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 9 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 9 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 9 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 9 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 9 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 9 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 9 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 9 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 9 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 9 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 9 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 9 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 9 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 9 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 9 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 9 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 9 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 9 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 9 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p17 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 9 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n0 n1 n0
-1
-22 0
-2
-0 10 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p18 fast0 n0 n2 n1
-1
-22 0
-2
-0 10 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p18 fast0 n0 n3 n2
-1
-22 0
-2
-0 10 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n0 n4 n3
-1
-22 0
-2
-0 10 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p18 fast0 n12 n1 n0
-1
-22 1
-2
-0 10 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p18 fast0 n12 n2 n1
-1
-22 1
-2
-0 10 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p18 fast0 n12 n3 n2
-1
-22 1
-2
-0 10 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n12 n4 n3
-1
-22 1
-2
-0 10 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p18 fast0 n16 n1 n0
-1
-22 2
-2
-0 10 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p18 fast0 n16 n2 n1
-1
-22 2
-2
-0 10 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p18 fast0 n16 n3 n2
-1
-22 2
-2
-0 10 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n16 n4 n3
-1
-22 2
-2
-0 10 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p18 fast0 n4 n1 n0
-1
-22 3
-2
-0 10 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p18 fast0 n4 n2 n1
-1
-22 3
-2
-0 10 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p18 fast0 n4 n3 n2
-1
-22 3
-2
-0 10 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n4 n4 n3
-1
-22 3
-2
-0 10 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p18 fast0 n8 n1 n0
-1
-22 4
-2
-0 10 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p18 fast0 n8 n2 n1
-1
-22 4
-2
-0 10 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p18 fast0 n8 n3 n2
-1
-22 4
-2
-0 10 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p18 fast0 n8 n4 n3
-1
-22 4
-2
-0 10 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p18 fast1 n0 n1 n0
-1
-23 0
-2
-0 10 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p18 fast1 n0 n2 n1
-1
-23 0
-2
-0 10 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p18 fast1 n0 n3 n2
-1
-23 0
-2
-0 10 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p18 fast1 n0 n4 n3
-1
-23 0
-2
-0 10 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p18 fast1 n12 n1 n0
-1
-23 1
-2
-0 10 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p18 fast1 n12 n2 n1
-1
-23 1
-2
-0 10 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p18 fast1 n12 n3 n2
-1
-23 1
-2
-0 10 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p18 fast1 n12 n4 n3
-1
-23 1
-2
-0 10 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p18 fast1 n16 n1 n0
-1
-23 2
-2
-0 10 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p18 fast1 n16 n2 n1
-1
-23 2
-2
-0 10 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p18 fast1 n16 n3 n2
-1
-23 2
-2
-0 10 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p18 fast1 n16 n4 n3
-1
-23 2
-2
-0 10 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p18 fast1 n4 n1 n0
-1
-23 3
-2
-0 10 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p18 fast1 n4 n2 n1
-1
-23 3
-2
-0 10 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p18 fast1 n4 n3 n2
-1
-23 3
-2
-0 10 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p18 fast1 n4 n4 n3
-1
-23 3
-2
-0 10 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p18 fast1 n8 n1 n0
-1
-23 4
-2
-0 10 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p18 fast1 n8 n2 n1
-1
-23 4
-2
-0 10 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p18 fast1 n8 n3 n2
-1
-23 4
-2
-0 10 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p18 fast1 n8 n4 n3
-1
-23 4
-2
-0 10 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 10 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 10 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 10 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 10 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 10 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 10 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 10 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 10 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 10 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 10 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 10 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 10 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 10 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 10 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 10 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 10 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 10 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 10 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 10 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 10 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 10 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 10 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 10 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 10 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 10 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 10 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p18 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 10 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 10 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 10 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 10 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 10 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 10 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 10 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 10 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 10 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 10 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 10 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 10 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 10 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 10 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 10 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 10 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 10 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 10 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 10 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 10 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 10 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 10 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 10 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 10 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 10 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 10 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 10 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p18 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 10 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n0 n1 n0
-1
-22 0
-2
-0 11 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p19 fast0 n0 n2 n1
-1
-22 0
-2
-0 11 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p19 fast0 n0 n3 n2
-1
-22 0
-2
-0 11 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n0 n4 n3
-1
-22 0
-2
-0 11 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p19 fast0 n12 n1 n0
-1
-22 1
-2
-0 11 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p19 fast0 n12 n2 n1
-1
-22 1
-2
-0 11 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p19 fast0 n12 n3 n2
-1
-22 1
-2
-0 11 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n12 n4 n3
-1
-22 1
-2
-0 11 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p19 fast0 n16 n1 n0
-1
-22 2
-2
-0 11 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p19 fast0 n16 n2 n1
-1
-22 2
-2
-0 11 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p19 fast0 n16 n3 n2
-1
-22 2
-2
-0 11 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n16 n4 n3
-1
-22 2
-2
-0 11 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p19 fast0 n4 n1 n0
-1
-22 3
-2
-0 11 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p19 fast0 n4 n2 n1
-1
-22 3
-2
-0 11 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p19 fast0 n4 n3 n2
-1
-22 3
-2
-0 11 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n4 n4 n3
-1
-22 3
-2
-0 11 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p19 fast0 n8 n1 n0
-1
-22 4
-2
-0 11 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p19 fast0 n8 n2 n1
-1
-22 4
-2
-0 11 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p19 fast0 n8 n3 n2
-1
-22 4
-2
-0 11 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p19 fast0 n8 n4 n3
-1
-22 4
-2
-0 11 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p19 fast1 n0 n1 n0
-1
-23 0
-2
-0 11 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p19 fast1 n0 n2 n1
-1
-23 0
-2
-0 11 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p19 fast1 n0 n3 n2
-1
-23 0
-2
-0 11 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p19 fast1 n0 n4 n3
-1
-23 0
-2
-0 11 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p19 fast1 n12 n1 n0
-1
-23 1
-2
-0 11 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p19 fast1 n12 n2 n1
-1
-23 1
-2
-0 11 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p19 fast1 n12 n3 n2
-1
-23 1
-2
-0 11 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p19 fast1 n12 n4 n3
-1
-23 1
-2
-0 11 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p19 fast1 n16 n1 n0
-1
-23 2
-2
-0 11 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p19 fast1 n16 n2 n1
-1
-23 2
-2
-0 11 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p19 fast1 n16 n3 n2
-1
-23 2
-2
-0 11 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p19 fast1 n16 n4 n3
-1
-23 2
-2
-0 11 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p19 fast1 n4 n1 n0
-1
-23 3
-2
-0 11 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p19 fast1 n4 n2 n1
-1
-23 3
-2
-0 11 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p19 fast1 n4 n3 n2
-1
-23 3
-2
-0 11 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p19 fast1 n4 n4 n3
-1
-23 3
-2
-0 11 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p19 fast1 n8 n1 n0
-1
-23 4
-2
-0 11 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p19 fast1 n8 n2 n1
-1
-23 4
-2
-0 11 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p19 fast1 n8 n3 n2
-1
-23 4
-2
-0 11 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p19 fast1 n8 n4 n3
-1
-23 4
-2
-0 11 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 11 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 11 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 11 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 11 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 11 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 11 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 11 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 11 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 11 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 11 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 11 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 11 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 11 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 11 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 11 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 11 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 11 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 11 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 11 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 11 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 11 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 11 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 11 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 11 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 11 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 11 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p19 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 11 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 11 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 11 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 11 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 11 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 11 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 11 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 11 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 11 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 11 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 11 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 11 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 11 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 11 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 11 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 11 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 11 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 11 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 11 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 11 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 11 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 11 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 11 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 11 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 11 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 11 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 11 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p19 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 11 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n0 n1 n0
-1
-22 0
-2
-0 12 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p2 fast0 n0 n2 n1
-1
-22 0
-2
-0 12 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p2 fast0 n0 n3 n2
-1
-22 0
-2
-0 12 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n0 n4 n3
-1
-22 0
-2
-0 12 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p2 fast0 n12 n1 n0
-1
-22 1
-2
-0 12 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p2 fast0 n12 n2 n1
-1
-22 1
-2
-0 12 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p2 fast0 n12 n3 n2
-1
-22 1
-2
-0 12 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n12 n4 n3
-1
-22 1
-2
-0 12 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p2 fast0 n16 n1 n0
-1
-22 2
-2
-0 12 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p2 fast0 n16 n2 n1
-1
-22 2
-2
-0 12 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p2 fast0 n16 n3 n2
-1
-22 2
-2
-0 12 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n16 n4 n3
-1
-22 2
-2
-0 12 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p2 fast0 n4 n1 n0
-1
-22 3
-2
-0 12 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p2 fast0 n4 n2 n1
-1
-22 3
-2
-0 12 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p2 fast0 n4 n3 n2
-1
-22 3
-2
-0 12 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n4 n4 n3
-1
-22 3
-2
-0 12 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p2 fast0 n8 n1 n0
-1
-22 4
-2
-0 12 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p2 fast0 n8 n2 n1
-1
-22 4
-2
-0 12 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p2 fast0 n8 n3 n2
-1
-22 4
-2
-0 12 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p2 fast0 n8 n4 n3
-1
-22 4
-2
-0 12 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p2 fast1 n0 n1 n0
-1
-23 0
-2
-0 12 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p2 fast1 n0 n2 n1
-1
-23 0
-2
-0 12 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p2 fast1 n0 n3 n2
-1
-23 0
-2
-0 12 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p2 fast1 n0 n4 n3
-1
-23 0
-2
-0 12 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p2 fast1 n12 n1 n0
-1
-23 1
-2
-0 12 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p2 fast1 n12 n2 n1
-1
-23 1
-2
-0 12 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p2 fast1 n12 n3 n2
-1
-23 1
-2
-0 12 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p2 fast1 n12 n4 n3
-1
-23 1
-2
-0 12 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p2 fast1 n16 n1 n0
-1
-23 2
-2
-0 12 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p2 fast1 n16 n2 n1
-1
-23 2
-2
-0 12 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p2 fast1 n16 n3 n2
-1
-23 2
-2
-0 12 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p2 fast1 n16 n4 n3
-1
-23 2
-2
-0 12 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p2 fast1 n4 n1 n0
-1
-23 3
-2
-0 12 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p2 fast1 n4 n2 n1
-1
-23 3
-2
-0 12 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p2 fast1 n4 n3 n2
-1
-23 3
-2
-0 12 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p2 fast1 n4 n4 n3
-1
-23 3
-2
-0 12 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p2 fast1 n8 n1 n0
-1
-23 4
-2
-0 12 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p2 fast1 n8 n2 n1
-1
-23 4
-2
-0 12 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p2 fast1 n8 n3 n2
-1
-23 4
-2
-0 12 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p2 fast1 n8 n4 n3
-1
-23 4
-2
-0 12 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 12 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 12 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 12 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 12 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 12 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 12 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 12 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 12 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 12 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 12 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 12 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 12 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 12 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 12 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 12 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 12 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 12 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 12 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 12 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 12 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 12 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 12 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 12 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 12 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 12 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 12 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p2 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 12 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 12 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 12 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 12 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 12 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 12 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 12 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 12 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 12 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 12 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 12 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 12 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 12 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 12 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 12 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 12 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 12 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 12 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 12 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 12 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 12 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 12 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 12 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 12 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 12 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 12 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 12 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p2 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 12 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n0 n1 n0
-1
-22 0
-2
-0 13 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p20 fast0 n0 n2 n1
-1
-22 0
-2
-0 13 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p20 fast0 n0 n3 n2
-1
-22 0
-2
-0 13 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n0 n4 n3
-1
-22 0
-2
-0 13 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p20 fast0 n12 n1 n0
-1
-22 1
-2
-0 13 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p20 fast0 n12 n2 n1
-1
-22 1
-2
-0 13 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p20 fast0 n12 n3 n2
-1
-22 1
-2
-0 13 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n12 n4 n3
-1
-22 1
-2
-0 13 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p20 fast0 n16 n1 n0
-1
-22 2
-2
-0 13 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p20 fast0 n16 n2 n1
-1
-22 2
-2
-0 13 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p20 fast0 n16 n3 n2
-1
-22 2
-2
-0 13 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n16 n4 n3
-1
-22 2
-2
-0 13 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p20 fast0 n4 n1 n0
-1
-22 3
-2
-0 13 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p20 fast0 n4 n2 n1
-1
-22 3
-2
-0 13 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p20 fast0 n4 n3 n2
-1
-22 3
-2
-0 13 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n4 n4 n3
-1
-22 3
-2
-0 13 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p20 fast0 n8 n1 n0
-1
-22 4
-2
-0 13 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p20 fast0 n8 n2 n1
-1
-22 4
-2
-0 13 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p20 fast0 n8 n3 n2
-1
-22 4
-2
-0 13 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p20 fast0 n8 n4 n3
-1
-22 4
-2
-0 13 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p20 fast1 n0 n1 n0
-1
-23 0
-2
-0 13 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p20 fast1 n0 n2 n1
-1
-23 0
-2
-0 13 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p20 fast1 n0 n3 n2
-1
-23 0
-2
-0 13 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p20 fast1 n0 n4 n3
-1
-23 0
-2
-0 13 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p20 fast1 n12 n1 n0
-1
-23 1
-2
-0 13 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p20 fast1 n12 n2 n1
-1
-23 1
-2
-0 13 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p20 fast1 n12 n3 n2
-1
-23 1
-2
-0 13 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p20 fast1 n12 n4 n3
-1
-23 1
-2
-0 13 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p20 fast1 n16 n1 n0
-1
-23 2
-2
-0 13 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p20 fast1 n16 n2 n1
-1
-23 2
-2
-0 13 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p20 fast1 n16 n3 n2
-1
-23 2
-2
-0 13 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p20 fast1 n16 n4 n3
-1
-23 2
-2
-0 13 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p20 fast1 n4 n1 n0
-1
-23 3
-2
-0 13 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p20 fast1 n4 n2 n1
-1
-23 3
-2
-0 13 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p20 fast1 n4 n3 n2
-1
-23 3
-2
-0 13 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p20 fast1 n4 n4 n3
-1
-23 3
-2
-0 13 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p20 fast1 n8 n1 n0
-1
-23 4
-2
-0 13 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p20 fast1 n8 n2 n1
-1
-23 4
-2
-0 13 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p20 fast1 n8 n3 n2
-1
-23 4
-2
-0 13 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p20 fast1 n8 n4 n3
-1
-23 4
-2
-0 13 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 13 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 13 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 13 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 13 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 13 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 13 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 13 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 13 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 13 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 13 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 13 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 13 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 13 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 13 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 13 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 13 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 13 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 13 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 13 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 13 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 13 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 13 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 13 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 13 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 13 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 13 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p20 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 13 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 13 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 13 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 13 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 13 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 13 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 13 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 13 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 13 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 13 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 13 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 13 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 13 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 13 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 13 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 13 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 13 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 13 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 13 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 13 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 13 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 13 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 13 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 13 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 13 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 13 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 13 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p20 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 13 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n0 n1 n0
-1
-22 0
-2
-0 14 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p21 fast0 n0 n2 n1
-1
-22 0
-2
-0 14 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p21 fast0 n0 n3 n2
-1
-22 0
-2
-0 14 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n0 n4 n3
-1
-22 0
-2
-0 14 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p21 fast0 n12 n1 n0
-1
-22 1
-2
-0 14 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p21 fast0 n12 n2 n1
-1
-22 1
-2
-0 14 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p21 fast0 n12 n3 n2
-1
-22 1
-2
-0 14 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n12 n4 n3
-1
-22 1
-2
-0 14 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p21 fast0 n16 n1 n0
-1
-22 2
-2
-0 14 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p21 fast0 n16 n2 n1
-1
-22 2
-2
-0 14 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p21 fast0 n16 n3 n2
-1
-22 2
-2
-0 14 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n16 n4 n3
-1
-22 2
-2
-0 14 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p21 fast0 n4 n1 n0
-1
-22 3
-2
-0 14 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p21 fast0 n4 n2 n1
-1
-22 3
-2
-0 14 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p21 fast0 n4 n3 n2
-1
-22 3
-2
-0 14 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n4 n4 n3
-1
-22 3
-2
-0 14 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p21 fast0 n8 n1 n0
-1
-22 4
-2
-0 14 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p21 fast0 n8 n2 n1
-1
-22 4
-2
-0 14 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p21 fast0 n8 n3 n2
-1
-22 4
-2
-0 14 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p21 fast0 n8 n4 n3
-1
-22 4
-2
-0 14 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p21 fast1 n0 n1 n0
-1
-23 0
-2
-0 14 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p21 fast1 n0 n2 n1
-1
-23 0
-2
-0 14 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p21 fast1 n0 n3 n2
-1
-23 0
-2
-0 14 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p21 fast1 n0 n4 n3
-1
-23 0
-2
-0 14 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p21 fast1 n12 n1 n0
-1
-23 1
-2
-0 14 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p21 fast1 n12 n2 n1
-1
-23 1
-2
-0 14 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p21 fast1 n12 n3 n2
-1
-23 1
-2
-0 14 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p21 fast1 n12 n4 n3
-1
-23 1
-2
-0 14 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p21 fast1 n16 n1 n0
-1
-23 2
-2
-0 14 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p21 fast1 n16 n2 n1
-1
-23 2
-2
-0 14 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p21 fast1 n16 n3 n2
-1
-23 2
-2
-0 14 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p21 fast1 n16 n4 n3
-1
-23 2
-2
-0 14 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p21 fast1 n4 n1 n0
-1
-23 3
-2
-0 14 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p21 fast1 n4 n2 n1
-1
-23 3
-2
-0 14 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p21 fast1 n4 n3 n2
-1
-23 3
-2
-0 14 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p21 fast1 n4 n4 n3
-1
-23 3
-2
-0 14 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p21 fast1 n8 n1 n0
-1
-23 4
-2
-0 14 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p21 fast1 n8 n2 n1
-1
-23 4
-2
-0 14 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p21 fast1 n8 n3 n2
-1
-23 4
-2
-0 14 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p21 fast1 n8 n4 n3
-1
-23 4
-2
-0 14 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 14 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 14 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 14 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 14 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 14 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 14 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 14 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 14 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 14 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 14 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 14 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 14 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 14 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 14 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 14 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 14 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 14 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 14 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 14 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 14 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 14 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 14 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 14 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 14 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 14 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 14 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p21 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 14 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 14 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 14 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 14 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 14 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 14 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 14 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 14 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 14 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 14 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 14 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 14 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 14 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 14 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 14 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 14 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 14 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 14 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 14 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 14 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 14 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 14 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 14 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 14 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 14 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 14 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 14 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p21 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 14 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n0 n1 n0
-1
-22 0
-2
-0 15 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p3 fast0 n0 n2 n1
-1
-22 0
-2
-0 15 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p3 fast0 n0 n3 n2
-1
-22 0
-2
-0 15 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n0 n4 n3
-1
-22 0
-2
-0 15 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p3 fast0 n12 n1 n0
-1
-22 1
-2
-0 15 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p3 fast0 n12 n2 n1
-1
-22 1
-2
-0 15 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p3 fast0 n12 n3 n2
-1
-22 1
-2
-0 15 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n12 n4 n3
-1
-22 1
-2
-0 15 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p3 fast0 n16 n1 n0
-1
-22 2
-2
-0 15 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p3 fast0 n16 n2 n1
-1
-22 2
-2
-0 15 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p3 fast0 n16 n3 n2
-1
-22 2
-2
-0 15 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n16 n4 n3
-1
-22 2
-2
-0 15 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p3 fast0 n4 n1 n0
-1
-22 3
-2
-0 15 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p3 fast0 n4 n2 n1
-1
-22 3
-2
-0 15 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p3 fast0 n4 n3 n2
-1
-22 3
-2
-0 15 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n4 n4 n3
-1
-22 3
-2
-0 15 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p3 fast0 n8 n1 n0
-1
-22 4
-2
-0 15 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p3 fast0 n8 n2 n1
-1
-22 4
-2
-0 15 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p3 fast0 n8 n3 n2
-1
-22 4
-2
-0 15 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p3 fast0 n8 n4 n3
-1
-22 4
-2
-0 15 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p3 fast1 n0 n1 n0
-1
-23 0
-2
-0 15 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p3 fast1 n0 n2 n1
-1
-23 0
-2
-0 15 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p3 fast1 n0 n3 n2
-1
-23 0
-2
-0 15 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p3 fast1 n0 n4 n3
-1
-23 0
-2
-0 15 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p3 fast1 n12 n1 n0
-1
-23 1
-2
-0 15 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p3 fast1 n12 n2 n1
-1
-23 1
-2
-0 15 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p3 fast1 n12 n3 n2
-1
-23 1
-2
-0 15 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p3 fast1 n12 n4 n3
-1
-23 1
-2
-0 15 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p3 fast1 n16 n1 n0
-1
-23 2
-2
-0 15 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p3 fast1 n16 n2 n1
-1
-23 2
-2
-0 15 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p3 fast1 n16 n3 n2
-1
-23 2
-2
-0 15 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p3 fast1 n16 n4 n3
-1
-23 2
-2
-0 15 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p3 fast1 n4 n1 n0
-1
-23 3
-2
-0 15 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p3 fast1 n4 n2 n1
-1
-23 3
-2
-0 15 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p3 fast1 n4 n3 n2
-1
-23 3
-2
-0 15 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p3 fast1 n4 n4 n3
-1
-23 3
-2
-0 15 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p3 fast1 n8 n1 n0
-1
-23 4
-2
-0 15 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p3 fast1 n8 n2 n1
-1
-23 4
-2
-0 15 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p3 fast1 n8 n3 n2
-1
-23 4
-2
-0 15 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p3 fast1 n8 n4 n3
-1
-23 4
-2
-0 15 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 15 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 15 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 15 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 15 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 15 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 15 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 15 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 15 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 15 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 15 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 15 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 15 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 15 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 15 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 15 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 15 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 15 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 15 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 15 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 15 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 15 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 15 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 15 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 15 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 15 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 15 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p3 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 15 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 15 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 15 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 15 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 15 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 15 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 15 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 15 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 15 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 15 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 15 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 15 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 15 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 15 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 15 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 15 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 15 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 15 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 15 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 15 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 15 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 15 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 15 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 15 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 15 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 15 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 15 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p3 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 15 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n0 n1 n0
-1
-22 0
-2
-0 16 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p4 fast0 n0 n2 n1
-1
-22 0
-2
-0 16 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p4 fast0 n0 n3 n2
-1
-22 0
-2
-0 16 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n0 n4 n3
-1
-22 0
-2
-0 16 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p4 fast0 n12 n1 n0
-1
-22 1
-2
-0 16 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p4 fast0 n12 n2 n1
-1
-22 1
-2
-0 16 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p4 fast0 n12 n3 n2
-1
-22 1
-2
-0 16 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n12 n4 n3
-1
-22 1
-2
-0 16 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p4 fast0 n16 n1 n0
-1
-22 2
-2
-0 16 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p4 fast0 n16 n2 n1
-1
-22 2
-2
-0 16 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p4 fast0 n16 n3 n2
-1
-22 2
-2
-0 16 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n16 n4 n3
-1
-22 2
-2
-0 16 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p4 fast0 n4 n1 n0
-1
-22 3
-2
-0 16 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p4 fast0 n4 n2 n1
-1
-22 3
-2
-0 16 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p4 fast0 n4 n3 n2
-1
-22 3
-2
-0 16 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n4 n4 n3
-1
-22 3
-2
-0 16 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p4 fast0 n8 n1 n0
-1
-22 4
-2
-0 16 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p4 fast0 n8 n2 n1
-1
-22 4
-2
-0 16 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p4 fast0 n8 n3 n2
-1
-22 4
-2
-0 16 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p4 fast0 n8 n4 n3
-1
-22 4
-2
-0 16 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p4 fast1 n0 n1 n0
-1
-23 0
-2
-0 16 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p4 fast1 n0 n2 n1
-1
-23 0
-2
-0 16 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p4 fast1 n0 n3 n2
-1
-23 0
-2
-0 16 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p4 fast1 n0 n4 n3
-1
-23 0
-2
-0 16 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p4 fast1 n12 n1 n0
-1
-23 1
-2
-0 16 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p4 fast1 n12 n2 n1
-1
-23 1
-2
-0 16 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p4 fast1 n12 n3 n2
-1
-23 1
-2
-0 16 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p4 fast1 n12 n4 n3
-1
-23 1
-2
-0 16 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p4 fast1 n16 n1 n0
-1
-23 2
-2
-0 16 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p4 fast1 n16 n2 n1
-1
-23 2
-2
-0 16 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p4 fast1 n16 n3 n2
-1
-23 2
-2
-0 16 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p4 fast1 n16 n4 n3
-1
-23 2
-2
-0 16 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p4 fast1 n4 n1 n0
-1
-23 3
-2
-0 16 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p4 fast1 n4 n2 n1
-1
-23 3
-2
-0 16 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p4 fast1 n4 n3 n2
-1
-23 3
-2
-0 16 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p4 fast1 n4 n4 n3
-1
-23 3
-2
-0 16 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p4 fast1 n8 n1 n0
-1
-23 4
-2
-0 16 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p4 fast1 n8 n2 n1
-1
-23 4
-2
-0 16 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p4 fast1 n8 n3 n2
-1
-23 4
-2
-0 16 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p4 fast1 n8 n4 n3
-1
-23 4
-2
-0 16 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 16 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 16 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 16 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 16 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 16 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 16 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 16 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 16 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 16 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 16 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 16 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 16 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 16 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 16 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 16 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 16 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 16 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 16 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 16 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 16 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 16 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 16 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 16 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 16 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 16 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 16 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p4 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 16 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 16 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 16 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 16 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 16 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 16 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 16 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 16 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 16 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 16 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 16 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 16 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 16 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 16 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 16 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 16 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 16 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 16 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 16 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 16 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 16 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 16 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 16 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 16 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 16 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 16 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 16 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p4 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 16 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n0 n1 n0
-1
-22 0
-2
-0 17 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p5 fast0 n0 n2 n1
-1
-22 0
-2
-0 17 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p5 fast0 n0 n3 n2
-1
-22 0
-2
-0 17 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n0 n4 n3
-1
-22 0
-2
-0 17 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p5 fast0 n12 n1 n0
-1
-22 1
-2
-0 17 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p5 fast0 n12 n2 n1
-1
-22 1
-2
-0 17 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p5 fast0 n12 n3 n2
-1
-22 1
-2
-0 17 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n12 n4 n3
-1
-22 1
-2
-0 17 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p5 fast0 n16 n1 n0
-1
-22 2
-2
-0 17 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p5 fast0 n16 n2 n1
-1
-22 2
-2
-0 17 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p5 fast0 n16 n3 n2
-1
-22 2
-2
-0 17 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n16 n4 n3
-1
-22 2
-2
-0 17 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p5 fast0 n4 n1 n0
-1
-22 3
-2
-0 17 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p5 fast0 n4 n2 n1
-1
-22 3
-2
-0 17 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p5 fast0 n4 n3 n2
-1
-22 3
-2
-0 17 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n4 n4 n3
-1
-22 3
-2
-0 17 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p5 fast0 n8 n1 n0
-1
-22 4
-2
-0 17 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p5 fast0 n8 n2 n1
-1
-22 4
-2
-0 17 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p5 fast0 n8 n3 n2
-1
-22 4
-2
-0 17 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p5 fast0 n8 n4 n3
-1
-22 4
-2
-0 17 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p5 fast1 n0 n1 n0
-1
-23 0
-2
-0 17 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p5 fast1 n0 n2 n1
-1
-23 0
-2
-0 17 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p5 fast1 n0 n3 n2
-1
-23 0
-2
-0 17 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p5 fast1 n0 n4 n3
-1
-23 0
-2
-0 17 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p5 fast1 n12 n1 n0
-1
-23 1
-2
-0 17 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p5 fast1 n12 n2 n1
-1
-23 1
-2
-0 17 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p5 fast1 n12 n3 n2
-1
-23 1
-2
-0 17 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p5 fast1 n12 n4 n3
-1
-23 1
-2
-0 17 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p5 fast1 n16 n1 n0
-1
-23 2
-2
-0 17 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p5 fast1 n16 n2 n1
-1
-23 2
-2
-0 17 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p5 fast1 n16 n3 n2
-1
-23 2
-2
-0 17 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p5 fast1 n16 n4 n3
-1
-23 2
-2
-0 17 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p5 fast1 n4 n1 n0
-1
-23 3
-2
-0 17 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p5 fast1 n4 n2 n1
-1
-23 3
-2
-0 17 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p5 fast1 n4 n3 n2
-1
-23 3
-2
-0 17 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p5 fast1 n4 n4 n3
-1
-23 3
-2
-0 17 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p5 fast1 n8 n1 n0
-1
-23 4
-2
-0 17 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p5 fast1 n8 n2 n1
-1
-23 4
-2
-0 17 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p5 fast1 n8 n3 n2
-1
-23 4
-2
-0 17 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p5 fast1 n8 n4 n3
-1
-23 4
-2
-0 17 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 17 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 17 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 17 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 17 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 17 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 17 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 17 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 17 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 17 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 17 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 17 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 17 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 17 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 17 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 17 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 17 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 17 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 17 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 17 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 17 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 17 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 17 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 17 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 17 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 17 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 17 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p5 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 17 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 17 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 17 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 17 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 17 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 17 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 17 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 17 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 17 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 17 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 17 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 17 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 17 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 17 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 17 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 17 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 17 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 17 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 17 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 17 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 17 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 17 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 17 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 17 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 17 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 17 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 17 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p5 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 17 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n0 n1 n0
-1
-22 0
-2
-0 18 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p6 fast0 n0 n2 n1
-1
-22 0
-2
-0 18 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p6 fast0 n0 n3 n2
-1
-22 0
-2
-0 18 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n0 n4 n3
-1
-22 0
-2
-0 18 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p6 fast0 n12 n1 n0
-1
-22 1
-2
-0 18 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p6 fast0 n12 n2 n1
-1
-22 1
-2
-0 18 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p6 fast0 n12 n3 n2
-1
-22 1
-2
-0 18 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n12 n4 n3
-1
-22 1
-2
-0 18 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p6 fast0 n16 n1 n0
-1
-22 2
-2
-0 18 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p6 fast0 n16 n2 n1
-1
-22 2
-2
-0 18 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p6 fast0 n16 n3 n2
-1
-22 2
-2
-0 18 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n16 n4 n3
-1
-22 2
-2
-0 18 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p6 fast0 n4 n1 n0
-1
-22 3
-2
-0 18 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p6 fast0 n4 n2 n1
-1
-22 3
-2
-0 18 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p6 fast0 n4 n3 n2
-1
-22 3
-2
-0 18 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n4 n4 n3
-1
-22 3
-2
-0 18 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p6 fast0 n8 n1 n0
-1
-22 4
-2
-0 18 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p6 fast0 n8 n2 n1
-1
-22 4
-2
-0 18 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p6 fast0 n8 n3 n2
-1
-22 4
-2
-0 18 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p6 fast0 n8 n4 n3
-1
-22 4
-2
-0 18 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p6 fast1 n0 n1 n0
-1
-23 0
-2
-0 18 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p6 fast1 n0 n2 n1
-1
-23 0
-2
-0 18 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p6 fast1 n0 n3 n2
-1
-23 0
-2
-0 18 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p6 fast1 n0 n4 n3
-1
-23 0
-2
-0 18 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p6 fast1 n12 n1 n0
-1
-23 1
-2
-0 18 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p6 fast1 n12 n2 n1
-1
-23 1
-2
-0 18 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p6 fast1 n12 n3 n2
-1
-23 1
-2
-0 18 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p6 fast1 n12 n4 n3
-1
-23 1
-2
-0 18 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p6 fast1 n16 n1 n0
-1
-23 2
-2
-0 18 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p6 fast1 n16 n2 n1
-1
-23 2
-2
-0 18 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p6 fast1 n16 n3 n2
-1
-23 2
-2
-0 18 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p6 fast1 n16 n4 n3
-1
-23 2
-2
-0 18 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p6 fast1 n4 n1 n0
-1
-23 3
-2
-0 18 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p6 fast1 n4 n2 n1
-1
-23 3
-2
-0 18 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p6 fast1 n4 n3 n2
-1
-23 3
-2
-0 18 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p6 fast1 n4 n4 n3
-1
-23 3
-2
-0 18 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p6 fast1 n8 n1 n0
-1
-23 4
-2
-0 18 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p6 fast1 n8 n2 n1
-1
-23 4
-2
-0 18 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p6 fast1 n8 n3 n2
-1
-23 4
-2
-0 18 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p6 fast1 n8 n4 n3
-1
-23 4
-2
-0 18 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 18 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 18 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 18 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 18 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 18 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 18 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 18 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 18 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 18 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 18 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 18 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 18 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 18 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 18 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 18 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 18 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 18 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 18 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 18 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 18 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 18 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 18 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 18 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 18 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 18 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 18 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p6 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 18 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 18 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 18 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 18 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 18 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 18 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 18 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 18 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 18 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 18 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 18 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 18 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 18 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 18 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 18 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 18 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 18 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 18 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 18 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 18 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 18 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 18 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 18 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 18 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 18 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 18 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 18 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p6 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 18 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n0 n1 n0
-1
-22 0
-2
-0 19 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p7 fast0 n0 n2 n1
-1
-22 0
-2
-0 19 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p7 fast0 n0 n3 n2
-1
-22 0
-2
-0 19 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n0 n4 n3
-1
-22 0
-2
-0 19 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p7 fast0 n12 n1 n0
-1
-22 1
-2
-0 19 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p7 fast0 n12 n2 n1
-1
-22 1
-2
-0 19 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p7 fast0 n12 n3 n2
-1
-22 1
-2
-0 19 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n12 n4 n3
-1
-22 1
-2
-0 19 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p7 fast0 n16 n1 n0
-1
-22 2
-2
-0 19 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p7 fast0 n16 n2 n1
-1
-22 2
-2
-0 19 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p7 fast0 n16 n3 n2
-1
-22 2
-2
-0 19 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n16 n4 n3
-1
-22 2
-2
-0 19 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p7 fast0 n4 n1 n0
-1
-22 3
-2
-0 19 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p7 fast0 n4 n2 n1
-1
-22 3
-2
-0 19 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p7 fast0 n4 n3 n2
-1
-22 3
-2
-0 19 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n4 n4 n3
-1
-22 3
-2
-0 19 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p7 fast0 n8 n1 n0
-1
-22 4
-2
-0 19 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p7 fast0 n8 n2 n1
-1
-22 4
-2
-0 19 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p7 fast0 n8 n3 n2
-1
-22 4
-2
-0 19 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p7 fast0 n8 n4 n3
-1
-22 4
-2
-0 19 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p7 fast1 n0 n1 n0
-1
-23 0
-2
-0 19 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p7 fast1 n0 n2 n1
-1
-23 0
-2
-0 19 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p7 fast1 n0 n3 n2
-1
-23 0
-2
-0 19 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p7 fast1 n0 n4 n3
-1
-23 0
-2
-0 19 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p7 fast1 n12 n1 n0
-1
-23 1
-2
-0 19 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p7 fast1 n12 n2 n1
-1
-23 1
-2
-0 19 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p7 fast1 n12 n3 n2
-1
-23 1
-2
-0 19 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p7 fast1 n12 n4 n3
-1
-23 1
-2
-0 19 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p7 fast1 n16 n1 n0
-1
-23 2
-2
-0 19 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p7 fast1 n16 n2 n1
-1
-23 2
-2
-0 19 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p7 fast1 n16 n3 n2
-1
-23 2
-2
-0 19 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p7 fast1 n16 n4 n3
-1
-23 2
-2
-0 19 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p7 fast1 n4 n1 n0
-1
-23 3
-2
-0 19 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p7 fast1 n4 n2 n1
-1
-23 3
-2
-0 19 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p7 fast1 n4 n3 n2
-1
-23 3
-2
-0 19 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p7 fast1 n4 n4 n3
-1
-23 3
-2
-0 19 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p7 fast1 n8 n1 n0
-1
-23 4
-2
-0 19 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p7 fast1 n8 n2 n1
-1
-23 4
-2
-0 19 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p7 fast1 n8 n3 n2
-1
-23 4
-2
-0 19 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p7 fast1 n8 n4 n3
-1
-23 4
-2
-0 19 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 19 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 19 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 19 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 19 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 19 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 19 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 19 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 19 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 19 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 19 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 19 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 19 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 19 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 19 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 19 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 19 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 19 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 19 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 19 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 19 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 19 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 19 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 19 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 19 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 19 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 19 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p7 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 19 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 19 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 19 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 19 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 19 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 19 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 19 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 19 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 19 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 19 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 19 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 19 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 19 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 19 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 19 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 19 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 19 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 19 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 19 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 19 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 19 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 19 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 19 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 19 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 19 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 19 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 19 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p7 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 19 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n0 n1 n0
-1
-22 0
-2
-0 20 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p8 fast0 n0 n2 n1
-1
-22 0
-2
-0 20 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p8 fast0 n0 n3 n2
-1
-22 0
-2
-0 20 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n0 n4 n3
-1
-22 0
-2
-0 20 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p8 fast0 n12 n1 n0
-1
-22 1
-2
-0 20 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p8 fast0 n12 n2 n1
-1
-22 1
-2
-0 20 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p8 fast0 n12 n3 n2
-1
-22 1
-2
-0 20 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n12 n4 n3
-1
-22 1
-2
-0 20 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p8 fast0 n16 n1 n0
-1
-22 2
-2
-0 20 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p8 fast0 n16 n2 n1
-1
-22 2
-2
-0 20 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p8 fast0 n16 n3 n2
-1
-22 2
-2
-0 20 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n16 n4 n3
-1
-22 2
-2
-0 20 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p8 fast0 n4 n1 n0
-1
-22 3
-2
-0 20 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p8 fast0 n4 n2 n1
-1
-22 3
-2
-0 20 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p8 fast0 n4 n3 n2
-1
-22 3
-2
-0 20 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n4 n4 n3
-1
-22 3
-2
-0 20 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p8 fast0 n8 n1 n0
-1
-22 4
-2
-0 20 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p8 fast0 n8 n2 n1
-1
-22 4
-2
-0 20 0 19
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p8 fast0 n8 n3 n2
-1
-22 4
-2
-0 20 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p8 fast0 n8 n4 n3
-1
-22 4
-2
-0 20 0 19
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p8 fast1 n0 n1 n0
-1
-23 0
-2
-0 20 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p8 fast1 n0 n2 n1
-1
-23 0
-2
-0 20 1 4
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p8 fast1 n0 n3 n2
-1
-23 0
-2
-0 20 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p8 fast1 n0 n4 n3
-1
-23 0
-2
-0 20 1 4
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p8 fast1 n12 n1 n0
-1
-23 1
-2
-0 20 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p8 fast1 n12 n2 n1
-1
-23 1
-2
-0 20 1 8
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p8 fast1 n12 n3 n2
-1
-23 1
-2
-0 20 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p8 fast1 n12 n4 n3
-1
-23 1
-2
-0 20 1 8
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p8 fast1 n16 n1 n0
-1
-23 2
-2
-0 20 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p8 fast1 n16 n2 n1
-1
-23 2
-2
-0 20 1 12
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p8 fast1 n16 n3 n2
-1
-23 2
-2
-0 20 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p8 fast1 n16 n4 n3
-1
-23 2
-2
-0 20 1 12
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p8 fast1 n4 n1 n0
-1
-23 3
-2
-0 20 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p8 fast1 n4 n2 n1
-1
-23 3
-2
-0 20 1 15
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p8 fast1 n4 n3 n2
-1
-23 3
-2
-0 20 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p8 fast1 n4 n4 n3
-1
-23 3
-2
-0 20 1 15
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p8 fast1 n8 n1 n0
-1
-23 4
-2
-0 20 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p8 fast1 n8 n2 n1
-1
-23 4
-2
-0 20 1 19
-0 27 2 1
-0
-end_operator
-begin_operator
-leave p8 fast1 n8 n3 n2
-1
-23 4
-2
-0 20 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p8 fast1 n8 n4 n3
-1
-23 4
-2
-0 20 1 19
-0 27 4 3
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n0 n1 n0
-1
-24 0
-2
-0 20 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n0 n2 n1
-1
-24 0
-2
-0 20 2 4
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n0 n3 n2
-1
-24 0
-2
-0 20 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n1 n1 n0
-1
-24 1
-2
-0 20 2 5
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n1 n2 n1
-1
-24 1
-2
-0 20 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n1 n3 n2
-1
-24 1
-2
-0 20 2 5
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n2 n1 n0
-1
-24 2
-2
-0 20 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n2 n2 n1
-1
-24 2
-2
-0 20 2 13
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n2 n3 n2
-1
-24 2
-2
-0 20 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n3 n1 n0
-1
-24 3
-2
-0 20 2 14
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n3 n2 n1
-1
-24 3
-2
-0 20 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n3 n3 n2
-1
-24 3
-2
-0 20 2 14
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n4 n1 n0
-1
-24 4
-2
-0 20 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n4 n2 n1
-1
-24 4
-2
-0 20 2 15
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n4 n3 n2
-1
-24 4
-2
-0 20 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n5 n1 n0
-1
-24 5
-2
-0 20 2 16
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n5 n2 n1
-1
-24 5
-2
-0 20 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n5 n3 n2
-1
-24 5
-2
-0 20 2 16
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n6 n1 n0
-1
-24 6
-2
-0 20 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n6 n2 n1
-1
-24 6
-2
-0 20 2 17
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n6 n3 n2
-1
-24 6
-2
-0 20 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n7 n1 n0
-1
-24 7
-2
-0 20 2 18
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n7 n2 n1
-1
-24 7
-2
-0 20 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n7 n3 n2
-1
-24 7
-2
-0 20 2 18
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n8 n1 n0
-1
-24 8
-2
-0 20 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n8 n2 n1
-1
-24 8
-2
-0 20 2 19
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p8 slow0-0 n8 n3 n2
-1
-24 8
-2
-0 20 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n10 n1 n0
-1
-25 0
-2
-0 20 3 6
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n10 n2 n1
-1
-25 0
-2
-0 20 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n10 n3 n2
-1
-25 0
-2
-0 20 3 6
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n11 n1 n0
-1
-25 1
-2
-0 20 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n11 n2 n1
-1
-25 1
-2
-0 20 3 7
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n11 n3 n2
-1
-25 1
-2
-0 20 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n12 n1 n0
-1
-25 2
-2
-0 20 3 8
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n12 n2 n1
-1
-25 2
-2
-0 20 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n12 n3 n2
-1
-25 2
-2
-0 20 3 8
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n13 n1 n0
-1
-25 3
-2
-0 20 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n13 n2 n1
-1
-25 3
-2
-0 20 3 9
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n13 n3 n2
-1
-25 3
-2
-0 20 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n14 n1 n0
-1
-25 4
-2
-0 20 3 10
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n14 n2 n1
-1
-25 4
-2
-0 20 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n14 n3 n2
-1
-25 4
-2
-0 20 3 10
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n15 n1 n0
-1
-25 5
-2
-0 20 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n15 n2 n1
-1
-25 5
-2
-0 20 3 11
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n15 n3 n2
-1
-25 5
-2
-0 20 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n16 n1 n0
-1
-25 6
-2
-0 20 3 12
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n16 n2 n1
-1
-25 6
-2
-0 20 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n16 n3 n2
-1
-25 6
-2
-0 20 3 12
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n8 n1 n0
-1
-25 7
-2
-0 20 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n8 n2 n1
-1
-25 7
-2
-0 20 3 19
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n8 n3 n2
-1
-25 7
-2
-0 20 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n9 n1 n0
-1
-25 8
-2
-0 20 3 20
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n9 n2 n1
-1
-25 8
-2
-0 20 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p8 slow1-0 n9 n3 n2
-1
-25 8
-2
-0 20 3 20
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n0 n1 n0
-1
-22 0
-2
-0 21 0 4
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p9 fast0 n0 n2 n1
-1
-22 0
-2
-0 21 0 4
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p9 fast0 n0 n3 n2
-1
-22 0
-2
-0 21 0 4
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n0 n4 n3
-1
-22 0
-2
-0 21 0 4
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p9 fast0 n12 n1 n0
-1
-22 1
-2
-0 21 0 8
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p9 fast0 n12 n2 n1
-1
-22 1
-2
-0 21 0 8
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p9 fast0 n12 n3 n2
-1
-22 1
-2
-0 21 0 8
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n12 n4 n3
-1
-22 1
-2
-0 21 0 8
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p9 fast0 n16 n1 n0
-1
-22 2
-2
-0 21 0 12
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p9 fast0 n16 n2 n1
-1
-22 2
-2
-0 21 0 12
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p9 fast0 n16 n3 n2
-1
-22 2
-2
-0 21 0 12
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n16 n4 n3
-1
-22 2
-2
-0 21 0 12
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p9 fast0 n4 n1 n0
-1
-22 3
-2
-0 21 0 15
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p9 fast0 n4 n2 n1
-1
-22 3
-2
-0 21 0 15
-0 26 2 1
-0
-end_operator
-begin_operator
-leave p9 fast0 n4 n3 n2
-1
-22 3
-2
-0 21 0 15
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n4 n4 n3
-1
-22 3
-2
-0 21 0 15
-0 26 4 3
-0
-end_operator
-begin_operator
-leave p9 fast0 n8 n1 n0
-1
-22 4
-2
-0 21 0 19
-0 26 1 0
-0
-end_operator
-begin_operator
-leave p9 fast0 n8 n2 n1
+0 0 -1 0
 1
-22 4
-2
-0 21 0 19
-0 26 2 1
-0
 end_operator
 begin_operator
-leave p9 fast0 n8 n3 n2
+clean-shaker right left shaker1
+3
+143 0
+154 0
+155 1
 1
-22 4
-2
-0 21 0 19
-0 26 3 2
-0
-end_operator
-begin_operator
-leave p9 fast0 n8 n4 n3
+0 0 -1 0
 1
-22 4
-2
-0 21 0 19
-0 26 4 3
-0
 end_operator
 begin_operator
-leave p9 fast1 n0 n1 n0
-1
-23 0
+clean-shot shot1 ingredient1 left right
+3
+144 0
+154 2
+155 0
 2
-0 21 1 4
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p9 fast1 n0 n2 n1
+0 1 -1 0
+0 170 0 1
 1
-23 0
-2
-0 21 1 4
-0 27 2 1
-0
 end_operator
 begin_operator
-leave p9 fast1 n0 n3 n2
-1
-23 0
+clean-shot shot1 ingredient1 right left
+3
+144 0
+154 0
+155 2
 2
-0 21 1 4
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p9 fast1 n0 n4 n3
+0 1 -1 0
+0 170 0 1
 1
-23 0
-2
-0 21 1 4
-0 27 4 3
-0
 end_operator
 begin_operator
-leave p9 fast1 n12 n1 n0
-1
-23 1
+clean-shot shot1 ingredient2 left right
+3
+144 0
+154 2
+155 0
 2
-0 21 1 8
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p9 fast1 n12 n2 n1
+0 1 -1 0
+0 171 0 1
 1
-23 1
-2
-0 21 1 8
-0 27 2 1
-0
 end_operator
 begin_operator
-leave p9 fast1 n12 n3 n2
-1
-23 1
+clean-shot shot1 ingredient2 right left
+3
+144 0
+154 0
+155 2
 2
-0 21 1 8
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p9 fast1 n12 n4 n3
+0 1 -1 0
+0 171 0 1
 1
-23 1
-2
-0 21 1 8
-0 27 4 3
-0
 end_operator
 begin_operator
-leave p9 fast1 n16 n1 n0
-1
-23 2
+clean-shot shot1 ingredient3 left right
+3
+144 0
+154 2
+155 0
 2
-0 21 1 12
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p9 fast1 n16 n2 n1
+0 1 -1 0
+0 172 0 1
 1
-23 2
-2
-0 21 1 12
-0 27 2 1
-0
 end_operator
 begin_operator
-leave p9 fast1 n16 n3 n2
-1
-23 2
+clean-shot shot1 ingredient3 right left
+3
+144 0
+154 0
+155 2
 2
-0 21 1 12
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p9 fast1 n16 n4 n3
+0 1 -1 0
+0 172 0 1
 1
-23 2
-2
-0 21 1 12
-0 27 4 3
-0
 end_operator
 begin_operator
-leave p9 fast1 n4 n1 n0
-1
-23 3
+clean-shot shot1 ingredient4 left right
+3
+144 0
+154 2
+155 0
 2
-0 21 1 15
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p9 fast1 n4 n2 n1
+0 1 -1 0
+0 173 0 1
 1
-23 3
-2
-0 21 1 15
-0 27 2 1
-0
 end_operator
 begin_operator
-leave p9 fast1 n4 n3 n2
-1
-23 3
+clean-shot shot1 ingredient4 right left
+3
+144 0
+154 0
+155 2
 2
-0 21 1 15
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p9 fast1 n4 n4 n3
+0 1 -1 0
+0 173 0 1
 1
-23 3
-2
-0 21 1 15
-0 27 4 3
-0
 end_operator
 begin_operator
-leave p9 fast1 n8 n1 n0
-1
-23 4
+clean-shot shot10 ingredient1 left right
+3
+145 0
+154 3
+155 0
 2
-0 21 1 19
-0 27 1 0
-0
-end_operator
-begin_operator
-leave p9 fast1 n8 n2 n1
+0 2 -1 0
+0 174 0 1
 1
-23 4
-2
-0 21 1 19
-0 27 2 1
-0
 end_operator
 begin_operator
-leave p9 fast1 n8 n3 n2
-1
-23 4
+clean-shot shot10 ingredient1 right left
+3
+145 0
+154 0
+155 3
 2
-0 21 1 19
-0 27 3 2
-0
-end_operator
-begin_operator
-leave p9 fast1 n8 n4 n3
+0 2 -1 0
+0 174 0 1
 1
-23 4
-2
-0 21 1 19
-0 27 4 3
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n0 n1 n0
-1
-24 0
+clean-shot shot10 ingredient2 left right
+3
+145 0
+154 3
+155 0
 2
-0 21 2 4
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n0 n2 n1
+0 2 -1 0
+0 175 0 1
 1
-24 0
-2
-0 21 2 4
-0 28 2 1
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n0 n3 n2
-1
-24 0
+clean-shot shot10 ingredient2 right left
+3
+145 0
+154 0
+155 3
 2
-0 21 2 4
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n1 n1 n0
+0 2 -1 0
+0 175 0 1
 1
-24 1
-2
-0 21 2 5
-0 28 1 0
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n1 n2 n1
-1
-24 1
+clean-shot shot10 ingredient3 left right
+3
+145 0
+154 3
+155 0
 2
-0 21 2 5
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n1 n3 n2
+0 2 -1 0
+0 176 0 1
 1
-24 1
-2
-0 21 2 5
-0 28 3 2
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n2 n1 n0
-1
-24 2
+clean-shot shot10 ingredient3 right left
+3
+145 0
+154 0
+155 3
 2
-0 21 2 13
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n2 n2 n1
+0 2 -1 0
+0 176 0 1
 1
-24 2
-2
-0 21 2 13
-0 28 2 1
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n2 n3 n2
-1
-24 2
+clean-shot shot10 ingredient4 left right
+3
+145 0
+154 3
+155 0
 2
-0 21 2 13
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n3 n1 n0
+0 2 -1 0
+0 177 0 1
 1
-24 3
-2
-0 21 2 14
-0 28 1 0
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n3 n2 n1
-1
-24 3
+clean-shot shot10 ingredient4 right left
+3
+145 0
+154 0
+155 3
 2
-0 21 2 14
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n3 n3 n2
+0 2 -1 0
+0 177 0 1
 1
-24 3
-2
-0 21 2 14
-0 28 3 2
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n4 n1 n0
-1
-24 4
+clean-shot shot2 ingredient1 left right
+3
+146 0
+154 4
+155 0
 2
-0 21 2 15
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n4 n2 n1
+0 3 -1 0
+0 178 0 1
 1
-24 4
-2
-0 21 2 15
-0 28 2 1
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n4 n3 n2
-1
-24 4
+clean-shot shot2 ingredient1 right left
+3
+146 0
+154 0
+155 4
 2
-0 21 2 15
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n5 n1 n0
+0 3 -1 0
+0 178 0 1
 1
-24 5
-2
-0 21 2 16
-0 28 1 0
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n5 n2 n1
-1
-24 5
+clean-shot shot2 ingredient2 left right
+3
+146 0
+154 4
+155 0
 2
-0 21 2 16
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n5 n3 n2
+0 3 -1 0
+0 179 0 1
 1
-24 5
-2
-0 21 2 16
-0 28 3 2
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n6 n1 n0
-1
-24 6
+clean-shot shot2 ingredient2 right left
+3
+146 0
+154 0
+155 4
 2
-0 21 2 17
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n6 n2 n1
+0 3 -1 0
+0 179 0 1
 1
-24 6
-2
-0 21 2 17
-0 28 2 1
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n6 n3 n2
-1
-24 6
+clean-shot shot2 ingredient3 left right
+3
+146 0
+154 4
+155 0
 2
-0 21 2 17
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n7 n1 n0
+0 3 -1 0
+0 180 0 1
 1
-24 7
-2
-0 21 2 18
-0 28 1 0
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n7 n2 n1
-1
-24 7
+clean-shot shot2 ingredient3 right left
+3
+146 0
+154 0
+155 4
 2
-0 21 2 18
-0 28 2 1
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n7 n3 n2
+0 3 -1 0
+0 180 0 1
 1
-24 7
-2
-0 21 2 18
-0 28 3 2
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n8 n1 n0
-1
-24 8
+clean-shot shot2 ingredient4 left right
+3
+146 0
+154 4
+155 0
 2
-0 21 2 19
-0 28 1 0
-0
-end_operator
-begin_operator
-leave p9 slow0-0 n8 n2 n1
+0 3 -1 0
+0 181 0 1
 1
-24 8
-2
-0 21 2 19
-0 28 2 1
-0
 end_operator
 begin_operator
-leave p9 slow0-0 n8 n3 n2
-1
-24 8
+clean-shot shot2 ingredient4 right left
+3
+146 0
+154 0
+155 4
 2
-0 21 2 19
-0 28 3 2
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n10 n1 n0
+0 3 -1 0
+0 181 0 1
 1
-25 0
-2
-0 21 3 6
-0 29 1 0
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n10 n2 n1
-1
-25 0
+clean-shot shot3 ingredient1 left right
+3
+147 0
+154 5
+155 0
 2
-0 21 3 6
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n10 n3 n2
+0 4 -1 0
+0 182 0 1
 1
-25 0
-2
-0 21 3 6
-0 29 3 2
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n11 n1 n0
-1
-25 1
+clean-shot shot3 ingredient1 right left
+3
+147 0
+154 0
+155 5
 2
-0 21 3 7
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n11 n2 n1
+0 4 -1 0
+0 182 0 1
 1
-25 1
-2
-0 21 3 7
-0 29 2 1
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n11 n3 n2
-1
-25 1
+clean-shot shot3 ingredient2 left right
+3
+147 0
+154 5
+155 0
 2
-0 21 3 7
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n12 n1 n0
+0 4 -1 0
+0 183 0 1
 1
-25 2
-2
-0 21 3 8
-0 29 1 0
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n12 n2 n1
-1
-25 2
+clean-shot shot3 ingredient2 right left
+3
+147 0
+154 0
+155 5
 2
-0 21 3 8
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n12 n3 n2
+0 4 -1 0
+0 183 0 1
 1
-25 2
-2
-0 21 3 8
-0 29 3 2
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n13 n1 n0
-1
-25 3
+clean-shot shot3 ingredient3 left right
+3
+147 0
+154 5
+155 0
 2
-0 21 3 9
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n13 n2 n1
+0 4 -1 0
+0 184 0 1
 1
-25 3
-2
-0 21 3 9
-0 29 2 1
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n13 n3 n2
-1
-25 3
+clean-shot shot3 ingredient3 right left
+3
+147 0
+154 0
+155 5
 2
-0 21 3 9
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n14 n1 n0
+0 4 -1 0
+0 184 0 1
 1
-25 4
-2
-0 21 3 10
-0 29 1 0
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n14 n2 n1
-1
-25 4
+clean-shot shot3 ingredient4 left right
+3
+147 0
+154 5
+155 0
 2
-0 21 3 10
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n14 n3 n2
+0 4 -1 0
+0 185 0 1
 1
-25 4
-2
-0 21 3 10
-0 29 3 2
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n15 n1 n0
-1
-25 5
+clean-shot shot3 ingredient4 right left
+3
+147 0
+154 0
+155 5
 2
-0 21 3 11
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n15 n2 n1
+0 4 -1 0
+0 185 0 1
 1
-25 5
-2
-0 21 3 11
-0 29 2 1
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n15 n3 n2
-1
-25 5
+clean-shot shot4 ingredient1 left right
+3
+148 0
+154 6
+155 0
 2
-0 21 3 11
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n16 n1 n0
+0 5 -1 0
+0 186 0 1
 1
-25 6
-2
-0 21 3 12
-0 29 1 0
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n16 n2 n1
-1
-25 6
+clean-shot shot4 ingredient1 right left
+3
+148 0
+154 0
+155 6
 2
-0 21 3 12
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n16 n3 n2
+0 5 -1 0
+0 186 0 1
 1
-25 6
-2
-0 21 3 12
-0 29 3 2
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n8 n1 n0
-1
-25 7
+clean-shot shot4 ingredient2 left right
+3
+148 0
+154 6
+155 0
 2
-0 21 3 19
-0 29 1 0
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n8 n2 n1
+0 5 -1 0
+0 187 0 1
 1
-25 7
-2
-0 21 3 19
-0 29 2 1
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n8 n3 n2
-1
-25 7
+clean-shot shot4 ingredient2 right left
+3
+148 0
+154 0
+155 6
 2
-0 21 3 19
-0 29 3 2
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n9 n1 n0
+0 5 -1 0
+0 187 0 1
 1
-25 8
-2
-0 21 3 20
-0 29 1 0
-0
 end_operator
 begin_operator
-leave p9 slow1-0 n9 n2 n1
-1
-25 8
+clean-shot shot4 ingredient3 left right
+3
+148 0
+154 6
+155 0
 2
-0 21 3 20
-0 29 2 1
-0
-end_operator
-begin_operator
-leave p9 slow1-0 n9 n3 n2
+0 5 -1 0
+0 188 0 1
 1
-25 8
-2
-0 21 3 20
-0 29 3 2
-0
 end_operator
 begin_operator
-move-down-fast fast0 n12 n0
-0
+clean-shot shot4 ingredient3 right left
+3
+148 0
+154 0
+155 6
+2
+0 5 -1 0
+0 188 0 1
 1
-0 22 1 0
-37
 end_operator
 begin_operator
-move-down-fast fast0 n12 n4
-0
+clean-shot shot4 ingredient4 left right
+3
+148 0
+154 6
+155 0
+2
+0 5 -1 0
+0 189 0 1
 1
-0 22 1 3
-25
 end_operator
 begin_operator
-move-down-fast fast0 n12 n8
-0
+clean-shot shot4 ingredient4 right left
+3
+148 0
+154 0
+155 6
+2
+0 5 -1 0
+0 189 0 1
 1
-0 22 1 4
-13
 end_operator
 begin_operator
-move-down-fast fast0 n16 n0
-0
+clean-shot shot5 ingredient1 left right
+3
+149 0
+154 7
+155 0
+2
+0 6 -1 0
+0 190 0 1
 1
-0 22 2 0
-49
 end_operator
 begin_operator
-move-down-fast fast0 n16 n12
-0
+clean-shot shot5 ingredient1 right left
+3
+149 0
+154 0
+155 7
+2
+0 6 -1 0
+0 190 0 1
 1
-0 22 2 1
-13
 end_operator
 begin_operator
-move-down-fast fast0 n16 n4
-0
+clean-shot shot5 ingredient2 left right
+3
+149 0
+154 7
+155 0
+2
+0 6 -1 0
+0 191 0 1
 1
-0 22 2 3
-37
 end_operator
 begin_operator
-move-down-fast fast0 n16 n8
-0
+clean-shot shot5 ingredient2 right left
+3
+149 0
+154 0
+155 7
+2
+0 6 -1 0
+0 191 0 1
 1
-0 22 2 4
-25
 end_operator
 begin_operator
-move-down-fast fast0 n4 n0
-0
+clean-shot shot5 ingredient3 left right
+3
+149 0
+154 7
+155 0
+2
+0 6 -1 0
+0 192 0 1
 1
-0 22 3 0
-13
 end_operator
 begin_operator
-move-down-fast fast0 n8 n0
-0
+clean-shot shot5 ingredient3 right left
+3
+149 0
+154 0
+155 7
+2
+0 6 -1 0
+0 192 0 1
 1
-0 22 4 0
-25
 end_operator
 begin_operator
-move-down-fast fast0 n8 n4
-0
+clean-shot shot5 ingredient4 left right
+3
+149 0
+154 7
+155 0
+2
+0 6 -1 0
+0 193 0 1
 1
-0 22 4 3
-13
 end_operator
 begin_operator
-move-down-fast fast1 n12 n0
-0
+clean-shot shot5 ingredient4 right left
+3
+149 0
+154 0
+155 7
+2
+0 6 -1 0
+0 193 0 1
 1
-0 23 1 0
-37
 end_operator
 begin_operator
-move-down-fast fast1 n12 n4
-0
+clean-shot shot6 ingredient1 left right
+3
+150 0
+154 8
+155 0
+2
+0 7 -1 0
+0 194 0 1
 1
-0 23 1 3
-25
 end_operator
 begin_operator
-move-down-fast fast1 n12 n8
-0
+clean-shot shot6 ingredient1 right left
+3
+150 0
+154 0
+155 8
+2
+0 7 -1 0
+0 194 0 1
 1
-0 23 1 4
-13
 end_operator
 begin_operator
-move-down-fast fast1 n16 n0
-0
+clean-shot shot6 ingredient2 left right
+3
+150 0
+154 8
+155 0
+2
+0 7 -1 0
+0 195 0 1
 1
-0 23 2 0
-49
 end_operator
 begin_operator
-move-down-fast fast1 n16 n12
-0
+clean-shot shot6 ingredient2 right left
+3
+150 0
+154 0
+155 8
+2
+0 7 -1 0
+0 195 0 1
 1
-0 23 2 1
-13
 end_operator
 begin_operator
-move-down-fast fast1 n16 n4
-0
+clean-shot shot6 ingredient3 left right
+3
+150 0
+154 8
+155 0
+2
+0 7 -1 0
+0 196 0 1
 1
-0 23 2 3
-37
 end_operator
 begin_operator
-move-down-fast fast1 n16 n8
-0
+clean-shot shot6 ingredient3 right left
+3
+150 0
+154 0
+155 8
+2
+0 7 -1 0
+0 196 0 1
 1
-0 23 2 4
-25
 end_operator
 begin_operator
-move-down-fast fast1 n4 n0
-0
+clean-shot shot6 ingredient4 left right
+3
+150 0
+154 8
+155 0
+2
+0 7 -1 0
+0 197 0 1
 1
-0 23 3 0
-13
 end_operator
 begin_operator
-move-down-fast fast1 n8 n0
-0
+clean-shot shot6 ingredient4 right left
+3
+150 0
+154 0
+155 8
+2
+0 7 -1 0
+0 197 0 1
 1
-0 23 4 0
-25
 end_operator
 begin_operator
-move-down-fast fast1 n8 n4
-0
+clean-shot shot7 ingredient1 left right
+3
+151 0
+154 9
+155 0
+2
+0 8 -1 0
+0 198 0 1
 1
-0 23 4 3
-13
 end_operator
 begin_operator
-move-down-slow slow0-0 n1 n0
-0
+clean-shot shot7 ingredient1 right left
+3
+151 0
+154 0
+155 9
+2
+0 8 -1 0
+0 198 0 1
 1
-0 24 1 0
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n2 n0
-0
+clean-shot shot7 ingredient2 left right
+3
+151 0
+154 9
+155 0
+2
+0 8 -1 0
+0 199 0 1
 1
-0 24 2 0
-7
 end_operator
 begin_operator
-move-down-slow slow0-0 n2 n1
-0
+clean-shot shot7 ingredient2 right left
+3
+151 0
+154 0
+155 9
+2
+0 8 -1 0
+0 199 0 1
 1
-0 24 2 1
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n3 n0
-0
+clean-shot shot7 ingredient3 left right
+3
+151 0
+154 9
+155 0
+2
+0 8 -1 0
+0 200 0 1
 1
-0 24 3 0
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n3 n1
-0
+clean-shot shot7 ingredient3 right left
+3
+151 0
+154 0
+155 9
+2
+0 8 -1 0
+0 200 0 1
 1
-0 24 3 1
-7
 end_operator
 begin_operator
-move-down-slow slow0-0 n3 n2
-0
+clean-shot shot7 ingredient4 left right
+3
+151 0
+154 9
+155 0
+2
+0 8 -1 0
+0 201 0 1
 1
-0 24 3 2
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n4 n0
-0
+clean-shot shot7 ingredient4 right left
+3
+151 0
+154 0
+155 9
+2
+0 8 -1 0
+0 201 0 1
 1
-0 24 4 0
-9
 end_operator
 begin_operator
-move-down-slow slow0-0 n4 n1
-0
+clean-shot shot8 ingredient1 left right
+3
+152 0
+154 10
+155 0
+2
+0 9 -1 0
+0 202 0 1
 1
-0 24 4 1
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n4 n2
-0
+clean-shot shot8 ingredient1 right left
+3
+152 0
+154 0
+155 10
+2
+0 9 -1 0
+0 202 0 1
 1
-0 24 4 2
-7
 end_operator
 begin_operator
-move-down-slow slow0-0 n4 n3
-0
+clean-shot shot8 ingredient2 left right
+3
+152 0
+154 10
+155 0
+2
+0 9 -1 0
+0 203 0 1
 1
-0 24 4 3
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n5 n0
-0
+clean-shot shot8 ingredient2 right left
+3
+152 0
+154 0
+155 10
+2
+0 9 -1 0
+0 203 0 1
 1
-0 24 5 0
-10
 end_operator
 begin_operator
-move-down-slow slow0-0 n5 n1
-0
+clean-shot shot8 ingredient3 left right
+3
+152 0
+154 10
+155 0
+2
+0 9 -1 0
+0 204 0 1
 1
-0 24 5 1
-9
 end_operator
 begin_operator
-move-down-slow slow0-0 n5 n2
-0
+clean-shot shot8 ingredient3 right left
+3
+152 0
+154 0
+155 10
+2
+0 9 -1 0
+0 204 0 1
 1
-0 24 5 2
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n5 n3
-0
+clean-shot shot8 ingredient4 left right
+3
+152 0
+154 10
+155 0
+2
+0 9 -1 0
+0 205 0 1
 1
-0 24 5 3
-7
 end_operator
 begin_operator
-move-down-slow slow0-0 n5 n4
-0
+clean-shot shot8 ingredient4 right left
+3
+152 0
+154 0
+155 10
+2
+0 9 -1 0
+0 205 0 1
 1
-0 24 5 4
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n0
-0
+clean-shot shot9 ingredient1 left right
+3
+153 0
+154 11
+155 0
+2
+0 10 -1 0
+0 206 0 1
 1
-0 24 6 0
-11
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n1
-0
+clean-shot shot9 ingredient1 right left
+3
+153 0
+154 0
+155 11
+2
+0 10 -1 0
+0 206 0 1
 1
-0 24 6 1
-10
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n2
-0
+clean-shot shot9 ingredient2 left right
+3
+153 0
+154 11
+155 0
+2
+0 10 -1 0
+0 207 0 1
 1
-0 24 6 2
-9
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n3
-0
+clean-shot shot9 ingredient2 right left
+3
+153 0
+154 0
+155 11
+2
+0 10 -1 0
+0 207 0 1
 1
-0 24 6 3
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n4
-0
+clean-shot shot9 ingredient3 left right
+3
+153 0
+154 11
+155 0
+2
+0 10 -1 0
+0 208 0 1
 1
-0 24 6 4
-7
 end_operator
 begin_operator
-move-down-slow slow0-0 n6 n5
-0
+clean-shot shot9 ingredient3 right left
+3
+153 0
+154 0
+155 11
+2
+0 10 -1 0
+0 208 0 1
 1
-0 24 6 5
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n7 n0
-0
+clean-shot shot9 ingredient4 left right
+3
+153 0
+154 11
+155 0
+2
+0 10 -1 0
+0 209 0 1
 1
-0 24 7 0
-12
 end_operator
 begin_operator
-move-down-slow slow0-0 n7 n1
-0
+clean-shot shot9 ingredient4 right left
+3
+153 0
+154 0
+155 11
+2
+0 10 -1 0
+0 209 0 1
 1
-0 24 7 1
-11
 end_operator
 begin_operator
-move-down-slow slow0-0 n7 n2
-0
+empty-shaker left shaker1 cocktail1 l0 l0
+2
+154 1
+168 0
+3
+0 11 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 24 7 2
-10
 end_operator
 begin_operator
-move-down-slow slow0-0 n7 n3
-0
+empty-shaker left shaker1 cocktail1 l1 l0
 1
-0 24 7 3
-9
-end_operator
-begin_operator
-move-down-slow slow0-0 n7 n4
-0
+154 1
+4
+0 11 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 24 7 4
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n7 n5
-0
+empty-shaker left shaker1 cocktail1 l2 l0
 1
-0 24 7 5
-7
-end_operator
-begin_operator
-move-down-slow slow0-0 n7 n6
-0
+154 1
+4
+0 11 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 24 7 6
-6
 end_operator
 begin_operator
-move-down-slow slow0-0 n8 n0
-0
+empty-shaker left shaker1 cocktail2 l0 l0
+2
+154 1
+168 0
+3
+0 12 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 24 8 0
-13
 end_operator
 begin_operator
-move-down-slow slow0-0 n8 n1
-0
+empty-shaker left shaker1 cocktail2 l1 l0
 1
-0 24 8 1
-12
-end_operator
-begin_operator
-move-down-slow slow0-0 n8 n2
-0
+154 1
+4
+0 12 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 24 8 2
-11
 end_operator
 begin_operator
-move-down-slow slow0-0 n8 n3
-0
+empty-shaker left shaker1 cocktail2 l2 l0
 1
-0 24 8 3
-10
-end_operator
-begin_operator
-move-down-slow slow0-0 n8 n4
-0
+154 1
+4
+0 12 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 24 8 4
-9
 end_operator
 begin_operator
-move-down-slow slow0-0 n8 n5
-0
+empty-shaker left shaker1 cocktail3 l0 l0
+2
+154 1
+168 0
+3
+0 13 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 24 8 5
-8
 end_operator
 begin_operator
-move-down-slow slow0-0 n8 n6
-0
+empty-shaker left shaker1 cocktail3 l1 l0
 1
-0 24 8 6
-7
-end_operator
-begin_operator
-move-down-slow slow0-0 n8 n7
-0
+154 1
+4
+0 13 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 24 8 7
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n10 n8
-0
+empty-shaker left shaker1 cocktail3 l2 l0
 1
-0 25 0 7
-7
-end_operator
-begin_operator
-move-down-slow slow1-0 n10 n9
-0
+154 1
+4
+0 13 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 0 8
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n11 n10
-0
+empty-shaker left shaker1 cocktail4 l0 l0
+2
+154 1
+168 0
+3
+0 14 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 1 0
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n11 n8
-0
+empty-shaker left shaker1 cocktail4 l1 l0
 1
-0 25 1 7
-8
-end_operator
-begin_operator
-move-down-slow slow1-0 n11 n9
-0
+154 1
+4
+0 14 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 1 8
-7
 end_operator
 begin_operator
-move-down-slow slow1-0 n12 n10
-0
+empty-shaker left shaker1 cocktail4 l2 l0
 1
-0 25 2 0
-7
-end_operator
-begin_operator
-move-down-slow slow1-0 n12 n11
-0
+154 1
+4
+0 14 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 2 1
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n12 n8
-0
+empty-shaker left shaker1 cocktail5 l0 l0
+2
+154 1
+168 0
+3
+0 15 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 2 7
-9
 end_operator
 begin_operator
-move-down-slow slow1-0 n12 n9
-0
+empty-shaker left shaker1 cocktail5 l1 l0
 1
-0 25 2 8
-8
-end_operator
-begin_operator
-move-down-slow slow1-0 n13 n10
-0
+154 1
+4
+0 15 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 3 0
-8
 end_operator
 begin_operator
-move-down-slow slow1-0 n13 n11
-0
+empty-shaker left shaker1 cocktail5 l2 l0
 1
-0 25 3 1
-7
-end_operator
-begin_operator
-move-down-slow slow1-0 n13 n12
-0
+154 1
+4
+0 15 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 3 2
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n13 n8
-0
+empty-shaker left shaker1 cocktail6 l0 l0
+2
+154 1
+168 0
+3
+0 16 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 3 7
-10
 end_operator
 begin_operator
-move-down-slow slow1-0 n13 n9
-0
+empty-shaker left shaker1 cocktail6 l1 l0
 1
-0 25 3 8
-9
-end_operator
-begin_operator
-move-down-slow slow1-0 n14 n10
-0
+154 1
+4
+0 16 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 4 0
-9
 end_operator
 begin_operator
-move-down-slow slow1-0 n14 n11
-0
+empty-shaker left shaker1 cocktail6 l2 l0
+1
+154 1
+4
+0 16 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 4 1
-8
 end_operator
 begin_operator
-move-down-slow slow1-0 n14 n12
-0
+empty-shaker left shaker1 cocktail7 l0 l0
+2
+154 1
+168 0
+3
+0 17 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 4 2
-7
 end_operator
 begin_operator
-move-down-slow slow1-0 n14 n13
-0
+empty-shaker left shaker1 cocktail7 l1 l0
+1
+154 1
+4
+0 17 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 4 3
-6
 end_operator
 begin_operator
-move-down-slow slow1-0 n14 n8
-0
+empty-shaker left shaker1 cocktail7 l2 l0
 1
-0 25 4 7
-11
+154 1
+4
+0 17 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n14 n9
-0
+empty-shaker left shaker1 cocktail8 l0 l0
+2
+154 1
+168 0
+3
+0 18 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 4 8
-10
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n10
-0
+empty-shaker left shaker1 cocktail8 l1 l0
 1
-0 25 5 0
-10
+154 1
+4
+0 18 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n11
-0
+empty-shaker left shaker1 cocktail8 l2 l0
+1
+154 1
+4
+0 18 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 5 1
-9
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n12
-0
+empty-shaker right shaker1 cocktail1 l0 l0
+2
+155 1
+168 0
+3
+0 11 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 5 2
-8
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n13
-0
+empty-shaker right shaker1 cocktail1 l1 l0
+1
+155 1
+4
+0 11 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 5 3
-7
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n14
-0
+empty-shaker right shaker1 cocktail1 l2 l0
 1
-0 25 5 4
-6
+155 1
+4
+0 11 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n8
-0
+empty-shaker right shaker1 cocktail2 l0 l0
+2
+155 1
+168 0
+3
+0 12 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 5 7
-12
 end_operator
 begin_operator
-move-down-slow slow1-0 n15 n9
-0
+empty-shaker right shaker1 cocktail2 l1 l0
 1
-0 25 5 8
-11
+155 1
+4
+0 12 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n10
-0
+empty-shaker right shaker1 cocktail2 l2 l0
+1
+155 1
+4
+0 12 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 6 0
-11
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n11
-0
+empty-shaker right shaker1 cocktail3 l0 l0
+2
+155 1
+168 0
+3
+0 13 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 6 1
-10
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n12
-0
+empty-shaker right shaker1 cocktail3 l1 l0
+1
+155 1
+4
+0 13 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 6 2
-9
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n13
-0
+empty-shaker right shaker1 cocktail3 l2 l0
 1
-0 25 6 3
-8
+155 1
+4
+0 13 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n14
-0
+empty-shaker right shaker1 cocktail4 l0 l0
+2
+155 1
+168 0
+3
+0 14 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 6 4
-7
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n15
-0
+empty-shaker right shaker1 cocktail4 l1 l0
 1
-0 25 6 5
-6
+155 1
+4
+0 14 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
+1
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n8
-0
+empty-shaker right shaker1 cocktail4 l2 l0
+1
+155 1
+4
+0 14 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 25 6 7
-13
 end_operator
 begin_operator
-move-down-slow slow1-0 n16 n9
-0
+empty-shaker right shaker1 cocktail5 l0 l0
+2
+155 1
+168 0
+3
+0 15 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 25 6 8
-12
 end_operator
 begin_operator
-move-down-slow slow1-0 n9 n8
-0
+empty-shaker right shaker1 cocktail5 l1 l0
+1
+155 1
+4
+0 15 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 25 8 7
-6
 end_operator
 begin_operator
-move-up-fast fast0 n0 n12
-0
+empty-shaker right shaker1 cocktail5 l2 l0
 1
-0 22 0 1
-37
+155 1
+4
+0 15 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-up-fast fast0 n0 n16
-0
+empty-shaker right shaker1 cocktail6 l0 l0
+2
+155 1
+168 0
+3
+0 16 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 22 0 2
-49
 end_operator
 begin_operator
-move-up-fast fast0 n0 n4
-0
+empty-shaker right shaker1 cocktail6 l1 l0
 1
-0 22 0 3
-13
+155 1
+4
+0 16 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
+1
 end_operator
 begin_operator
-move-up-fast fast0 n0 n8
-0
+empty-shaker right shaker1 cocktail6 l2 l0
+1
+155 1
+4
+0 16 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
 1
-0 22 0 4
-25
 end_operator
 begin_operator
-move-up-fast fast0 n12 n16
-0
+empty-shaker right shaker1 cocktail7 l0 l0
+2
+155 1
+168 0
+3
+0 17 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 22 1 2
-13
 end_operator
 begin_operator
-move-up-fast fast0 n4 n12
-0
+empty-shaker right shaker1 cocktail7 l1 l0
+1
+155 1
+4
+0 17 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
 1
-0 22 3 1
-25
 end_operator
 begin_operator
-move-up-fast fast0 n4 n16
-0
+empty-shaker right shaker1 cocktail7 l2 l0
 1
-0 22 3 2
-37
+155 1
+4
+0 17 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-up-fast fast0 n4 n8
-0
+empty-shaker right shaker1 cocktail8 l0 l0
+2
+155 1
+168 0
+3
+0 18 0 1
+0 143 -1 0
+0 167 0 1
 1
-0 22 3 4
-13
 end_operator
 begin_operator
-move-up-fast fast0 n8 n12
-0
+empty-shaker right shaker1 cocktail8 l1 l0
 1
-0 22 4 1
-13
+155 1
+4
+0 18 0 1
+0 143 -1 0
+0 167 0 1
+0 168 1 0
+1
 end_operator
 begin_operator
-move-up-fast fast0 n8 n16
-0
+empty-shaker right shaker1 cocktail8 l2 l0
 1
-0 22 4 2
-25
+155 1
+4
+0 18 0 1
+0 143 -1 0
+0 167 0 1
+0 168 2 0
+1
 end_operator
 begin_operator
-move-up-fast fast1 n0 n12
-0
+empty-shot left shot1 cocktail1
 1
+154 2
+2
 0 23 0 1
-37
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-fast fast1 n0 n16
-0
+empty-shot left shot1 cocktail2
 1
-0 23 0 2
-49
-end_operator
-begin_operator
-move-up-fast fast1 n0 n4
-0
-1
-0 23 0 3
-13
-end_operator
-begin_operator
-move-up-fast fast1 n0 n8
-0
-1
-0 23 0 4
-25
-end_operator
-begin_operator
-move-up-fast fast1 n12 n16
-0
-1
-0 23 1 2
-13
-end_operator
-begin_operator
-move-up-fast fast1 n4 n12
-0
-1
-0 23 3 1
-25
-end_operator
-begin_operator
-move-up-fast fast1 n4 n16
-0
-1
-0 23 3 2
-37
-end_operator
-begin_operator
-move-up-fast fast1 n4 n8
-0
-1
-0 23 3 4
-13
-end_operator
-begin_operator
-move-up-fast fast1 n8 n12
-0
-1
-0 23 4 1
-13
-end_operator
-begin_operator
-move-up-fast fast1 n8 n16
-0
-1
-0 23 4 2
-25
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n1
-0
-1
+154 2
+2
 0 24 0 1
-6
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-slow slow0-0 n0 n2
-0
+empty-shot left shot1 cocktail3
 1
-0 24 0 2
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n3
-0
-1
-0 24 0 3
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n4
-0
-1
-0 24 0 4
-9
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n5
-0
-1
-0 24 0 5
-10
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n6
-0
-1
-0 24 0 6
-11
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n7
-0
-1
-0 24 0 7
-12
-end_operator
-begin_operator
-move-up-slow slow0-0 n0 n8
-0
-1
-0 24 0 8
-13
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n2
-0
-1
-0 24 1 2
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n3
-0
-1
-0 24 1 3
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n4
-0
-1
-0 24 1 4
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n5
-0
-1
-0 24 1 5
-9
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n6
-0
-1
-0 24 1 6
-10
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n7
-0
-1
-0 24 1 7
-11
-end_operator
-begin_operator
-move-up-slow slow0-0 n1 n8
-0
-1
-0 24 1 8
-12
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n3
-0
-1
-0 24 2 3
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n4
-0
-1
-0 24 2 4
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n5
-0
-1
-0 24 2 5
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n6
-0
-1
-0 24 2 6
-9
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n7
-0
-1
-0 24 2 7
-10
-end_operator
-begin_operator
-move-up-slow slow0-0 n2 n8
-0
-1
-0 24 2 8
-11
-end_operator
-begin_operator
-move-up-slow slow0-0 n3 n4
-0
-1
-0 24 3 4
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n3 n5
-0
-1
-0 24 3 5
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n3 n6
-0
-1
-0 24 3 6
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n3 n7
-0
-1
-0 24 3 7
-9
-end_operator
-begin_operator
-move-up-slow slow0-0 n3 n8
-0
-1
-0 24 3 8
-10
-end_operator
-begin_operator
-move-up-slow slow0-0 n4 n5
-0
-1
-0 24 4 5
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n4 n6
-0
-1
-0 24 4 6
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n4 n7
-0
-1
-0 24 4 7
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n4 n8
-0
-1
-0 24 4 8
-9
-end_operator
-begin_operator
-move-up-slow slow0-0 n5 n6
-0
-1
-0 24 5 6
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n5 n7
-0
-1
-0 24 5 7
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n5 n8
-0
-1
-0 24 5 8
-8
-end_operator
-begin_operator
-move-up-slow slow0-0 n6 n7
-0
-1
-0 24 6 7
-6
-end_operator
-begin_operator
-move-up-slow slow0-0 n6 n8
-0
-1
-0 24 6 8
-7
-end_operator
-begin_operator
-move-up-slow slow0-0 n7 n8
-0
-1
-0 24 7 8
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n10 n11
-0
-1
+154 2
+2
 0 25 0 1
-6
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-slow slow1-0 n10 n12
-0
+empty-shot left shot1 cocktail4
 1
-0 25 0 2
-7
+154 2
+2
+0 26 0 1
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-slow slow1-0 n10 n13
-0
+empty-shot left shot1 cocktail5
 1
-0 25 0 3
-8
+154 2
+2
+0 27 0 1
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-slow slow1-0 n10 n14
-0
+empty-shot left shot1 cocktail6
 1
-0 25 0 4
-9
+154 2
+2
+0 28 0 1
+0 144 -1 0
+1
 end_operator
 begin_operator
-move-up-slow slow1-0 n10 n15
-0
+empty-shot left shot1 cocktail7
 1
-0 25 0 5
+154 2
+2
+0 29 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot1 cocktail8
+1
+154 2
+2
+0 30 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot1 ingredient1
+1
+154 2
+2
+0 31 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot1 ingredient2
+1
+154 2
+2
+0 32 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot1 ingredient3
+1
+154 2
+2
+0 33 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot1 ingredient4
+1
+154 2
+2
+0 34 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail1
+1
+154 3
+2
+0 35 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail2
+1
+154 3
+2
+0 36 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail3
+1
+154 3
+2
+0 37 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail4
+1
+154 3
+2
+0 38 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail5
+1
+154 3
+2
+0 39 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail6
+1
+154 3
+2
+0 40 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail7
+1
+154 3
+2
+0 41 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 cocktail8
+1
+154 3
+2
+0 42 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 ingredient1
+1
+154 3
+2
+0 43 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 ingredient2
+1
+154 3
+2
+0 44 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 ingredient3
+1
+154 3
+2
+0 45 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot10 ingredient4
+1
+154 3
+2
+0 46 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail1
+1
+154 4
+2
+0 47 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail2
+1
+154 4
+2
+0 48 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail3
+1
+154 4
+2
+0 49 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail4
+1
+154 4
+2
+0 50 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail5
+1
+154 4
+2
+0 51 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail6
+1
+154 4
+2
+0 52 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail7
+1
+154 4
+2
+0 53 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 cocktail8
+1
+154 4
+2
+0 54 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 ingredient1
+1
+154 4
+2
+0 55 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 ingredient2
+1
+154 4
+2
+0 56 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 ingredient3
+1
+154 4
+2
+0 57 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot2 ingredient4
+1
+154 4
+2
+0 58 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail1
+1
+154 5
+2
+0 59 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail2
+1
+154 5
+2
+0 60 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail3
+1
+154 5
+2
+0 61 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail4
+1
+154 5
+2
+0 62 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail5
+1
+154 5
+2
+0 63 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail6
+1
+154 5
+2
+0 64 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail7
+1
+154 5
+2
+0 65 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 cocktail8
+1
+154 5
+2
+0 66 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 ingredient1
+1
+154 5
+2
+0 67 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 ingredient2
+1
+154 5
+2
+0 68 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 ingredient3
+1
+154 5
+2
+0 69 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot3 ingredient4
+1
+154 5
+2
+0 70 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail1
+1
+154 6
+2
+0 71 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail2
+1
+154 6
+2
+0 72 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail3
+1
+154 6
+2
+0 73 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail4
+1
+154 6
+2
+0 74 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail5
+1
+154 6
+2
+0 75 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail6
+1
+154 6
+2
+0 76 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail7
+1
+154 6
+2
+0 77 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 cocktail8
+1
+154 6
+2
+0 78 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 ingredient1
+1
+154 6
+2
+0 79 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 ingredient2
+1
+154 6
+2
+0 80 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 ingredient3
+1
+154 6
+2
+0 81 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot4 ingredient4
+1
+154 6
+2
+0 82 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail1
+1
+154 7
+2
+0 83 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail2
+1
+154 7
+2
+0 84 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail3
+1
+154 7
+2
+0 85 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail4
+1
+154 7
+2
+0 86 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail5
+1
+154 7
+2
+0 87 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail6
+1
+154 7
+2
+0 88 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail7
+1
+154 7
+2
+0 89 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 cocktail8
+1
+154 7
+2
+0 90 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 ingredient1
+1
+154 7
+2
+0 91 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 ingredient2
+1
+154 7
+2
+0 92 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 ingredient3
+1
+154 7
+2
+0 93 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot5 ingredient4
+1
+154 7
+2
+0 94 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail1
+1
+154 8
+2
+0 95 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail2
+1
+154 8
+2
+0 96 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail3
+1
+154 8
+2
+0 97 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail4
+1
+154 8
+2
+0 98 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail5
+1
+154 8
+2
+0 99 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail6
+1
+154 8
+2
+0 100 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail7
+1
+154 8
+2
+0 101 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 cocktail8
+1
+154 8
+2
+0 102 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 ingredient1
+1
+154 8
+2
+0 103 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 ingredient2
+1
+154 8
+2
+0 104 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 ingredient3
+1
+154 8
+2
+0 105 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot6 ingredient4
+1
+154 8
+2
+0 106 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail1
+1
+154 9
+2
+0 107 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail2
+1
+154 9
+2
+0 108 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail3
+1
+154 9
+2
+0 109 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail4
+1
+154 9
+2
+0 110 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail5
+1
+154 9
+2
+0 111 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail6
+1
+154 9
+2
+0 112 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail7
+1
+154 9
+2
+0 113 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 cocktail8
+1
+154 9
+2
+0 114 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 ingredient1
+1
+154 9
+2
+0 115 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 ingredient2
+1
+154 9
+2
+0 116 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 ingredient3
+1
+154 9
+2
+0 117 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot7 ingredient4
+1
+154 9
+2
+0 118 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail1
+1
+154 10
+2
+0 119 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail2
+1
+154 10
+2
+0 120 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail3
+1
+154 10
+2
+0 121 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail4
+1
+154 10
+2
+0 122 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail5
+1
+154 10
+2
+0 123 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail6
+1
+154 10
+2
+0 124 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail7
+1
+154 10
+2
+0 125 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 cocktail8
+1
+154 10
+2
+0 126 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 ingredient1
+1
+154 10
+2
+0 127 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 ingredient2
+1
+154 10
+2
+0 128 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 ingredient3
+1
+154 10
+2
+0 129 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot8 ingredient4
+1
+154 10
+2
+0 130 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail1
+1
+154 11
+2
+0 131 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail2
+1
+154 11
+2
+0 132 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail3
+1
+154 11
+2
+0 133 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail4
+1
+154 11
+2
+0 134 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail5
+1
+154 11
+2
+0 135 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail6
+1
+154 11
+2
+0 136 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail7
+1
+154 11
+2
+0 137 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 cocktail8
+1
+154 11
+2
+0 138 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 ingredient1
+1
+154 11
+2
+0 139 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 ingredient2
+1
+154 11
+2
+0 140 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 ingredient3
+1
+154 11
+2
+0 141 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot left shot9 ingredient4
+1
+154 11
+2
+0 142 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail1
+1
+155 2
+2
+0 23 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail2
+1
+155 2
+2
+0 24 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail3
+1
+155 2
+2
+0 25 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail4
+1
+155 2
+2
+0 26 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail5
+1
+155 2
+2
+0 27 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail6
+1
+155 2
+2
+0 28 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail7
+1
+155 2
+2
+0 29 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 cocktail8
+1
+155 2
+2
+0 30 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 ingredient1
+1
+155 2
+2
+0 31 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 ingredient2
+1
+155 2
+2
+0 32 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 ingredient3
+1
+155 2
+2
+0 33 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot1 ingredient4
+1
+155 2
+2
+0 34 0 1
+0 144 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail1
+1
+155 3
+2
+0 35 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail2
+1
+155 3
+2
+0 36 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail3
+1
+155 3
+2
+0 37 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail4
+1
+155 3
+2
+0 38 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail5
+1
+155 3
+2
+0 39 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail6
+1
+155 3
+2
+0 40 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail7
+1
+155 3
+2
+0 41 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 cocktail8
+1
+155 3
+2
+0 42 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 ingredient1
+1
+155 3
+2
+0 43 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 ingredient2
+1
+155 3
+2
+0 44 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 ingredient3
+1
+155 3
+2
+0 45 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot10 ingredient4
+1
+155 3
+2
+0 46 0 1
+0 145 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail1
+1
+155 4
+2
+0 47 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail2
+1
+155 4
+2
+0 48 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail3
+1
+155 4
+2
+0 49 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail4
+1
+155 4
+2
+0 50 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail5
+1
+155 4
+2
+0 51 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail6
+1
+155 4
+2
+0 52 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail7
+1
+155 4
+2
+0 53 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 cocktail8
+1
+155 4
+2
+0 54 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 ingredient1
+1
+155 4
+2
+0 55 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 ingredient2
+1
+155 4
+2
+0 56 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 ingredient3
+1
+155 4
+2
+0 57 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot2 ingredient4
+1
+155 4
+2
+0 58 0 1
+0 146 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail1
+1
+155 5
+2
+0 59 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail2
+1
+155 5
+2
+0 60 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail3
+1
+155 5
+2
+0 61 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail4
+1
+155 5
+2
+0 62 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail5
+1
+155 5
+2
+0 63 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail6
+1
+155 5
+2
+0 64 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail7
+1
+155 5
+2
+0 65 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 cocktail8
+1
+155 5
+2
+0 66 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 ingredient1
+1
+155 5
+2
+0 67 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 ingredient2
+1
+155 5
+2
+0 68 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 ingredient3
+1
+155 5
+2
+0 69 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot3 ingredient4
+1
+155 5
+2
+0 70 0 1
+0 147 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail1
+1
+155 6
+2
+0 71 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail2
+1
+155 6
+2
+0 72 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail3
+1
+155 6
+2
+0 73 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail4
+1
+155 6
+2
+0 74 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail5
+1
+155 6
+2
+0 75 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail6
+1
+155 6
+2
+0 76 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail7
+1
+155 6
+2
+0 77 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 cocktail8
+1
+155 6
+2
+0 78 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 ingredient1
+1
+155 6
+2
+0 79 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 ingredient2
+1
+155 6
+2
+0 80 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 ingredient3
+1
+155 6
+2
+0 81 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot4 ingredient4
+1
+155 6
+2
+0 82 0 1
+0 148 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail1
+1
+155 7
+2
+0 83 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail2
+1
+155 7
+2
+0 84 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail3
+1
+155 7
+2
+0 85 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail4
+1
+155 7
+2
+0 86 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail5
+1
+155 7
+2
+0 87 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail6
+1
+155 7
+2
+0 88 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail7
+1
+155 7
+2
+0 89 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 cocktail8
+1
+155 7
+2
+0 90 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 ingredient1
+1
+155 7
+2
+0 91 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 ingredient2
+1
+155 7
+2
+0 92 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 ingredient3
+1
+155 7
+2
+0 93 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot5 ingredient4
+1
+155 7
+2
+0 94 0 1
+0 149 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail1
+1
+155 8
+2
+0 95 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail2
+1
+155 8
+2
+0 96 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail3
+1
+155 8
+2
+0 97 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail4
+1
+155 8
+2
+0 98 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail5
+1
+155 8
+2
+0 99 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail6
+1
+155 8
+2
+0 100 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail7
+1
+155 8
+2
+0 101 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 cocktail8
+1
+155 8
+2
+0 102 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 ingredient1
+1
+155 8
+2
+0 103 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 ingredient2
+1
+155 8
+2
+0 104 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 ingredient3
+1
+155 8
+2
+0 105 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot6 ingredient4
+1
+155 8
+2
+0 106 0 1
+0 150 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail1
+1
+155 9
+2
+0 107 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail2
+1
+155 9
+2
+0 108 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail3
+1
+155 9
+2
+0 109 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail4
+1
+155 9
+2
+0 110 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail5
+1
+155 9
+2
+0 111 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail6
+1
+155 9
+2
+0 112 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail7
+1
+155 9
+2
+0 113 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 cocktail8
+1
+155 9
+2
+0 114 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 ingredient1
+1
+155 9
+2
+0 115 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 ingredient2
+1
+155 9
+2
+0 116 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 ingredient3
+1
+155 9
+2
+0 117 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot7 ingredient4
+1
+155 9
+2
+0 118 0 1
+0 151 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail1
+1
+155 10
+2
+0 119 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail2
+1
+155 10
+2
+0 120 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail3
+1
+155 10
+2
+0 121 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail4
+1
+155 10
+2
+0 122 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail5
+1
+155 10
+2
+0 123 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail6
+1
+155 10
+2
+0 124 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail7
+1
+155 10
+2
+0 125 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 cocktail8
+1
+155 10
+2
+0 126 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 ingredient1
+1
+155 10
+2
+0 127 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 ingredient2
+1
+155 10
+2
+0 128 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 ingredient3
+1
+155 10
+2
+0 129 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot8 ingredient4
+1
+155 10
+2
+0 130 0 1
+0 152 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail1
+1
+155 11
+2
+0 131 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail2
+1
+155 11
+2
+0 132 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail3
+1
+155 11
+2
+0 133 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail4
+1
+155 11
+2
+0 134 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail5
+1
+155 11
+2
+0 135 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail6
+1
+155 11
+2
+0 136 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail7
+1
+155 11
+2
+0 137 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 cocktail8
+1
+155 11
+2
+0 138 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 ingredient1
+1
+155 11
+2
+0 139 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 ingredient2
+1
+155 11
+2
+0 140 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 ingredient3
+1
+155 11
+2
+0 141 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+empty-shot right shot9 ingredient4
+1
+155 11
+2
+0 142 0 1
+0 153 -1 0
+1
+end_operator
+begin_operator
+fill-shot shot1 ingredient1 left right dispenser1
+2
+154 2
+155 0
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 170 -1 0
 10
 end_operator
 begin_operator
-move-up-slow slow1-0 n10 n16
-0
-1
-0 25 0 6
-11
-end_operator
-begin_operator
-move-up-slow slow1-0 n11 n12
-0
-1
-0 25 1 2
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n11 n13
-0
-1
-0 25 1 3
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n11 n14
-0
-1
-0 25 1 4
-8
-end_operator
-begin_operator
-move-up-slow slow1-0 n11 n15
-0
-1
-0 25 1 5
-9
-end_operator
-begin_operator
-move-up-slow slow1-0 n11 n16
-0
-1
-0 25 1 6
+fill-shot shot1 ingredient1 right left dispenser1
+2
+154 0
+155 2
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 170 -1 0
 10
 end_operator
 begin_operator
-move-up-slow slow1-0 n12 n13
-0
-1
-0 25 2 3
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n12 n14
-0
-1
-0 25 2 4
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n12 n15
-0
-1
-0 25 2 5
-8
-end_operator
-begin_operator
-move-up-slow slow1-0 n12 n16
-0
-1
-0 25 2 6
-9
-end_operator
-begin_operator
-move-up-slow slow1-0 n13 n14
-0
-1
-0 25 3 4
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n13 n15
-0
-1
-0 25 3 5
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n13 n16
-0
-1
-0 25 3 6
-8
-end_operator
-begin_operator
-move-up-slow slow1-0 n14 n15
-0
-1
-0 25 4 5
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n14 n16
-0
-1
-0 25 4 6
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n15 n16
-0
-1
-0 25 5 6
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n10
-0
-1
-0 25 7 0
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n11
-0
-1
-0 25 7 1
-8
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n12
-0
-1
-0 25 7 2
-9
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n13
-0
-1
-0 25 7 3
+fill-shot shot1 ingredient2 left right dispenser2
+2
+154 2
+155 0
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 171 -1 0
 10
 end_operator
 begin_operator
-move-up-slow slow1-0 n8 n14
-0
-1
-0 25 7 4
-11
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n15
-0
-1
-0 25 7 5
-12
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n16
-0
-1
-0 25 7 6
-13
-end_operator
-begin_operator
-move-up-slow slow1-0 n8 n9
-0
-1
-0 25 7 8
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n9 n10
-0
-1
-0 25 8 0
-6
-end_operator
-begin_operator
-move-up-slow slow1-0 n9 n11
-0
-1
-0 25 8 1
-7
-end_operator
-begin_operator
-move-up-slow slow1-0 n9 n12
-0
-1
-0 25 8 2
-8
-end_operator
-begin_operator
-move-up-slow slow1-0 n9 n13
-0
-1
-0 25 8 3
-9
-end_operator
-begin_operator
-move-up-slow slow1-0 n9 n14
-0
-1
-0 25 8 4
+fill-shot shot1 ingredient2 right left dispenser2
+2
+154 0
+155 2
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 171 -1 0
 10
 end_operator
 begin_operator
-move-up-slow slow1-0 n9 n15
-0
-1
-0 25 8 5
-11
+fill-shot shot1 ingredient3 left right dispenser3
+2
+154 2
+155 0
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 172 -1 0
+10
 end_operator
 begin_operator
-move-up-slow slow1-0 n9 n16
+fill-shot shot1 ingredient3 right left dispenser3
+2
+154 0
+155 2
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 172 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot1 ingredient4 left right dispenser4
+2
+154 2
+155 0
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 173 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot1 ingredient4 right left dispenser4
+2
+154 0
+155 2
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 173 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient1 left right dispenser1
+2
+154 3
+155 0
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 174 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient1 right left dispenser1
+2
+154 0
+155 3
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 174 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient2 left right dispenser2
+2
+154 3
+155 0
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 175 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient2 right left dispenser2
+2
+154 0
+155 3
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 175 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient3 left right dispenser3
+2
+154 3
+155 0
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 176 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient3 right left dispenser3
+2
+154 0
+155 3
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 176 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient4 left right dispenser4
+2
+154 3
+155 0
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 177 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot10 ingredient4 right left dispenser4
+2
+154 0
+155 3
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 177 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient1 left right dispenser1
+2
+154 4
+155 0
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 178 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient1 right left dispenser1
+2
+154 0
+155 4
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 178 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient2 left right dispenser2
+2
+154 4
+155 0
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 179 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient2 right left dispenser2
+2
+154 0
+155 4
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 179 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient3 left right dispenser3
+2
+154 4
+155 0
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 180 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient3 right left dispenser3
+2
+154 0
+155 4
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 180 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient4 left right dispenser4
+2
+154 4
+155 0
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 181 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot2 ingredient4 right left dispenser4
+2
+154 0
+155 4
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 181 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient1 left right dispenser1
+2
+154 5
+155 0
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 182 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient1 right left dispenser1
+2
+154 0
+155 5
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 182 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient2 left right dispenser2
+2
+154 5
+155 0
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 183 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient2 right left dispenser2
+2
+154 0
+155 5
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 183 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient3 left right dispenser3
+2
+154 5
+155 0
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 184 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient3 right left dispenser3
+2
+154 0
+155 5
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 184 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient4 left right dispenser4
+2
+154 5
+155 0
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 185 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot3 ingredient4 right left dispenser4
+2
+154 0
+155 5
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 185 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient1 left right dispenser1
+2
+154 6
+155 0
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 186 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient1 right left dispenser1
+2
+154 0
+155 6
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 186 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient2 left right dispenser2
+2
+154 6
+155 0
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 187 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient2 right left dispenser2
+2
+154 0
+155 6
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 187 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient3 left right dispenser3
+2
+154 6
+155 0
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 188 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient3 right left dispenser3
+2
+154 0
+155 6
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 188 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient4 left right dispenser4
+2
+154 6
+155 0
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 189 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot4 ingredient4 right left dispenser4
+2
+154 0
+155 6
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 189 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient1 left right dispenser1
+2
+154 7
+155 0
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 190 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient1 right left dispenser1
+2
+154 0
+155 7
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 190 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient2 left right dispenser2
+2
+154 7
+155 0
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 191 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient2 right left dispenser2
+2
+154 0
+155 7
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 191 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient3 left right dispenser3
+2
+154 7
+155 0
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 192 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient3 right left dispenser3
+2
+154 0
+155 7
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 192 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient4 left right dispenser4
+2
+154 7
+155 0
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 193 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot5 ingredient4 right left dispenser4
+2
+154 0
+155 7
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 193 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient1 left right dispenser1
+2
+154 8
+155 0
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 194 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient1 right left dispenser1
+2
+154 0
+155 8
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 194 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient2 left right dispenser2
+2
+154 8
+155 0
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 195 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient2 right left dispenser2
+2
+154 0
+155 8
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 195 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient3 left right dispenser3
+2
+154 8
+155 0
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 196 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient3 right left dispenser3
+2
+154 0
+155 8
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 196 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient4 left right dispenser4
+2
+154 8
+155 0
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 197 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot6 ingredient4 right left dispenser4
+2
+154 0
+155 8
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 197 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient1 left right dispenser1
+2
+154 9
+155 0
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 198 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient1 right left dispenser1
+2
+154 0
+155 9
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 198 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient2 left right dispenser2
+2
+154 9
+155 0
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 199 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient2 right left dispenser2
+2
+154 0
+155 9
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 199 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient3 left right dispenser3
+2
+154 9
+155 0
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 200 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient3 right left dispenser3
+2
+154 0
+155 9
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 200 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient4 left right dispenser4
+2
+154 9
+155 0
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 201 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot7 ingredient4 right left dispenser4
+2
+154 0
+155 9
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 201 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient1 left right dispenser1
+2
+154 10
+155 0
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 202 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient1 right left dispenser1
+2
+154 0
+155 10
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 202 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient2 left right dispenser2
+2
+154 10
+155 0
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 203 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient2 right left dispenser2
+2
+154 0
+155 10
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 203 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient3 left right dispenser3
+2
+154 10
+155 0
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 204 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient3 right left dispenser3
+2
+154 0
+155 10
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 204 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient4 left right dispenser4
+2
+154 10
+155 0
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 205 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot8 ingredient4 right left dispenser4
+2
+154 0
+155 10
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 205 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient1 left right dispenser1
+2
+154 11
+155 0
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 206 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient1 right left dispenser1
+2
+154 0
+155 11
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 206 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient2 left right dispenser2
+2
+154 11
+155 0
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 207 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient2 right left dispenser2
+2
+154 0
+155 11
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 207 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient3 left right dispenser3
+2
+154 11
+155 0
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 208 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient3 right left dispenser3
+2
+154 0
+155 11
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 208 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient4 left right dispenser4
+2
+154 11
+155 0
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 209 -1 0
+10
+end_operator
+begin_operator
+fill-shot shot9 ingredient4 right left dispenser4
+2
+154 0
+155 11
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 209 -1 0
+10
+end_operator
+begin_operator
+grasp left shaker1
 0
+2
+0 154 0 1
+0 156 0 1
 1
-0 25 8 6
-12
+end_operator
+begin_operator
+grasp left shot1
+0
+2
+0 154 0 2
+0 157 0 1
+1
+end_operator
+begin_operator
+grasp left shot10
+0
+2
+0 154 0 3
+0 158 0 1
+1
+end_operator
+begin_operator
+grasp left shot2
+0
+2
+0 154 0 4
+0 159 0 1
+1
+end_operator
+begin_operator
+grasp left shot3
+0
+2
+0 154 0 5
+0 160 0 1
+1
+end_operator
+begin_operator
+grasp left shot4
+0
+2
+0 154 0 6
+0 161 0 1
+1
+end_operator
+begin_operator
+grasp left shot5
+0
+2
+0 154 0 7
+0 162 0 1
+1
+end_operator
+begin_operator
+grasp left shot6
+0
+2
+0 154 0 8
+0 163 0 1
+1
+end_operator
+begin_operator
+grasp left shot7
+0
+2
+0 154 0 9
+0 164 0 1
+1
+end_operator
+begin_operator
+grasp left shot8
+0
+2
+0 154 0 10
+0 165 0 1
+1
+end_operator
+begin_operator
+grasp left shot9
+0
+2
+0 154 0 11
+0 166 0 1
+1
+end_operator
+begin_operator
+grasp right shaker1
+0
+2
+0 155 0 1
+0 156 0 1
+1
+end_operator
+begin_operator
+grasp right shot1
+0
+2
+0 155 0 2
+0 157 0 1
+1
+end_operator
+begin_operator
+grasp right shot10
+0
+2
+0 155 0 3
+0 158 0 1
+1
+end_operator
+begin_operator
+grasp right shot2
+0
+2
+0 155 0 4
+0 159 0 1
+1
+end_operator
+begin_operator
+grasp right shot3
+0
+2
+0 155 0 5
+0 160 0 1
+1
+end_operator
+begin_operator
+grasp right shot4
+0
+2
+0 155 0 6
+0 161 0 1
+1
+end_operator
+begin_operator
+grasp right shot5
+0
+2
+0 155 0 7
+0 162 0 1
+1
+end_operator
+begin_operator
+grasp right shot6
+0
+2
+0 155 0 8
+0 163 0 1
+1
+end_operator
+begin_operator
+grasp right shot7
+0
+2
+0 155 0 9
+0 164 0 1
+1
+end_operator
+begin_operator
+grasp right shot8
+0
+2
+0 155 0 10
+0 165 0 1
+1
+end_operator
+begin_operator
+grasp right shot9
+0
+2
+0 155 0 11
+0 166 0 1
+1
+end_operator
+begin_operator
+leave left shaker1
+0
+2
+0 154 1 0
+0 156 -1 0
+1
+end_operator
+begin_operator
+leave left shot1
+0
+2
+0 154 2 0
+0 157 -1 0
+1
+end_operator
+begin_operator
+leave left shot10
+0
+2
+0 154 3 0
+0 158 -1 0
+1
+end_operator
+begin_operator
+leave left shot2
+0
+2
+0 154 4 0
+0 159 -1 0
+1
+end_operator
+begin_operator
+leave left shot3
+0
+2
+0 154 5 0
+0 160 -1 0
+1
+end_operator
+begin_operator
+leave left shot4
+0
+2
+0 154 6 0
+0 161 -1 0
+1
+end_operator
+begin_operator
+leave left shot5
+0
+2
+0 154 7 0
+0 162 -1 0
+1
+end_operator
+begin_operator
+leave left shot6
+0
+2
+0 154 8 0
+0 163 -1 0
+1
+end_operator
+begin_operator
+leave left shot7
+0
+2
+0 154 9 0
+0 164 -1 0
+1
+end_operator
+begin_operator
+leave left shot8
+0
+2
+0 154 10 0
+0 165 -1 0
+1
+end_operator
+begin_operator
+leave left shot9
+0
+2
+0 154 11 0
+0 166 -1 0
+1
+end_operator
+begin_operator
+leave right shaker1
+0
+2
+0 155 1 0
+0 156 -1 0
+1
+end_operator
+begin_operator
+leave right shot1
+0
+2
+0 155 2 0
+0 157 -1 0
+1
+end_operator
+begin_operator
+leave right shot10
+0
+2
+0 155 3 0
+0 158 -1 0
+1
+end_operator
+begin_operator
+leave right shot2
+0
+2
+0 155 4 0
+0 159 -1 0
+1
+end_operator
+begin_operator
+leave right shot3
+0
+2
+0 155 5 0
+0 160 -1 0
+1
+end_operator
+begin_operator
+leave right shot4
+0
+2
+0 155 6 0
+0 161 -1 0
+1
+end_operator
+begin_operator
+leave right shot5
+0
+2
+0 155 7 0
+0 162 -1 0
+1
+end_operator
+begin_operator
+leave right shot6
+0
+2
+0 155 8 0
+0 163 -1 0
+1
+end_operator
+begin_operator
+leave right shot7
+0
+2
+0 155 9 0
+0 164 -1 0
+1
+end_operator
+begin_operator
+leave right shot8
+0
+2
+0 155 10 0
+0 165 -1 0
+1
+end_operator
+begin_operator
+leave right shot9
+0
+2
+0 155 11 0
+0 166 -1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot1 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 1 0 1
+0 23 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot1 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 1 0 1
+0 23 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot1 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 1 0 1
+0 23 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot1 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 1 0 1
+0 23 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot10 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 2 0 1
+0 35 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot10 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 2 0 1
+0 35 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot10 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 2 0 1
+0 35 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot10 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 2 0 1
+0 35 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot2 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 3 0 1
+0 47 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot2 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 3 0 1
+0 47 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot2 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 3 0 1
+0 47 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot2 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 3 0 1
+0 47 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot3 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 4 0 1
+0 59 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot3 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 4 0 1
+0 59 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot3 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 4 0 1
+0 59 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot3 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 4 0 1
+0 59 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot4 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 5 0 1
+0 71 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot4 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 5 0 1
+0 71 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot4 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 5 0 1
+0 71 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot4 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 5 0 1
+0 71 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot5 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 6 0 1
+0 83 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot5 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 6 0 1
+0 83 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot5 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 6 0 1
+0 83 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot5 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 6 0 1
+0 83 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot6 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 7 0 1
+0 95 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot6 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 7 0 1
+0 95 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot6 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 7 0 1
+0 95 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot6 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 7 0 1
+0 95 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot7 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 8 0 1
+0 107 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot7 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 8 0 1
+0 107 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot7 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 8 0 1
+0 107 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot7 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 8 0 1
+0 107 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot8 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 9 0 1
+0 119 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot8 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 9 0 1
+0 119 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot8 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 9 0 1
+0 119 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot8 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 9 0 1
+0 119 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot9 left shaker1 l1 l0
+3
+11 0
+154 1
+167 0
+4
+0 10 0 1
+0 131 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot9 left shaker1 l2 l1
+3
+11 0
+154 1
+167 0
+4
+0 10 0 1
+0 131 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot9 right shaker1 l1 l0
+3
+11 0
+155 1
+167 0
+4
+0 10 0 1
+0 131 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail1 shot9 right shaker1 l2 l1
+3
+11 0
+155 1
+167 0
+4
+0 10 0 1
+0 131 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot1 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 1 0 1
+0 24 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot1 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 1 0 1
+0 24 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot1 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 1 0 1
+0 24 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot1 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 1 0 1
+0 24 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot10 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 2 0 1
+0 36 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot10 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 2 0 1
+0 36 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot10 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 2 0 1
+0 36 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot10 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 2 0 1
+0 36 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot2 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 3 0 1
+0 48 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot2 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 3 0 1
+0 48 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot2 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 3 0 1
+0 48 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot2 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 3 0 1
+0 48 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot3 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 4 0 1
+0 60 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot3 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 4 0 1
+0 60 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot3 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 4 0 1
+0 60 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot3 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 4 0 1
+0 60 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot4 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 5 0 1
+0 72 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot4 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 5 0 1
+0 72 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot4 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 5 0 1
+0 72 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot4 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 5 0 1
+0 72 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot5 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 6 0 1
+0 84 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot5 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 6 0 1
+0 84 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot5 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 6 0 1
+0 84 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot5 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 6 0 1
+0 84 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot6 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 7 0 1
+0 96 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot6 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 7 0 1
+0 96 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot6 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 7 0 1
+0 96 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot6 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 7 0 1
+0 96 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot7 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 8 0 1
+0 108 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot7 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 8 0 1
+0 108 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot7 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 8 0 1
+0 108 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot7 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 8 0 1
+0 108 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot8 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 9 0 1
+0 120 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot8 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 9 0 1
+0 120 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot8 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 9 0 1
+0 120 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot8 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 9 0 1
+0 120 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot9 left shaker1 l1 l0
+3
+12 0
+154 1
+167 0
+4
+0 10 0 1
+0 132 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot9 left shaker1 l2 l1
+3
+12 0
+154 1
+167 0
+4
+0 10 0 1
+0 132 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot9 right shaker1 l1 l0
+3
+12 0
+155 1
+167 0
+4
+0 10 0 1
+0 132 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail2 shot9 right shaker1 l2 l1
+3
+12 0
+155 1
+167 0
+4
+0 10 0 1
+0 132 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot1 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 1 0 1
+0 25 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot1 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 1 0 1
+0 25 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot1 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 1 0 1
+0 25 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot1 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 1 0 1
+0 25 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot10 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 2 0 1
+0 37 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot10 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 2 0 1
+0 37 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot10 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 2 0 1
+0 37 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot10 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 2 0 1
+0 37 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot2 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 3 0 1
+0 49 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot2 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 3 0 1
+0 49 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot2 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 3 0 1
+0 49 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot2 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 3 0 1
+0 49 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot3 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 4 0 1
+0 61 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot3 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 4 0 1
+0 61 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot3 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 4 0 1
+0 61 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot3 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 4 0 1
+0 61 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot4 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 5 0 1
+0 73 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot4 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 5 0 1
+0 73 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot4 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 5 0 1
+0 73 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot4 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 5 0 1
+0 73 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot5 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 6 0 1
+0 85 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot5 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 6 0 1
+0 85 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot5 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 6 0 1
+0 85 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot5 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 6 0 1
+0 85 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot6 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 7 0 1
+0 97 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot6 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 7 0 1
+0 97 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot6 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 7 0 1
+0 97 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot6 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 7 0 1
+0 97 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot7 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 8 0 1
+0 109 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot7 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 8 0 1
+0 109 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot7 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 8 0 1
+0 109 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot7 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 8 0 1
+0 109 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot8 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 9 0 1
+0 121 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot8 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 9 0 1
+0 121 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot8 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 9 0 1
+0 121 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot8 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 9 0 1
+0 121 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot9 left shaker1 l1 l0
+3
+13 0
+154 1
+167 0
+4
+0 10 0 1
+0 133 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot9 left shaker1 l2 l1
+3
+13 0
+154 1
+167 0
+4
+0 10 0 1
+0 133 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot9 right shaker1 l1 l0
+3
+13 0
+155 1
+167 0
+4
+0 10 0 1
+0 133 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail3 shot9 right shaker1 l2 l1
+3
+13 0
+155 1
+167 0
+4
+0 10 0 1
+0 133 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot1 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 1 0 1
+0 26 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot1 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 1 0 1
+0 26 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot1 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 1 0 1
+0 26 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot1 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 1 0 1
+0 26 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot10 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 2 0 1
+0 38 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot10 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 2 0 1
+0 38 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot10 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 2 0 1
+0 38 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot10 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 2 0 1
+0 38 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot2 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 3 0 1
+0 50 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot2 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 3 0 1
+0 50 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot2 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 3 0 1
+0 50 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot2 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 3 0 1
+0 50 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot3 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 4 0 1
+0 62 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot3 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 4 0 1
+0 62 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot3 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 4 0 1
+0 62 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot3 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 4 0 1
+0 62 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot4 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 5 0 1
+0 74 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot4 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 5 0 1
+0 74 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot4 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 5 0 1
+0 74 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot4 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 5 0 1
+0 74 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot5 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 6 0 1
+0 86 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot5 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 6 0 1
+0 86 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot5 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 6 0 1
+0 86 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot5 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 6 0 1
+0 86 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot6 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 7 0 1
+0 98 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot6 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 7 0 1
+0 98 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot6 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 7 0 1
+0 98 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot6 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 7 0 1
+0 98 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot7 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 8 0 1
+0 110 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot7 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 8 0 1
+0 110 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot7 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 8 0 1
+0 110 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot7 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 8 0 1
+0 110 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot8 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 9 0 1
+0 122 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot8 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 9 0 1
+0 122 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot8 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 9 0 1
+0 122 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot8 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 9 0 1
+0 122 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot9 left shaker1 l1 l0
+3
+14 0
+154 1
+167 0
+4
+0 10 0 1
+0 134 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot9 left shaker1 l2 l1
+3
+14 0
+154 1
+167 0
+4
+0 10 0 1
+0 134 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot9 right shaker1 l1 l0
+3
+14 0
+155 1
+167 0
+4
+0 10 0 1
+0 134 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail4 shot9 right shaker1 l2 l1
+3
+14 0
+155 1
+167 0
+4
+0 10 0 1
+0 134 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot1 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 1 0 1
+0 27 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot1 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 1 0 1
+0 27 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot1 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 1 0 1
+0 27 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot1 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 1 0 1
+0 27 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot10 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 2 0 1
+0 39 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot10 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 2 0 1
+0 39 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot10 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 2 0 1
+0 39 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot10 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 2 0 1
+0 39 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot2 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 3 0 1
+0 51 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot2 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 3 0 1
+0 51 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot2 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 3 0 1
+0 51 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot2 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 3 0 1
+0 51 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot3 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 4 0 1
+0 63 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot3 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 4 0 1
+0 63 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot3 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 4 0 1
+0 63 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot3 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 4 0 1
+0 63 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot4 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 5 0 1
+0 75 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot4 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 5 0 1
+0 75 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot4 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 5 0 1
+0 75 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot4 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 5 0 1
+0 75 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot5 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 6 0 1
+0 87 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot5 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 6 0 1
+0 87 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot5 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 6 0 1
+0 87 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot5 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 6 0 1
+0 87 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot6 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 7 0 1
+0 99 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot6 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 7 0 1
+0 99 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot6 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 7 0 1
+0 99 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot6 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 7 0 1
+0 99 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot7 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 8 0 1
+0 111 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot7 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 8 0 1
+0 111 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot7 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 8 0 1
+0 111 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot7 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 8 0 1
+0 111 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot8 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 9 0 1
+0 123 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot8 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 9 0 1
+0 123 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot8 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 9 0 1
+0 123 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot8 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 9 0 1
+0 123 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot9 left shaker1 l1 l0
+3
+15 0
+154 1
+167 0
+4
+0 10 0 1
+0 135 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot9 left shaker1 l2 l1
+3
+15 0
+154 1
+167 0
+4
+0 10 0 1
+0 135 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot9 right shaker1 l1 l0
+3
+15 0
+155 1
+167 0
+4
+0 10 0 1
+0 135 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail5 shot9 right shaker1 l2 l1
+3
+15 0
+155 1
+167 0
+4
+0 10 0 1
+0 135 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot1 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 1 0 1
+0 28 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot1 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 1 0 1
+0 28 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot1 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 1 0 1
+0 28 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot1 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 1 0 1
+0 28 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot10 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 2 0 1
+0 40 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot10 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 2 0 1
+0 40 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot10 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 2 0 1
+0 40 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot10 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 2 0 1
+0 40 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot2 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 3 0 1
+0 52 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot2 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 3 0 1
+0 52 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot2 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 3 0 1
+0 52 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot2 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 3 0 1
+0 52 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot3 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 4 0 1
+0 64 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot3 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 4 0 1
+0 64 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot3 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 4 0 1
+0 64 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot3 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 4 0 1
+0 64 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot4 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 5 0 1
+0 76 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot4 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 5 0 1
+0 76 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot4 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 5 0 1
+0 76 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot4 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 5 0 1
+0 76 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot5 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 6 0 1
+0 88 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot5 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 6 0 1
+0 88 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot5 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 6 0 1
+0 88 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot5 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 6 0 1
+0 88 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot6 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 7 0 1
+0 100 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot6 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 7 0 1
+0 100 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot6 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 7 0 1
+0 100 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot6 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 7 0 1
+0 100 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot7 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 8 0 1
+0 112 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot7 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 8 0 1
+0 112 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot7 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 8 0 1
+0 112 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot7 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 8 0 1
+0 112 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot8 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 9 0 1
+0 124 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot8 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 9 0 1
+0 124 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot8 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 9 0 1
+0 124 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot8 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 9 0 1
+0 124 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot9 left shaker1 l1 l0
+3
+16 0
+154 1
+167 0
+4
+0 10 0 1
+0 136 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot9 left shaker1 l2 l1
+3
+16 0
+154 1
+167 0
+4
+0 10 0 1
+0 136 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot9 right shaker1 l1 l0
+3
+16 0
+155 1
+167 0
+4
+0 10 0 1
+0 136 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail6 shot9 right shaker1 l2 l1
+3
+16 0
+155 1
+167 0
+4
+0 10 0 1
+0 136 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot1 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 1 0 1
+0 29 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot1 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 1 0 1
+0 29 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot1 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 1 0 1
+0 29 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot1 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 1 0 1
+0 29 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot10 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 2 0 1
+0 41 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot10 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 2 0 1
+0 41 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot10 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 2 0 1
+0 41 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot10 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 2 0 1
+0 41 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot2 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 3 0 1
+0 53 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot2 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 3 0 1
+0 53 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot2 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 3 0 1
+0 53 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot2 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 3 0 1
+0 53 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot3 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 4 0 1
+0 65 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot3 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 4 0 1
+0 65 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot3 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 4 0 1
+0 65 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot3 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 4 0 1
+0 65 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot4 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 5 0 1
+0 77 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot4 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 5 0 1
+0 77 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot4 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 5 0 1
+0 77 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot4 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 5 0 1
+0 77 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot5 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 6 0 1
+0 89 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot5 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 6 0 1
+0 89 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot5 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 6 0 1
+0 89 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot5 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 6 0 1
+0 89 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot6 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 7 0 1
+0 101 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot6 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 7 0 1
+0 101 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot6 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 7 0 1
+0 101 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot6 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 7 0 1
+0 101 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot7 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 8 0 1
+0 113 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot7 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 8 0 1
+0 113 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot7 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 8 0 1
+0 113 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot7 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 8 0 1
+0 113 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot8 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 9 0 1
+0 125 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot8 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 9 0 1
+0 125 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot8 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 9 0 1
+0 125 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot8 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 9 0 1
+0 125 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot9 left shaker1 l1 l0
+3
+17 0
+154 1
+167 0
+4
+0 10 0 1
+0 137 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot9 left shaker1 l2 l1
+3
+17 0
+154 1
+167 0
+4
+0 10 0 1
+0 137 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot9 right shaker1 l1 l0
+3
+17 0
+155 1
+167 0
+4
+0 10 0 1
+0 137 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail7 shot9 right shaker1 l2 l1
+3
+17 0
+155 1
+167 0
+4
+0 10 0 1
+0 137 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot1 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 1 0 1
+0 30 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot1 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 1 0 1
+0 30 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot1 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 1 0 1
+0 30 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot1 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 1 0 1
+0 30 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot10 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 2 0 1
+0 42 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot10 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 2 0 1
+0 42 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot10 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 2 0 1
+0 42 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot10 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 2 0 1
+0 42 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot2 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 3 0 1
+0 54 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot2 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 3 0 1
+0 54 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot2 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 3 0 1
+0 54 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot2 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 3 0 1
+0 54 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot3 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 4 0 1
+0 66 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot3 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 4 0 1
+0 66 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot3 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 4 0 1
+0 66 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot3 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 4 0 1
+0 66 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot4 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 5 0 1
+0 78 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot4 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 5 0 1
+0 78 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot4 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 5 0 1
+0 78 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot4 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 5 0 1
+0 78 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot5 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 6 0 1
+0 90 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot5 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 6 0 1
+0 90 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot5 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 6 0 1
+0 90 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot5 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 6 0 1
+0 90 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot6 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 7 0 1
+0 102 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot6 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 7 0 1
+0 102 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot6 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 7 0 1
+0 102 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot6 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 7 0 1
+0 102 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot7 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 8 0 1
+0 114 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot7 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 8 0 1
+0 114 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot7 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 8 0 1
+0 114 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot7 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 8 0 1
+0 114 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot8 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 9 0 1
+0 126 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot8 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 9 0 1
+0 126 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot8 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 9 0 1
+0 126 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot8 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 9 0 1
+0 126 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot9 left shaker1 l1 l0
+3
+18 0
+154 1
+167 0
+4
+0 10 0 1
+0 138 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot9 left shaker1 l2 l1
+3
+18 0
+154 1
+167 0
+4
+0 10 0 1
+0 138 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot9 right shaker1 l1 l0
+3
+18 0
+155 1
+167 0
+4
+0 10 0 1
+0 138 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot cocktail8 shot9 right shaker1 l2 l1
+3
+18 0
+155 1
+167 0
+4
+0 10 0 1
+0 138 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot1 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot1 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot1 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot1 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 1 0 1
+0 31 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot10 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot10 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot10 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot10 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 2 0 1
+0 43 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot2 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot2 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot2 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot2 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 3 0 1
+0 55 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot3 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot3 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot3 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot3 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 4 0 1
+0 67 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot4 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot4 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot4 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot4 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 5 0 1
+0 79 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot5 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot5 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot5 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot5 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 6 0 1
+0 91 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot6 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot6 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot6 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot6 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 7 0 1
+0 103 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot7 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot7 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot7 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot7 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 8 0 1
+0 115 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot8 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot8 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot8 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot8 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 9 0 1
+0 127 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot9 left shaker1 l1 l0
+3
+19 0
+154 1
+167 0
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot9 left shaker1 l2 l1
+3
+19 0
+154 1
+167 0
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot9 right shaker1 l1 l0
+3
+19 0
+155 1
+167 0
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient1 shot9 right shaker1 l2 l1
+3
+19 0
+155 1
+167 0
+4
+0 10 0 1
+0 139 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot1 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot1 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot1 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot1 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 1 0 1
+0 32 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot10 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot10 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot10 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot10 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 2 0 1
+0 44 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot2 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot2 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot2 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot2 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 3 0 1
+0 56 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot3 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot3 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot3 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot3 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 4 0 1
+0 68 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot4 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot4 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot4 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot4 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 5 0 1
+0 80 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot5 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot5 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot5 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot5 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 6 0 1
+0 92 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot6 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot6 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot6 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot6 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 7 0 1
+0 104 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot7 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot7 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot7 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot7 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 8 0 1
+0 116 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot8 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot8 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot8 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot8 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 9 0 1
+0 128 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot9 left shaker1 l1 l0
+3
+20 0
+154 1
+167 0
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot9 left shaker1 l2 l1
+3
+20 0
+154 1
+167 0
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot9 right shaker1 l1 l0
+3
+20 0
+155 1
+167 0
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient2 shot9 right shaker1 l2 l1
+3
+20 0
+155 1
+167 0
+4
+0 10 0 1
+0 140 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot1 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot1 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot1 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot1 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 1 0 1
+0 33 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot10 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot10 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot10 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot10 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 2 0 1
+0 45 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot2 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot2 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot2 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot2 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 3 0 1
+0 57 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot3 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot3 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot3 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot3 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 4 0 1
+0 69 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot4 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot4 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot4 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot4 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 5 0 1
+0 81 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot5 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot5 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot5 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot5 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 6 0 1
+0 93 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot6 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot6 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot6 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot6 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 7 0 1
+0 105 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot7 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot7 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot7 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot7 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 8 0 1
+0 117 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot8 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot8 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot8 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot8 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 9 0 1
+0 129 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot9 left shaker1 l1 l0
+3
+21 0
+154 1
+167 0
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot9 left shaker1 l2 l1
+3
+21 0
+154 1
+167 0
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot9 right shaker1 l1 l0
+3
+21 0
+155 1
+167 0
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient3 shot9 right shaker1 l2 l1
+3
+21 0
+155 1
+167 0
+4
+0 10 0 1
+0 141 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot1 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot1 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot1 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot1 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 1 0 1
+0 34 -1 0
+0 144 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot10 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot10 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot10 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot10 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 2 0 1
+0 46 -1 0
+0 145 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot2 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot2 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot2 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot2 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 3 0 1
+0 58 -1 0
+0 146 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot3 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot3 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot3 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot3 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 4 0 1
+0 70 -1 0
+0 147 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot4 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot4 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot4 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot4 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 5 0 1
+0 82 -1 0
+0 148 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot5 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot5 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot5 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot5 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 6 0 1
+0 94 -1 0
+0 149 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot6 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot6 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot6 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot6 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 7 0 1
+0 106 -1 0
+0 150 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot7 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot7 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot7 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot7 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 8 0 1
+0 118 -1 0
+0 151 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot8 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot8 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot8 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot8 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 9 0 1
+0 130 -1 0
+0 152 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot9 left shaker1 l1 l0
+3
+22 0
+154 1
+167 0
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot9 left shaker1 l2 l1
+3
+22 0
+154 1
+167 0
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot9 right shaker1 l1 l0
+3
+22 0
+155 1
+167 0
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 168 1 0
+1
+end_operator
+begin_operator
+pour-shaker-to-shot ingredient4 shot9 right shaker1 l2 l1
+3
+22 0
+155 1
+167 0
+4
+0 10 0 1
+0 142 -1 0
+0 153 0 1
+0 168 2 1
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient1 shaker1 left l0 l1
+1
+154 2
+7
+0 0 0 1
+0 19 -1 0
+0 31 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient1 shaker1 left l1 l2
+1
+154 2
+7
+0 0 0 1
+0 19 -1 0
+0 31 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient1 shaker1 right l0 l1
+1
+155 2
+7
+0 0 0 1
+0 19 -1 0
+0 31 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient1 shaker1 right l1 l2
+1
+155 2
+7
+0 0 0 1
+0 19 -1 0
+0 31 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient2 shaker1 left l0 l1
+1
+154 2
+7
+0 0 0 1
+0 20 -1 0
+0 32 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient2 shaker1 left l1 l2
+1
+154 2
+7
+0 0 0 1
+0 20 -1 0
+0 32 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient2 shaker1 right l0 l1
+1
+155 2
+7
+0 0 0 1
+0 20 -1 0
+0 32 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient2 shaker1 right l1 l2
+1
+155 2
+7
+0 0 0 1
+0 20 -1 0
+0 32 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient3 shaker1 left l0 l1
+1
+154 2
+7
+0 0 0 1
+0 21 -1 0
+0 33 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient3 shaker1 left l1 l2
+1
+154 2
+7
+0 0 0 1
+0 21 -1 0
+0 33 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient3 shaker1 right l0 l1
+1
+155 2
+7
+0 0 0 1
+0 21 -1 0
+0 33 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient3 shaker1 right l1 l2
+1
+155 2
+7
+0 0 0 1
+0 21 -1 0
+0 33 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient4 shaker1 left l0 l1
+1
+154 2
+7
+0 0 0 1
+0 22 -1 0
+0 34 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient4 shaker1 left l1 l2
+1
+154 2
+7
+0 0 0 1
+0 22 -1 0
+0 34 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient4 shaker1 right l0 l1
+1
+155 2
+7
+0 0 0 1
+0 22 -1 0
+0 34 0 1
+0 143 0 1
+0 144 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot1 ingredient4 shaker1 right l1 l2
+1
+155 2
+7
+0 0 0 1
+0 22 -1 0
+0 34 0 1
+0 143 0 1
+0 144 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient1 shaker1 left l0 l1
+1
+154 3
+7
+0 0 0 1
+0 19 -1 0
+0 43 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient1 shaker1 left l1 l2
+1
+154 3
+7
+0 0 0 1
+0 19 -1 0
+0 43 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient1 shaker1 right l0 l1
+1
+155 3
+7
+0 0 0 1
+0 19 -1 0
+0 43 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient1 shaker1 right l1 l2
+1
+155 3
+7
+0 0 0 1
+0 19 -1 0
+0 43 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient2 shaker1 left l0 l1
+1
+154 3
+7
+0 0 0 1
+0 20 -1 0
+0 44 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient2 shaker1 left l1 l2
+1
+154 3
+7
+0 0 0 1
+0 20 -1 0
+0 44 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient2 shaker1 right l0 l1
+1
+155 3
+7
+0 0 0 1
+0 20 -1 0
+0 44 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient2 shaker1 right l1 l2
+1
+155 3
+7
+0 0 0 1
+0 20 -1 0
+0 44 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient3 shaker1 left l0 l1
+1
+154 3
+7
+0 0 0 1
+0 21 -1 0
+0 45 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient3 shaker1 left l1 l2
+1
+154 3
+7
+0 0 0 1
+0 21 -1 0
+0 45 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient3 shaker1 right l0 l1
+1
+155 3
+7
+0 0 0 1
+0 21 -1 0
+0 45 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient3 shaker1 right l1 l2
+1
+155 3
+7
+0 0 0 1
+0 21 -1 0
+0 45 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient4 shaker1 left l0 l1
+1
+154 3
+7
+0 0 0 1
+0 22 -1 0
+0 46 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient4 shaker1 left l1 l2
+1
+154 3
+7
+0 0 0 1
+0 22 -1 0
+0 46 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient4 shaker1 right l0 l1
+1
+155 3
+7
+0 0 0 1
+0 22 -1 0
+0 46 0 1
+0 143 0 1
+0 145 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot10 ingredient4 shaker1 right l1 l2
+1
+155 3
+7
+0 0 0 1
+0 22 -1 0
+0 46 0 1
+0 143 0 1
+0 145 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient1 shaker1 left l0 l1
+1
+154 4
+7
+0 0 0 1
+0 19 -1 0
+0 55 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient1 shaker1 left l1 l2
+1
+154 4
+7
+0 0 0 1
+0 19 -1 0
+0 55 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient1 shaker1 right l0 l1
+1
+155 4
+7
+0 0 0 1
+0 19 -1 0
+0 55 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient1 shaker1 right l1 l2
+1
+155 4
+7
+0 0 0 1
+0 19 -1 0
+0 55 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient2 shaker1 left l0 l1
+1
+154 4
+7
+0 0 0 1
+0 20 -1 0
+0 56 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient2 shaker1 left l1 l2
+1
+154 4
+7
+0 0 0 1
+0 20 -1 0
+0 56 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient2 shaker1 right l0 l1
+1
+155 4
+7
+0 0 0 1
+0 20 -1 0
+0 56 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient2 shaker1 right l1 l2
+1
+155 4
+7
+0 0 0 1
+0 20 -1 0
+0 56 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient3 shaker1 left l0 l1
+1
+154 4
+7
+0 0 0 1
+0 21 -1 0
+0 57 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient3 shaker1 left l1 l2
+1
+154 4
+7
+0 0 0 1
+0 21 -1 0
+0 57 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient3 shaker1 right l0 l1
+1
+155 4
+7
+0 0 0 1
+0 21 -1 0
+0 57 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient3 shaker1 right l1 l2
+1
+155 4
+7
+0 0 0 1
+0 21 -1 0
+0 57 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient4 shaker1 left l0 l1
+1
+154 4
+7
+0 0 0 1
+0 22 -1 0
+0 58 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient4 shaker1 left l1 l2
+1
+154 4
+7
+0 0 0 1
+0 22 -1 0
+0 58 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient4 shaker1 right l0 l1
+1
+155 4
+7
+0 0 0 1
+0 22 -1 0
+0 58 0 1
+0 143 0 1
+0 146 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot2 ingredient4 shaker1 right l1 l2
+1
+155 4
+7
+0 0 0 1
+0 22 -1 0
+0 58 0 1
+0 143 0 1
+0 146 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient1 shaker1 left l0 l1
+1
+154 5
+7
+0 0 0 1
+0 19 -1 0
+0 67 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient1 shaker1 left l1 l2
+1
+154 5
+7
+0 0 0 1
+0 19 -1 0
+0 67 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient1 shaker1 right l0 l1
+1
+155 5
+7
+0 0 0 1
+0 19 -1 0
+0 67 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient1 shaker1 right l1 l2
+1
+155 5
+7
+0 0 0 1
+0 19 -1 0
+0 67 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient2 shaker1 left l0 l1
+1
+154 5
+7
+0 0 0 1
+0 20 -1 0
+0 68 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient2 shaker1 left l1 l2
+1
+154 5
+7
+0 0 0 1
+0 20 -1 0
+0 68 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient2 shaker1 right l0 l1
+1
+155 5
+7
+0 0 0 1
+0 20 -1 0
+0 68 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient2 shaker1 right l1 l2
+1
+155 5
+7
+0 0 0 1
+0 20 -1 0
+0 68 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient3 shaker1 left l0 l1
+1
+154 5
+7
+0 0 0 1
+0 21 -1 0
+0 69 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient3 shaker1 left l1 l2
+1
+154 5
+7
+0 0 0 1
+0 21 -1 0
+0 69 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient3 shaker1 right l0 l1
+1
+155 5
+7
+0 0 0 1
+0 21 -1 0
+0 69 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient3 shaker1 right l1 l2
+1
+155 5
+7
+0 0 0 1
+0 21 -1 0
+0 69 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient4 shaker1 left l0 l1
+1
+154 5
+7
+0 0 0 1
+0 22 -1 0
+0 70 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient4 shaker1 left l1 l2
+1
+154 5
+7
+0 0 0 1
+0 22 -1 0
+0 70 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient4 shaker1 right l0 l1
+1
+155 5
+7
+0 0 0 1
+0 22 -1 0
+0 70 0 1
+0 143 0 1
+0 147 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot3 ingredient4 shaker1 right l1 l2
+1
+155 5
+7
+0 0 0 1
+0 22 -1 0
+0 70 0 1
+0 143 0 1
+0 147 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient1 shaker1 left l0 l1
+1
+154 6
+7
+0 0 0 1
+0 19 -1 0
+0 79 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient1 shaker1 left l1 l2
+1
+154 6
+7
+0 0 0 1
+0 19 -1 0
+0 79 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient1 shaker1 right l0 l1
+1
+155 6
+7
+0 0 0 1
+0 19 -1 0
+0 79 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient1 shaker1 right l1 l2
+1
+155 6
+7
+0 0 0 1
+0 19 -1 0
+0 79 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient2 shaker1 left l0 l1
+1
+154 6
+7
+0 0 0 1
+0 20 -1 0
+0 80 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient2 shaker1 left l1 l2
+1
+154 6
+7
+0 0 0 1
+0 20 -1 0
+0 80 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient2 shaker1 right l0 l1
+1
+155 6
+7
+0 0 0 1
+0 20 -1 0
+0 80 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient2 shaker1 right l1 l2
+1
+155 6
+7
+0 0 0 1
+0 20 -1 0
+0 80 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient3 shaker1 left l0 l1
+1
+154 6
+7
+0 0 0 1
+0 21 -1 0
+0 81 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient3 shaker1 left l1 l2
+1
+154 6
+7
+0 0 0 1
+0 21 -1 0
+0 81 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient3 shaker1 right l0 l1
+1
+155 6
+7
+0 0 0 1
+0 21 -1 0
+0 81 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient3 shaker1 right l1 l2
+1
+155 6
+7
+0 0 0 1
+0 21 -1 0
+0 81 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient4 shaker1 left l0 l1
+1
+154 6
+7
+0 0 0 1
+0 22 -1 0
+0 82 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient4 shaker1 left l1 l2
+1
+154 6
+7
+0 0 0 1
+0 22 -1 0
+0 82 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient4 shaker1 right l0 l1
+1
+155 6
+7
+0 0 0 1
+0 22 -1 0
+0 82 0 1
+0 143 0 1
+0 148 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot4 ingredient4 shaker1 right l1 l2
+1
+155 6
+7
+0 0 0 1
+0 22 -1 0
+0 82 0 1
+0 143 0 1
+0 148 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient1 shaker1 left l0 l1
+1
+154 7
+7
+0 0 0 1
+0 19 -1 0
+0 91 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient1 shaker1 left l1 l2
+1
+154 7
+7
+0 0 0 1
+0 19 -1 0
+0 91 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient1 shaker1 right l0 l1
+1
+155 7
+7
+0 0 0 1
+0 19 -1 0
+0 91 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient1 shaker1 right l1 l2
+1
+155 7
+7
+0 0 0 1
+0 19 -1 0
+0 91 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient2 shaker1 left l0 l1
+1
+154 7
+7
+0 0 0 1
+0 20 -1 0
+0 92 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient2 shaker1 left l1 l2
+1
+154 7
+7
+0 0 0 1
+0 20 -1 0
+0 92 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient2 shaker1 right l0 l1
+1
+155 7
+7
+0 0 0 1
+0 20 -1 0
+0 92 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient2 shaker1 right l1 l2
+1
+155 7
+7
+0 0 0 1
+0 20 -1 0
+0 92 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient3 shaker1 left l0 l1
+1
+154 7
+7
+0 0 0 1
+0 21 -1 0
+0 93 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient3 shaker1 left l1 l2
+1
+154 7
+7
+0 0 0 1
+0 21 -1 0
+0 93 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient3 shaker1 right l0 l1
+1
+155 7
+7
+0 0 0 1
+0 21 -1 0
+0 93 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient3 shaker1 right l1 l2
+1
+155 7
+7
+0 0 0 1
+0 21 -1 0
+0 93 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient4 shaker1 left l0 l1
+1
+154 7
+7
+0 0 0 1
+0 22 -1 0
+0 94 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient4 shaker1 left l1 l2
+1
+154 7
+7
+0 0 0 1
+0 22 -1 0
+0 94 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient4 shaker1 right l0 l1
+1
+155 7
+7
+0 0 0 1
+0 22 -1 0
+0 94 0 1
+0 143 0 1
+0 149 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot5 ingredient4 shaker1 right l1 l2
+1
+155 7
+7
+0 0 0 1
+0 22 -1 0
+0 94 0 1
+0 143 0 1
+0 149 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient1 shaker1 left l0 l1
+1
+154 8
+7
+0 0 0 1
+0 19 -1 0
+0 103 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient1 shaker1 left l1 l2
+1
+154 8
+7
+0 0 0 1
+0 19 -1 0
+0 103 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient1 shaker1 right l0 l1
+1
+155 8
+7
+0 0 0 1
+0 19 -1 0
+0 103 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient1 shaker1 right l1 l2
+1
+155 8
+7
+0 0 0 1
+0 19 -1 0
+0 103 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient2 shaker1 left l0 l1
+1
+154 8
+7
+0 0 0 1
+0 20 -1 0
+0 104 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient2 shaker1 left l1 l2
+1
+154 8
+7
+0 0 0 1
+0 20 -1 0
+0 104 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient2 shaker1 right l0 l1
+1
+155 8
+7
+0 0 0 1
+0 20 -1 0
+0 104 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient2 shaker1 right l1 l2
+1
+155 8
+7
+0 0 0 1
+0 20 -1 0
+0 104 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient3 shaker1 left l0 l1
+1
+154 8
+7
+0 0 0 1
+0 21 -1 0
+0 105 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient3 shaker1 left l1 l2
+1
+154 8
+7
+0 0 0 1
+0 21 -1 0
+0 105 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient3 shaker1 right l0 l1
+1
+155 8
+7
+0 0 0 1
+0 21 -1 0
+0 105 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient3 shaker1 right l1 l2
+1
+155 8
+7
+0 0 0 1
+0 21 -1 0
+0 105 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient4 shaker1 left l0 l1
+1
+154 8
+7
+0 0 0 1
+0 22 -1 0
+0 106 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient4 shaker1 left l1 l2
+1
+154 8
+7
+0 0 0 1
+0 22 -1 0
+0 106 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient4 shaker1 right l0 l1
+1
+155 8
+7
+0 0 0 1
+0 22 -1 0
+0 106 0 1
+0 143 0 1
+0 150 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot6 ingredient4 shaker1 right l1 l2
+1
+155 8
+7
+0 0 0 1
+0 22 -1 0
+0 106 0 1
+0 143 0 1
+0 150 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient1 shaker1 left l0 l1
+1
+154 9
+7
+0 0 0 1
+0 19 -1 0
+0 115 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient1 shaker1 left l1 l2
+1
+154 9
+7
+0 0 0 1
+0 19 -1 0
+0 115 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient1 shaker1 right l0 l1
+1
+155 9
+7
+0 0 0 1
+0 19 -1 0
+0 115 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient1 shaker1 right l1 l2
+1
+155 9
+7
+0 0 0 1
+0 19 -1 0
+0 115 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient2 shaker1 left l0 l1
+1
+154 9
+7
+0 0 0 1
+0 20 -1 0
+0 116 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient2 shaker1 left l1 l2
+1
+154 9
+7
+0 0 0 1
+0 20 -1 0
+0 116 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient2 shaker1 right l0 l1
+1
+155 9
+7
+0 0 0 1
+0 20 -1 0
+0 116 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient2 shaker1 right l1 l2
+1
+155 9
+7
+0 0 0 1
+0 20 -1 0
+0 116 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient3 shaker1 left l0 l1
+1
+154 9
+7
+0 0 0 1
+0 21 -1 0
+0 117 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient3 shaker1 left l1 l2
+1
+154 9
+7
+0 0 0 1
+0 21 -1 0
+0 117 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient3 shaker1 right l0 l1
+1
+155 9
+7
+0 0 0 1
+0 21 -1 0
+0 117 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient3 shaker1 right l1 l2
+1
+155 9
+7
+0 0 0 1
+0 21 -1 0
+0 117 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient4 shaker1 left l0 l1
+1
+154 9
+7
+0 0 0 1
+0 22 -1 0
+0 118 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient4 shaker1 left l1 l2
+1
+154 9
+7
+0 0 0 1
+0 22 -1 0
+0 118 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient4 shaker1 right l0 l1
+1
+155 9
+7
+0 0 0 1
+0 22 -1 0
+0 118 0 1
+0 143 0 1
+0 151 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot7 ingredient4 shaker1 right l1 l2
+1
+155 9
+7
+0 0 0 1
+0 22 -1 0
+0 118 0 1
+0 143 0 1
+0 151 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient1 shaker1 left l0 l1
+1
+154 10
+7
+0 0 0 1
+0 19 -1 0
+0 127 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient1 shaker1 left l1 l2
+1
+154 10
+7
+0 0 0 1
+0 19 -1 0
+0 127 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient1 shaker1 right l0 l1
+1
+155 10
+7
+0 0 0 1
+0 19 -1 0
+0 127 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient1 shaker1 right l1 l2
+1
+155 10
+7
+0 0 0 1
+0 19 -1 0
+0 127 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient2 shaker1 left l0 l1
+1
+154 10
+7
+0 0 0 1
+0 20 -1 0
+0 128 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient2 shaker1 left l1 l2
+1
+154 10
+7
+0 0 0 1
+0 20 -1 0
+0 128 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient2 shaker1 right l0 l1
+1
+155 10
+7
+0 0 0 1
+0 20 -1 0
+0 128 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient2 shaker1 right l1 l2
+1
+155 10
+7
+0 0 0 1
+0 20 -1 0
+0 128 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient3 shaker1 left l0 l1
+1
+154 10
+7
+0 0 0 1
+0 21 -1 0
+0 129 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient3 shaker1 left l1 l2
+1
+154 10
+7
+0 0 0 1
+0 21 -1 0
+0 129 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient3 shaker1 right l0 l1
+1
+155 10
+7
+0 0 0 1
+0 21 -1 0
+0 129 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient3 shaker1 right l1 l2
+1
+155 10
+7
+0 0 0 1
+0 21 -1 0
+0 129 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient4 shaker1 left l0 l1
+1
+154 10
+7
+0 0 0 1
+0 22 -1 0
+0 130 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient4 shaker1 left l1 l2
+1
+154 10
+7
+0 0 0 1
+0 22 -1 0
+0 130 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient4 shaker1 right l0 l1
+1
+155 10
+7
+0 0 0 1
+0 22 -1 0
+0 130 0 1
+0 143 0 1
+0 152 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot8 ingredient4 shaker1 right l1 l2
+1
+155 10
+7
+0 0 0 1
+0 22 -1 0
+0 130 0 1
+0 143 0 1
+0 152 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient1 shaker1 left l0 l1
+1
+154 11
+7
+0 0 0 1
+0 19 -1 0
+0 139 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient1 shaker1 left l1 l2
+1
+154 11
+7
+0 0 0 1
+0 19 -1 0
+0 139 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient1 shaker1 right l0 l1
+1
+155 11
+7
+0 0 0 1
+0 19 -1 0
+0 139 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient1 shaker1 right l1 l2
+1
+155 11
+7
+0 0 0 1
+0 19 -1 0
+0 139 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient2 shaker1 left l0 l1
+1
+154 11
+7
+0 0 0 1
+0 20 -1 0
+0 140 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient2 shaker1 left l1 l2
+1
+154 11
+7
+0 0 0 1
+0 20 -1 0
+0 140 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient2 shaker1 right l0 l1
+1
+155 11
+7
+0 0 0 1
+0 20 -1 0
+0 140 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient2 shaker1 right l1 l2
+1
+155 11
+7
+0 0 0 1
+0 20 -1 0
+0 140 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient3 shaker1 left l0 l1
+1
+154 11
+7
+0 0 0 1
+0 21 -1 0
+0 141 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient3 shaker1 left l1 l2
+1
+154 11
+7
+0 0 0 1
+0 21 -1 0
+0 141 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient3 shaker1 right l0 l1
+1
+155 11
+7
+0 0 0 1
+0 21 -1 0
+0 141 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient3 shaker1 right l1 l2
+1
+155 11
+7
+0 0 0 1
+0 21 -1 0
+0 141 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient4 shaker1 left l0 l1
+1
+154 11
+7
+0 0 0 1
+0 22 -1 0
+0 142 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient4 shaker1 left l1 l2
+1
+154 11
+7
+0 0 0 1
+0 22 -1 0
+0 142 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient4 shaker1 right l0 l1
+1
+155 11
+7
+0 0 0 1
+0 22 -1 0
+0 142 0 1
+0 143 0 1
+0 153 -1 0
+0 168 0 1
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-clean-shaker shot9 ingredient4 shaker1 right l1 l2
+1
+155 11
+7
+0 0 0 1
+0 22 -1 0
+0 142 0 1
+0 143 0 1
+0 153 -1 0
+0 168 1 2
+0 169 -1 0
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient1 shaker1 left l0 l1
+2
+154 2
+169 0
+4
+0 19 -1 0
+0 31 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient1 shaker1 left l1 l2
+2
+154 2
+169 0
+4
+0 19 -1 0
+0 31 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient1 shaker1 right l0 l1
+2
+155 2
+169 0
+4
+0 19 -1 0
+0 31 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient1 shaker1 right l1 l2
+2
+155 2
+169 0
+4
+0 19 -1 0
+0 31 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient2 shaker1 left l0 l1
+2
+154 2
+169 0
+4
+0 20 -1 0
+0 32 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient2 shaker1 left l1 l2
+2
+154 2
+169 0
+4
+0 20 -1 0
+0 32 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient2 shaker1 right l0 l1
+2
+155 2
+169 0
+4
+0 20 -1 0
+0 32 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient2 shaker1 right l1 l2
+2
+155 2
+169 0
+4
+0 20 -1 0
+0 32 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient3 shaker1 left l0 l1
+2
+154 2
+169 0
+4
+0 21 -1 0
+0 33 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient3 shaker1 left l1 l2
+2
+154 2
+169 0
+4
+0 21 -1 0
+0 33 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient3 shaker1 right l0 l1
+2
+155 2
+169 0
+4
+0 21 -1 0
+0 33 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient3 shaker1 right l1 l2
+2
+155 2
+169 0
+4
+0 21 -1 0
+0 33 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient4 shaker1 left l0 l1
+2
+154 2
+169 0
+4
+0 22 -1 0
+0 34 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient4 shaker1 left l1 l2
+2
+154 2
+169 0
+4
+0 22 -1 0
+0 34 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient4 shaker1 right l0 l1
+2
+155 2
+169 0
+4
+0 22 -1 0
+0 34 0 1
+0 144 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot1 ingredient4 shaker1 right l1 l2
+2
+155 2
+169 0
+4
+0 22 -1 0
+0 34 0 1
+0 144 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient1 shaker1 left l0 l1
+2
+154 3
+169 0
+4
+0 19 -1 0
+0 43 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient1 shaker1 left l1 l2
+2
+154 3
+169 0
+4
+0 19 -1 0
+0 43 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient1 shaker1 right l0 l1
+2
+155 3
+169 0
+4
+0 19 -1 0
+0 43 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient1 shaker1 right l1 l2
+2
+155 3
+169 0
+4
+0 19 -1 0
+0 43 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient2 shaker1 left l0 l1
+2
+154 3
+169 0
+4
+0 20 -1 0
+0 44 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient2 shaker1 left l1 l2
+2
+154 3
+169 0
+4
+0 20 -1 0
+0 44 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient2 shaker1 right l0 l1
+2
+155 3
+169 0
+4
+0 20 -1 0
+0 44 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient2 shaker1 right l1 l2
+2
+155 3
+169 0
+4
+0 20 -1 0
+0 44 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient3 shaker1 left l0 l1
+2
+154 3
+169 0
+4
+0 21 -1 0
+0 45 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient3 shaker1 left l1 l2
+2
+154 3
+169 0
+4
+0 21 -1 0
+0 45 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient3 shaker1 right l0 l1
+2
+155 3
+169 0
+4
+0 21 -1 0
+0 45 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient3 shaker1 right l1 l2
+2
+155 3
+169 0
+4
+0 21 -1 0
+0 45 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient4 shaker1 left l0 l1
+2
+154 3
+169 0
+4
+0 22 -1 0
+0 46 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient4 shaker1 left l1 l2
+2
+154 3
+169 0
+4
+0 22 -1 0
+0 46 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient4 shaker1 right l0 l1
+2
+155 3
+169 0
+4
+0 22 -1 0
+0 46 0 1
+0 145 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot10 ingredient4 shaker1 right l1 l2
+2
+155 3
+169 0
+4
+0 22 -1 0
+0 46 0 1
+0 145 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient1 shaker1 left l0 l1
+2
+154 4
+169 0
+4
+0 19 -1 0
+0 55 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient1 shaker1 left l1 l2
+2
+154 4
+169 0
+4
+0 19 -1 0
+0 55 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient1 shaker1 right l0 l1
+2
+155 4
+169 0
+4
+0 19 -1 0
+0 55 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient1 shaker1 right l1 l2
+2
+155 4
+169 0
+4
+0 19 -1 0
+0 55 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient2 shaker1 left l0 l1
+2
+154 4
+169 0
+4
+0 20 -1 0
+0 56 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient2 shaker1 left l1 l2
+2
+154 4
+169 0
+4
+0 20 -1 0
+0 56 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient2 shaker1 right l0 l1
+2
+155 4
+169 0
+4
+0 20 -1 0
+0 56 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient2 shaker1 right l1 l2
+2
+155 4
+169 0
+4
+0 20 -1 0
+0 56 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient3 shaker1 left l0 l1
+2
+154 4
+169 0
+4
+0 21 -1 0
+0 57 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient3 shaker1 left l1 l2
+2
+154 4
+169 0
+4
+0 21 -1 0
+0 57 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient3 shaker1 right l0 l1
+2
+155 4
+169 0
+4
+0 21 -1 0
+0 57 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient3 shaker1 right l1 l2
+2
+155 4
+169 0
+4
+0 21 -1 0
+0 57 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient4 shaker1 left l0 l1
+2
+154 4
+169 0
+4
+0 22 -1 0
+0 58 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient4 shaker1 left l1 l2
+2
+154 4
+169 0
+4
+0 22 -1 0
+0 58 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient4 shaker1 right l0 l1
+2
+155 4
+169 0
+4
+0 22 -1 0
+0 58 0 1
+0 146 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot2 ingredient4 shaker1 right l1 l2
+2
+155 4
+169 0
+4
+0 22 -1 0
+0 58 0 1
+0 146 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient1 shaker1 left l0 l1
+2
+154 5
+169 0
+4
+0 19 -1 0
+0 67 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient1 shaker1 left l1 l2
+2
+154 5
+169 0
+4
+0 19 -1 0
+0 67 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient1 shaker1 right l0 l1
+2
+155 5
+169 0
+4
+0 19 -1 0
+0 67 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient1 shaker1 right l1 l2
+2
+155 5
+169 0
+4
+0 19 -1 0
+0 67 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient2 shaker1 left l0 l1
+2
+154 5
+169 0
+4
+0 20 -1 0
+0 68 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient2 shaker1 left l1 l2
+2
+154 5
+169 0
+4
+0 20 -1 0
+0 68 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient2 shaker1 right l0 l1
+2
+155 5
+169 0
+4
+0 20 -1 0
+0 68 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient2 shaker1 right l1 l2
+2
+155 5
+169 0
+4
+0 20 -1 0
+0 68 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient3 shaker1 left l0 l1
+2
+154 5
+169 0
+4
+0 21 -1 0
+0 69 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient3 shaker1 left l1 l2
+2
+154 5
+169 0
+4
+0 21 -1 0
+0 69 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient3 shaker1 right l0 l1
+2
+155 5
+169 0
+4
+0 21 -1 0
+0 69 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient3 shaker1 right l1 l2
+2
+155 5
+169 0
+4
+0 21 -1 0
+0 69 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient4 shaker1 left l0 l1
+2
+154 5
+169 0
+4
+0 22 -1 0
+0 70 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient4 shaker1 left l1 l2
+2
+154 5
+169 0
+4
+0 22 -1 0
+0 70 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient4 shaker1 right l0 l1
+2
+155 5
+169 0
+4
+0 22 -1 0
+0 70 0 1
+0 147 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot3 ingredient4 shaker1 right l1 l2
+2
+155 5
+169 0
+4
+0 22 -1 0
+0 70 0 1
+0 147 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient1 shaker1 left l0 l1
+2
+154 6
+169 0
+4
+0 19 -1 0
+0 79 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient1 shaker1 left l1 l2
+2
+154 6
+169 0
+4
+0 19 -1 0
+0 79 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient1 shaker1 right l0 l1
+2
+155 6
+169 0
+4
+0 19 -1 0
+0 79 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient1 shaker1 right l1 l2
+2
+155 6
+169 0
+4
+0 19 -1 0
+0 79 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient2 shaker1 left l0 l1
+2
+154 6
+169 0
+4
+0 20 -1 0
+0 80 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient2 shaker1 left l1 l2
+2
+154 6
+169 0
+4
+0 20 -1 0
+0 80 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient2 shaker1 right l0 l1
+2
+155 6
+169 0
+4
+0 20 -1 0
+0 80 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient2 shaker1 right l1 l2
+2
+155 6
+169 0
+4
+0 20 -1 0
+0 80 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient3 shaker1 left l0 l1
+2
+154 6
+169 0
+4
+0 21 -1 0
+0 81 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient3 shaker1 left l1 l2
+2
+154 6
+169 0
+4
+0 21 -1 0
+0 81 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient3 shaker1 right l0 l1
+2
+155 6
+169 0
+4
+0 21 -1 0
+0 81 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient3 shaker1 right l1 l2
+2
+155 6
+169 0
+4
+0 21 -1 0
+0 81 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient4 shaker1 left l0 l1
+2
+154 6
+169 0
+4
+0 22 -1 0
+0 82 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient4 shaker1 left l1 l2
+2
+154 6
+169 0
+4
+0 22 -1 0
+0 82 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient4 shaker1 right l0 l1
+2
+155 6
+169 0
+4
+0 22 -1 0
+0 82 0 1
+0 148 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot4 ingredient4 shaker1 right l1 l2
+2
+155 6
+169 0
+4
+0 22 -1 0
+0 82 0 1
+0 148 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient1 shaker1 left l0 l1
+2
+154 7
+169 0
+4
+0 19 -1 0
+0 91 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient1 shaker1 left l1 l2
+2
+154 7
+169 0
+4
+0 19 -1 0
+0 91 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient1 shaker1 right l0 l1
+2
+155 7
+169 0
+4
+0 19 -1 0
+0 91 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient1 shaker1 right l1 l2
+2
+155 7
+169 0
+4
+0 19 -1 0
+0 91 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient2 shaker1 left l0 l1
+2
+154 7
+169 0
+4
+0 20 -1 0
+0 92 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient2 shaker1 left l1 l2
+2
+154 7
+169 0
+4
+0 20 -1 0
+0 92 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient2 shaker1 right l0 l1
+2
+155 7
+169 0
+4
+0 20 -1 0
+0 92 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient2 shaker1 right l1 l2
+2
+155 7
+169 0
+4
+0 20 -1 0
+0 92 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient3 shaker1 left l0 l1
+2
+154 7
+169 0
+4
+0 21 -1 0
+0 93 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient3 shaker1 left l1 l2
+2
+154 7
+169 0
+4
+0 21 -1 0
+0 93 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient3 shaker1 right l0 l1
+2
+155 7
+169 0
+4
+0 21 -1 0
+0 93 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient3 shaker1 right l1 l2
+2
+155 7
+169 0
+4
+0 21 -1 0
+0 93 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient4 shaker1 left l0 l1
+2
+154 7
+169 0
+4
+0 22 -1 0
+0 94 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient4 shaker1 left l1 l2
+2
+154 7
+169 0
+4
+0 22 -1 0
+0 94 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient4 shaker1 right l0 l1
+2
+155 7
+169 0
+4
+0 22 -1 0
+0 94 0 1
+0 149 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot5 ingredient4 shaker1 right l1 l2
+2
+155 7
+169 0
+4
+0 22 -1 0
+0 94 0 1
+0 149 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient1 shaker1 left l0 l1
+2
+154 8
+169 0
+4
+0 19 -1 0
+0 103 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient1 shaker1 left l1 l2
+2
+154 8
+169 0
+4
+0 19 -1 0
+0 103 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient1 shaker1 right l0 l1
+2
+155 8
+169 0
+4
+0 19 -1 0
+0 103 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient1 shaker1 right l1 l2
+2
+155 8
+169 0
+4
+0 19 -1 0
+0 103 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient2 shaker1 left l0 l1
+2
+154 8
+169 0
+4
+0 20 -1 0
+0 104 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient2 shaker1 left l1 l2
+2
+154 8
+169 0
+4
+0 20 -1 0
+0 104 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient2 shaker1 right l0 l1
+2
+155 8
+169 0
+4
+0 20 -1 0
+0 104 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient2 shaker1 right l1 l2
+2
+155 8
+169 0
+4
+0 20 -1 0
+0 104 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient3 shaker1 left l0 l1
+2
+154 8
+169 0
+4
+0 21 -1 0
+0 105 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient3 shaker1 left l1 l2
+2
+154 8
+169 0
+4
+0 21 -1 0
+0 105 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient3 shaker1 right l0 l1
+2
+155 8
+169 0
+4
+0 21 -1 0
+0 105 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient3 shaker1 right l1 l2
+2
+155 8
+169 0
+4
+0 21 -1 0
+0 105 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient4 shaker1 left l0 l1
+2
+154 8
+169 0
+4
+0 22 -1 0
+0 106 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient4 shaker1 left l1 l2
+2
+154 8
+169 0
+4
+0 22 -1 0
+0 106 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient4 shaker1 right l0 l1
+2
+155 8
+169 0
+4
+0 22 -1 0
+0 106 0 1
+0 150 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot6 ingredient4 shaker1 right l1 l2
+2
+155 8
+169 0
+4
+0 22 -1 0
+0 106 0 1
+0 150 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient1 shaker1 left l0 l1
+2
+154 9
+169 0
+4
+0 19 -1 0
+0 115 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient1 shaker1 left l1 l2
+2
+154 9
+169 0
+4
+0 19 -1 0
+0 115 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient1 shaker1 right l0 l1
+2
+155 9
+169 0
+4
+0 19 -1 0
+0 115 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient1 shaker1 right l1 l2
+2
+155 9
+169 0
+4
+0 19 -1 0
+0 115 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient2 shaker1 left l0 l1
+2
+154 9
+169 0
+4
+0 20 -1 0
+0 116 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient2 shaker1 left l1 l2
+2
+154 9
+169 0
+4
+0 20 -1 0
+0 116 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient2 shaker1 right l0 l1
+2
+155 9
+169 0
+4
+0 20 -1 0
+0 116 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient2 shaker1 right l1 l2
+2
+155 9
+169 0
+4
+0 20 -1 0
+0 116 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient3 shaker1 left l0 l1
+2
+154 9
+169 0
+4
+0 21 -1 0
+0 117 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient3 shaker1 left l1 l2
+2
+154 9
+169 0
+4
+0 21 -1 0
+0 117 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient3 shaker1 right l0 l1
+2
+155 9
+169 0
+4
+0 21 -1 0
+0 117 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient3 shaker1 right l1 l2
+2
+155 9
+169 0
+4
+0 21 -1 0
+0 117 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient4 shaker1 left l0 l1
+2
+154 9
+169 0
+4
+0 22 -1 0
+0 118 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient4 shaker1 left l1 l2
+2
+154 9
+169 0
+4
+0 22 -1 0
+0 118 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient4 shaker1 right l0 l1
+2
+155 9
+169 0
+4
+0 22 -1 0
+0 118 0 1
+0 151 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot7 ingredient4 shaker1 right l1 l2
+2
+155 9
+169 0
+4
+0 22 -1 0
+0 118 0 1
+0 151 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient1 shaker1 left l0 l1
+2
+154 10
+169 0
+4
+0 19 -1 0
+0 127 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient1 shaker1 left l1 l2
+2
+154 10
+169 0
+4
+0 19 -1 0
+0 127 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient1 shaker1 right l0 l1
+2
+155 10
+169 0
+4
+0 19 -1 0
+0 127 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient1 shaker1 right l1 l2
+2
+155 10
+169 0
+4
+0 19 -1 0
+0 127 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient2 shaker1 left l0 l1
+2
+154 10
+169 0
+4
+0 20 -1 0
+0 128 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient2 shaker1 left l1 l2
+2
+154 10
+169 0
+4
+0 20 -1 0
+0 128 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient2 shaker1 right l0 l1
+2
+155 10
+169 0
+4
+0 20 -1 0
+0 128 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient2 shaker1 right l1 l2
+2
+155 10
+169 0
+4
+0 20 -1 0
+0 128 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient3 shaker1 left l0 l1
+2
+154 10
+169 0
+4
+0 21 -1 0
+0 129 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient3 shaker1 left l1 l2
+2
+154 10
+169 0
+4
+0 21 -1 0
+0 129 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient3 shaker1 right l0 l1
+2
+155 10
+169 0
+4
+0 21 -1 0
+0 129 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient3 shaker1 right l1 l2
+2
+155 10
+169 0
+4
+0 21 -1 0
+0 129 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient4 shaker1 left l0 l1
+2
+154 10
+169 0
+4
+0 22 -1 0
+0 130 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient4 shaker1 left l1 l2
+2
+154 10
+169 0
+4
+0 22 -1 0
+0 130 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient4 shaker1 right l0 l1
+2
+155 10
+169 0
+4
+0 22 -1 0
+0 130 0 1
+0 152 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot8 ingredient4 shaker1 right l1 l2
+2
+155 10
+169 0
+4
+0 22 -1 0
+0 130 0 1
+0 152 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient1 shaker1 left l0 l1
+2
+154 11
+169 0
+4
+0 19 -1 0
+0 139 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient1 shaker1 left l1 l2
+2
+154 11
+169 0
+4
+0 19 -1 0
+0 139 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient1 shaker1 right l0 l1
+2
+155 11
+169 0
+4
+0 19 -1 0
+0 139 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient1 shaker1 right l1 l2
+2
+155 11
+169 0
+4
+0 19 -1 0
+0 139 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient2 shaker1 left l0 l1
+2
+154 11
+169 0
+4
+0 20 -1 0
+0 140 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient2 shaker1 left l1 l2
+2
+154 11
+169 0
+4
+0 20 -1 0
+0 140 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient2 shaker1 right l0 l1
+2
+155 11
+169 0
+4
+0 20 -1 0
+0 140 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient2 shaker1 right l1 l2
+2
+155 11
+169 0
+4
+0 20 -1 0
+0 140 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient3 shaker1 left l0 l1
+2
+154 11
+169 0
+4
+0 21 -1 0
+0 141 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient3 shaker1 left l1 l2
+2
+154 11
+169 0
+4
+0 21 -1 0
+0 141 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient3 shaker1 right l0 l1
+2
+155 11
+169 0
+4
+0 21 -1 0
+0 141 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient3 shaker1 right l1 l2
+2
+155 11
+169 0
+4
+0 21 -1 0
+0 141 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient4 shaker1 left l0 l1
+2
+154 11
+169 0
+4
+0 22 -1 0
+0 142 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient4 shaker1 left l1 l2
+2
+154 11
+169 0
+4
+0 22 -1 0
+0 142 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient4 shaker1 right l0 l1
+2
+155 11
+169 0
+4
+0 22 -1 0
+0 142 0 1
+0 153 -1 0
+0 168 0 1
+1
+end_operator
+begin_operator
+pour-shot-to-used-shaker shot9 ingredient4 shaker1 right l1 l2
+2
+155 11
+169 0
+4
+0 22 -1 0
+0 142 0 1
+0 153 -1 0
+0 168 1 2
+1
+end_operator
+begin_operator
+refill-shot shot1 ingredient1 left right dispenser1
+3
+154 2
+155 0
+170 0
+2
+0 31 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient1 right left dispenser1
+3
+154 0
+155 2
+170 0
+2
+0 31 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient2 left right dispenser2
+3
+154 2
+155 0
+171 0
+2
+0 32 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient2 right left dispenser2
+3
+154 0
+155 2
+171 0
+2
+0 32 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient3 left right dispenser3
+3
+154 2
+155 0
+172 0
+2
+0 33 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient3 right left dispenser3
+3
+154 0
+155 2
+172 0
+2
+0 33 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient4 left right dispenser4
+3
+154 2
+155 0
+173 0
+2
+0 34 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot1 ingredient4 right left dispenser4
+3
+154 0
+155 2
+173 0
+2
+0 34 -1 0
+0 144 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient1 left right dispenser1
+3
+154 3
+155 0
+174 0
+2
+0 43 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient1 right left dispenser1
+3
+154 0
+155 3
+174 0
+2
+0 43 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient2 left right dispenser2
+3
+154 3
+155 0
+175 0
+2
+0 44 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient2 right left dispenser2
+3
+154 0
+155 3
+175 0
+2
+0 44 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient3 left right dispenser3
+3
+154 3
+155 0
+176 0
+2
+0 45 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient3 right left dispenser3
+3
+154 0
+155 3
+176 0
+2
+0 45 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient4 left right dispenser4
+3
+154 3
+155 0
+177 0
+2
+0 46 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot10 ingredient4 right left dispenser4
+3
+154 0
+155 3
+177 0
+2
+0 46 -1 0
+0 145 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient1 left right dispenser1
+3
+154 4
+155 0
+178 0
+2
+0 55 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient1 right left dispenser1
+3
+154 0
+155 4
+178 0
+2
+0 55 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient2 left right dispenser2
+3
+154 4
+155 0
+179 0
+2
+0 56 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient2 right left dispenser2
+3
+154 0
+155 4
+179 0
+2
+0 56 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient3 left right dispenser3
+3
+154 4
+155 0
+180 0
+2
+0 57 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient3 right left dispenser3
+3
+154 0
+155 4
+180 0
+2
+0 57 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient4 left right dispenser4
+3
+154 4
+155 0
+181 0
+2
+0 58 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot2 ingredient4 right left dispenser4
+3
+154 0
+155 4
+181 0
+2
+0 58 -1 0
+0 146 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient1 left right dispenser1
+3
+154 5
+155 0
+182 0
+2
+0 67 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient1 right left dispenser1
+3
+154 0
+155 5
+182 0
+2
+0 67 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient2 left right dispenser2
+3
+154 5
+155 0
+183 0
+2
+0 68 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient2 right left dispenser2
+3
+154 0
+155 5
+183 0
+2
+0 68 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient3 left right dispenser3
+3
+154 5
+155 0
+184 0
+2
+0 69 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient3 right left dispenser3
+3
+154 0
+155 5
+184 0
+2
+0 69 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient4 left right dispenser4
+3
+154 5
+155 0
+185 0
+2
+0 70 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot3 ingredient4 right left dispenser4
+3
+154 0
+155 5
+185 0
+2
+0 70 -1 0
+0 147 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient1 left right dispenser1
+3
+154 6
+155 0
+186 0
+2
+0 79 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient1 right left dispenser1
+3
+154 0
+155 6
+186 0
+2
+0 79 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient2 left right dispenser2
+3
+154 6
+155 0
+187 0
+2
+0 80 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient2 right left dispenser2
+3
+154 0
+155 6
+187 0
+2
+0 80 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient3 left right dispenser3
+3
+154 6
+155 0
+188 0
+2
+0 81 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient3 right left dispenser3
+3
+154 0
+155 6
+188 0
+2
+0 81 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient4 left right dispenser4
+3
+154 6
+155 0
+189 0
+2
+0 82 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot4 ingredient4 right left dispenser4
+3
+154 0
+155 6
+189 0
+2
+0 82 -1 0
+0 148 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient1 left right dispenser1
+3
+154 7
+155 0
+190 0
+2
+0 91 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient1 right left dispenser1
+3
+154 0
+155 7
+190 0
+2
+0 91 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient2 left right dispenser2
+3
+154 7
+155 0
+191 0
+2
+0 92 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient2 right left dispenser2
+3
+154 0
+155 7
+191 0
+2
+0 92 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient3 left right dispenser3
+3
+154 7
+155 0
+192 0
+2
+0 93 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient3 right left dispenser3
+3
+154 0
+155 7
+192 0
+2
+0 93 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient4 left right dispenser4
+3
+154 7
+155 0
+193 0
+2
+0 94 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot5 ingredient4 right left dispenser4
+3
+154 0
+155 7
+193 0
+2
+0 94 -1 0
+0 149 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient1 left right dispenser1
+3
+154 8
+155 0
+194 0
+2
+0 103 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient1 right left dispenser1
+3
+154 0
+155 8
+194 0
+2
+0 103 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient2 left right dispenser2
+3
+154 8
+155 0
+195 0
+2
+0 104 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient2 right left dispenser2
+3
+154 0
+155 8
+195 0
+2
+0 104 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient3 left right dispenser3
+3
+154 8
+155 0
+196 0
+2
+0 105 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient3 right left dispenser3
+3
+154 0
+155 8
+196 0
+2
+0 105 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient4 left right dispenser4
+3
+154 8
+155 0
+197 0
+2
+0 106 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot6 ingredient4 right left dispenser4
+3
+154 0
+155 8
+197 0
+2
+0 106 -1 0
+0 150 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient1 left right dispenser1
+3
+154 9
+155 0
+198 0
+2
+0 115 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient1 right left dispenser1
+3
+154 0
+155 9
+198 0
+2
+0 115 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient2 left right dispenser2
+3
+154 9
+155 0
+199 0
+2
+0 116 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient2 right left dispenser2
+3
+154 0
+155 9
+199 0
+2
+0 116 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient3 left right dispenser3
+3
+154 9
+155 0
+200 0
+2
+0 117 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient3 right left dispenser3
+3
+154 0
+155 9
+200 0
+2
+0 117 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient4 left right dispenser4
+3
+154 9
+155 0
+201 0
+2
+0 118 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot7 ingredient4 right left dispenser4
+3
+154 0
+155 9
+201 0
+2
+0 118 -1 0
+0 151 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient1 left right dispenser1
+3
+154 10
+155 0
+202 0
+2
+0 127 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient1 right left dispenser1
+3
+154 0
+155 10
+202 0
+2
+0 127 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient2 left right dispenser2
+3
+154 10
+155 0
+203 0
+2
+0 128 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient2 right left dispenser2
+3
+154 0
+155 10
+203 0
+2
+0 128 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient3 left right dispenser3
+3
+154 10
+155 0
+204 0
+2
+0 129 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient3 right left dispenser3
+3
+154 0
+155 10
+204 0
+2
+0 129 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient4 left right dispenser4
+3
+154 10
+155 0
+205 0
+2
+0 130 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot8 ingredient4 right left dispenser4
+3
+154 0
+155 10
+205 0
+2
+0 130 -1 0
+0 152 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient1 left right dispenser1
+3
+154 11
+155 0
+206 0
+2
+0 139 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient1 right left dispenser1
+3
+154 0
+155 11
+206 0
+2
+0 139 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient2 left right dispenser2
+3
+154 11
+155 0
+207 0
+2
+0 140 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient2 right left dispenser2
+3
+154 0
+155 11
+207 0
+2
+0 140 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient3 left right dispenser3
+3
+154 11
+155 0
+208 0
+2
+0 141 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient3 right left dispenser3
+3
+154 0
+155 11
+208 0
+2
+0 141 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient4 left right dispenser4
+3
+154 11
+155 0
+209 0
+2
+0 142 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+refill-shot shot9 ingredient4 right left dispenser4
+3
+154 0
+155 11
+209 0
+2
+0 142 -1 0
+0 153 0 1
+10
+end_operator
+begin_operator
+shake cocktail1 ingredient2 ingredient3 shaker1 left right
+2
+154 1
+155 0
+5
+0 11 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail1 ingredient2 ingredient3 shaker1 right left
+2
+154 0
+155 1
+5
+0 11 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail2 ingredient2 ingredient1 shaker1 left right
+2
+154 1
+155 0
+5
+0 12 -1 0
+0 19 0 1
+0 20 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail2 ingredient2 ingredient1 shaker1 right left
+2
+154 0
+155 1
+5
+0 12 -1 0
+0 19 0 1
+0 20 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail3 ingredient2 ingredient3 shaker1 left right
+2
+154 1
+155 0
+5
+0 13 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail3 ingredient2 ingredient3 shaker1 right left
+2
+154 0
+155 1
+5
+0 13 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail4 ingredient3 ingredient2 shaker1 left right
+2
+154 1
+155 0
+5
+0 14 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail4 ingredient3 ingredient2 shaker1 right left
+2
+154 0
+155 1
+5
+0 14 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail5 ingredient3 ingredient2 shaker1 left right
+2
+154 1
+155 0
+5
+0 15 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail5 ingredient3 ingredient2 shaker1 right left
+2
+154 0
+155 1
+5
+0 15 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail6 ingredient1 ingredient3 shaker1 left right
+2
+154 1
+155 0
+5
+0 16 -1 0
+0 19 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail6 ingredient1 ingredient3 shaker1 right left
+2
+154 0
+155 1
+5
+0 16 -1 0
+0 19 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail7 ingredient1 ingredient2 shaker1 left right
+2
+154 1
+155 0
+5
+0 17 -1 0
+0 19 0 1
+0 20 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail7 ingredient1 ingredient2 shaker1 right left
+2
+154 0
+155 1
+5
+0 17 -1 0
+0 19 0 1
+0 20 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail8 ingredient2 ingredient3 shaker1 left right
+2
+154 1
+155 0
+5
+0 18 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
+end_operator
+begin_operator
+shake cocktail8 ingredient2 ingredient3 shaker1 right left
+2
+154 0
+155 1
+5
+0 18 -1 0
+0 20 0 1
+0 21 0 1
+0 167 -1 0
+0 169 0 1
+1
 end_operator
 0
