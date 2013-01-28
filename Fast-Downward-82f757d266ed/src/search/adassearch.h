@@ -13,7 +13,7 @@
 #include "time.h"
 #include "priority_queue.h"
 #include "sliding_window.h"
-
+extern int dodd_time_limit;
 class Heuristic;
 class Operator;
 class ScalarEvaluator;
@@ -63,6 +63,7 @@ public:
     void statistics() const;
 
     void dump_search_space();
+void set_pref_operator_heuristics(vector<Heuristic *> &heur);
 };
 
 #endif

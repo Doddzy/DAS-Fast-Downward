@@ -12,7 +12,7 @@
 #include <cstdlib>
 #include <set>
 using namespace std;
-
+int dodd_time_limit =-1;
 DASSearch::DASSearch(
     const Options &opts)
     : SearchEngine(opts),
@@ -31,7 +31,10 @@ DASSearch::DASSearch(
 }
 void DASSearch::myinit(){
     incumbent=false;
-deadline=5000;
+if(dodd_time_limit==-1)
+    deadline=600000;
+else
+    deadline=dodd_time_limit;
     pruned_list = new HeapQueue<SearchNode *>();
     pruned_list->clear();
     start = clock();
@@ -202,7 +205,7 @@ std::cout<<"FOUND"<<endl;
         h->evaluate(s);
 //keep min heuristic value
         int temp = h->get_value();
-std::cout<<"temp is"<<temp<<endl;
+//std::cout<<"temp is"<<temp<<endl;
         if (!h->is_dead_end()) {
             // In an alternation search with unreliable heuristics, it is
             // possible that this heuristic considers the state a dead end.
@@ -441,7 +444,7 @@ void DASSearch::print_heuristic_values(const vector<int> &values) const {
 
 static SearchEngine *_parse_das(OptionParser &parser) {
     
-    parser.add_option<ScalarEvaluator *>("eval");
+   /* parser.add_option<ScalarEvaluator *>("eval");
     parser.add_option<bool>("pathmax", false,
                             "use pathmax correction");
     parser.add_option<bool>("mpd", false,
@@ -467,12 +470,58 @@ static SearchEngine *_parse_das(OptionParser &parser) {
 
         opts.set("open", open);
         opts.set("f_eval", f_eval);
+        opts.set("reopen_closed", true);*/
+ 
+            parser.add_list_option<ScalarEvaluator *>("evals");
+    parser.add_list_option<Heuristic *>("preferred", vector<Heuristic *>(), "use preferred operators of these heuristics");
+    parser.add_option<int>("boost", 0, "boost value for preferred operator open lists");
+    SearchEngine::add_options_to_parser(parser);
+
+
+    Options opts = parser.parse();
+    opts.verify_list_non_empty<ScalarEvaluator *>("evals");
+
+    DASSearch *engine = 0;
+    if (!parser.dry_run()) {
+        vector<ScalarEvaluator *> evals =
+            opts.get_list<ScalarEvaluator *>("evals");
+        vector<Heuristic *> preferred_list =
+            opts.get_list<Heuristic *>("preferred");
+        OpenList<state_var_t *> *open;
+        if ((evals.size() == 1) && preferred_list.empty()) {
+            open = new StandardScalarOpenList<state_var_t *>(evals[0], false);
+        } else {
+            vector<OpenList<state_var_t *> *> inner_lists;
+            for (int i = 0; i < evals.size(); i++) {
+                inner_lists.push_back(
+                    new StandardScalarOpenList<state_var_t *>(evals[i], false));
+                if (!preferred_list.empty()) {
+                    inner_lists.push_back(
+                        new StandardScalarOpenList<state_var_t *>(evals[i],
+                                                                  true));
+                }
+            }
+            open = new AlternationOpenList<state_var_t *>(
+                inner_lists, opts.get<int>("boost"));
+        }
+
+        opts.set("open", open);
         opts.set("reopen_closed", true);
+        opts.set("pathmax", false);
+        opts.set("mpd", false);
+        ScalarEvaluator *sep = 0;
+        opts.set("f_eval", sep);
+        opts.set("bound", numeric_limits<int>::max());
+        opts.set("preferred", preferred_list);
         engine = new DASSearch(opts);
+engine->set_pref_operator_heuristics(preferred_list);
 		
     }
 
     return engine;
+}
+void DASSearch::set_pref_operator_heuristics(vector<Heuristic *> &heur) {
+    preferred_operator_heuristics =heur;
 }
 
 static Plugin<SearchEngine> _plugin_das("das", _parse_das);

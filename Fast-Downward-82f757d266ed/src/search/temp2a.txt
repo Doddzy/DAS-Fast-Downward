@@ -1,0 +1,14 @@
+Dispatcher selected state size 1.
+This is a nonunit task.
+Simplifying transitions... done!
+Conducting lazy best first search, (real) bound = 2147483647
+Initializing landmark cut heuristic...
+Best heuristic value: 62 [g=0, 1 evaluated, 0 expanded, t=0.05s]
+Best heuristic value: 61 [g=25, 11 evaluated, 10 expanded, t=0.06s]
+Best heuristic value: 55 [g=33, 26 evaluated, 25 expanded, t=0.07s]
+Best heuristic value: 50 [g=40, 42 evaluated, 41 expanded, t=0.08s]
+Best heuristic value: 49 [g=53, 51 evaluated, 50 expanded, t=0.09s]
+Best heuristic value: 44 [g=90, 110 evaluated, 109 expanded, t=0.13s]
+Best heuristic value: 43 [g=96, 160 evaluated, 159 expanded, t=0.16s]
+Peak memory: 12632 KB
+caught signal 2 -- exiting

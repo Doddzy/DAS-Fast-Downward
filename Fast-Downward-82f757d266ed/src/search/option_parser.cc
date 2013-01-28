@@ -176,6 +176,10 @@ SearchEngine *OptionParser::parse_cmd_line(
         } else if (arg.compare("--landmarks") == 0) {
             ++i;
             predefine_lmgraph(argv[i], dry_run);
+	    }else if(arg.compare("--limit") == 0)
+	    {
+	        ++i;
+            dodd_time_limit=atoi(argv[i]);
         } else if (arg.compare("--search") == 0) {
             ++i;
             OptionParser p(argv[i], dry_run);

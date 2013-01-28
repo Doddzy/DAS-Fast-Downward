@@ -39,6 +39,7 @@ If NT shall be predefinable:
 #include <memory>
 #include "option_parser_util.h"
 #include "heuristic.h"
+#include "adassearch.h"
 
 class OptionParser;
 class LandmarkGraph;
